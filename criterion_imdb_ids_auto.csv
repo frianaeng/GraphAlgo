@@ -1,0 +1,1573 @@
+criterion_id,spine,criterion_title,criterion_year,criterion_director,criterion_country,imdb_tconst,imdb_primaryTitle,imdb_startYear,match_score,match_method
+0,1.0,Grand Illusion,1937.0,Jean Renoir,"France,",tt0028950,The Grand Illusion,1937.0,99.5,auto
+1,2.0,Seven Samurai,1954.0,Akira Kurosawa,"Japan,",tt0047478,Seven Samurai,1954.0,112.0,auto
+2,3.0,The Lady Vanishes,1938.0,Alfred Hitchcock,"United Kingdom,",tt0030341,The Lady Vanishes,1938.0,112.0,auto
+3,4.0,Amarcord,1973.0,Federico Fellini,"Italy,",tt0071129,Amarcord,1973.0,112.0,auto
+4,5.0,The 400 Blows,1959.0,François Truffaut,"France,",tt0053198,The 400 Blows,1959.0,112.0,auto
+5,6.0,Beauty and the Beast,1946.0,Jean Cocteau,"France,",tt0038348,Beauty and the Beast,1946.0,112.0,auto
+6,7.0,A Night to Remember,1958.0,Roy Ward Baker,"United Kingdom,",tt0051994,A Night to Remember,1958.0,112.0,auto
+7,8.0,The Killer,1989.0,John Woo,"Hong Kong,",tt0097202,The Killer,1989.0,112.0,auto
+8,9.0,Hard Boiled,1992.0,John Woo,"Hong Kong,",tt0104684,Hard Boiled,1992.0,112.0,auto
+9,10.0,Walkabout,1971.0,Nicolas Roeg,"United Kingdom,",tt0067959,Walkabout,1971.0,112.0,auto
+10,11.0,The Seventh Seal,1957.0,Ingmar Bergman,"Sweden,",tt0050976,The Seventh Seal,1957.0,112.0,auto
+11,12.0,This Is Spinal Tap,1984.0,Rob Reiner,"United States,",tt0088258,This Is Spinal Tap,1984.0,112.0,auto
+12,13.0,The Silence of the Lambs,1991.0,Jonathan Demme,"United States,",tt0102926,The Silence of the Lambs,1991.0,112.0,auto
+13,14.0,Samurai I: Musashi Miyamoto,1954.0,Hiroshi Inagaki,"Japan,",tt0047444,Samurai I: Musashi Miyamoto,1954.0,112.0,auto
+14,15.0,Samurai II: Duel at Ichijoji Temple,1955.0,Hiroshi Inagaki,"Japan,",tt0048579,Samurai II: Duel at Ichijoji Temple,1955.0,112.0,auto
+15,16.0,Samurai III: Duel at Ganryu Island,1956.0,Hiroshi Inagaki,"Japan,",tt0049710,Samurai III: Duel at Ganryu Island,1956.0,112.0,auto
+16,17.0,"Salò, or The 120 Days of Sodom",1976.0,Pier Paolo Pasolini,"Italy,",tt0073650,"Salò, or the 120 Days of Sodom",1975.0,106.0,auto
+17,18.0,The Naked Kiss,1964.0,Samuel Fuller,"United States,",tt0058390,The Naked Kiss,1964.0,112.0,auto
+18,19.0,Shock Corridor,1963.0,Samuel Fuller,"United States,",tt0057495,Shock Corridor,1963.0,112.0,auto
+19,20.0,Sid & Nancy,1986.0,Alex Cox,"United Kingdom,",tt0091954,Sid and Nancy,1986.0,112.0,auto
+20,21.0,Dead Ringers,1988.0,David Cronenberg,"United States,",tt0094964,Dead Ringers,1988.0,112.0,auto
+21,22.0,Summertime,1955.0,David Lean,"United States,",tt0048673,Summertime,1955.0,112.0,auto
+22,23.0,RoboCop,1987.0,Paul Verhoeven,"United States,",tt0093870,RoboCop,1987.0,112.0,auto
+23,24.0,High and Low,1963.0,Akira Kurosawa,"Japan,",tt0057565,High and Low,1963.0,112.0,auto
+24,25.0,Alphaville,1965.0,Jean-Luc Godard,"France,",tt0058898,Alphaville,1965.0,112.0,auto
+25,26.0,The Long Good Friday,1980.0,John Mackenzie,"United Kingdom,",tt0081070,The Long Good Friday,1980.0,112.0,auto
+26,27.0,Flesh for Frankenstein,1973.0,Paul Morrissey,"United States,",tt0071508,Flesh for Frankenstein,1973.0,112.0,auto
+27,28.0,Blood for Dracula,1974.0,Paul Morrissey,"United States,",tt0071233,Blood for Dracula,1974.0,112.0,auto
+28,29.0,Picnic at Hanging Rock,1975.0,Peter Weir,"Australia,",tt0073540,Picnic at Hanging Rock,1975.0,112.0,auto
+29,30.0,M,1931.0,Fritz Lang,"Germany,",tt0022100,M,1931.0,112.0,auto
+30,31.0,Great Expectations,1946.0,David Lean,"United Kingdom,",tt0038574,Great Expectations,1946.0,112.0,auto
+31,32.0,Oliver Twist,1948.0,David Lean,"United Kingdom,",tt0040662,Oliver Twist,1948.0,112.0,auto
+32,33.0,Nanook of the North,1922.0,Robert Flaherty,"United States,",tt0013427,Nanook of the North,1922.0,112.0,auto
+33,34.0,Andrei Rublev,1966.0,Andrei Tarkovsky,"Soviet Union,",tt0060107,Andrei Rublev,1966.0,112.0,auto
+34,35.0,Diabolique,1955.0,Henri-Georges Clouzot,"France,",tt0046911,Diabolique,1955.0,112.0,auto
+35,36.0,The Wages of Fear,1953.0,Henri-Georges Clouzot,"France,",tt0046268,The Wages of Fear,1953.0,112.0,auto
+36,37.0,Time Bandits,1981.0,Terry Gilliam,"United Kingdom,",tt0081633,Time Bandits,1981.0,112.0,auto
+37,38.0,Branded to Kill,1967.0,Seijun Suzuki,"Japan,",tt0061882,Branded to Kill,1967.0,112.0,auto
+38,39.0,Tokyo Drifter,1966.0,Seijun Suzuki,"Japan,",tt0061101,Tokyo Drifter,1966.0,112.0,auto
+39,40.0,Armageddon,1998.0,Michael Bay,"United States,",tt0120591,Armageddon,1998.0,112.0,auto
+40,41.0,Henry V,1944.0,Laurence Olivier,"United Kingdom,",tt0036910,Henry V,1944.0,112.0,auto
+42,43.0,Lord of the Flies,1963.0,Peter Brook,"United Kingdom,",tt0057261,Lord of the Flies,1963.0,112.0,auto
+43,44.0,The Red Shoes,1948.0,Michael Powell and Emeric Pressburger,"United Kingdom,",tt0040725,The Red Shoes,1948.0,112.0,auto
+44,45.0,Taste of Cherry,1997.0,Abbas Kiarostami,"Iran,",tt0120265,Taste of Cherry,1997.0,112.0,auto
+45,46.0,The Most Dangerous Game,1932.0,Ernest B. Schoedsack and Irving Pichel,"United States,",tt0023238,The Most Dangerous Game,1932.0,112.0,auto
+46,47.0,Insomnia,1997.0,Erik Skjoldbjærg,"Norway,",tt0119375,Insomnia,1997.0,112.0,auto
+47,48.0,Black Orpheus,1959.0,Marcel Camus,"France,",tt0053146,Black Orpheus,1959.0,112.0,auto
+48,49.0,Nights of Cabiria,1957.0,Federico Fellini,"Italy,",tt0050783,Nights of Cabiria,1957.0,112.0,auto
+49,50.0,And the Ship Sails On,1983.0,Federico Fellini,"Italy,",tt0087188,The Ship Sails On,1983.0,101.47368421052632,auto
+50,51.0,Brazil,1985.0,Terry Gilliam,"United Kingdom,",tt0088846,Brazil,1985.0,112.0,auto
+51,52.0,Yojimbo,1961.0,Akira Kurosawa,"Japan,",tt0055630,Yojimbo,1961.0,112.0,auto
+52,53.0,Sanjuro,1962.0,Akira Kurosawa,"Japan,",tt0056443,Sanjuro,1962.0,112.0,auto
+53,54.0,For All Mankind,1989.0,Al Reinert,"United States,",tt0097372,For All Mankind,1989.0,112.0,auto
+54,55.0,The Unbearable Lightness of Being,1988.0,Philip Kaufman,"United States,",tt0096332,The Unbearable Lightness of Being,1988.0,112.0,auto
+55,56.0,The 39 Steps,1935.0,Alfred Hitchcock,"United Kingdom,",tt0026029,The 39 Steps,1935.0,112.0,auto
+56,57.0,Charade,1963.0,Stanley Donen,"United States,",tt0056923,Charade,1963.0,112.0,auto
+57,58.0,Peeping Tom,1960.0,Michael Powell,"United Kingdom,",tt0054167,Peeping Tom,1960.0,112.0,auto
+58,59.0,The Night Porter,1974.0,Liliana Cavani,"Italy,",tt0071910,The Night Porter,1974.0,112.0,auto
+59,60.0,Autumn Sonata,1978.0,Ingmar Bergman,"Sweden,",tt0077711,Autumn Sonata,1978.0,112.0,auto
+60,61.0,Monty Python’s Life of Brian,1979.0,Terry Jones,"United Kingdom,",tt0079470,Monty Python's Life of Brian,1979.0,112.0,auto
+61,62.0,The Passion of Joan of Arc,1928.0,Carl Th. Dreyer,"France,",tt0019254,The Passion of Joan of Arc,1928.0,107.0,auto
+62,63.0,Carnival of Souls,1962.0,Herk Harvey,"United States,",tt0055830,Carnival of Souls,1962.0,112.0,auto
+63,64.0,The Third Man,1949.0,Carol Reed,"United Kingdom,",tt0041959,The Third Man,1949.0,112.0,auto
+64,65.0,Rushmore,1998.0,Wes Anderson,"United States,",tt0128445,Rushmore,1998.0,112.0,auto
+66,67.0,The Blood of a Poet,1930.0,Jean Cocteau,"France,",tt0021331,The Blood of a Poet,1932.0,94.0,auto
+67,68.0,Orpheus,1950.0,Jean Cocteau,"France,",tt0041719,Orpheus,1950.0,112.0,auto
+68,69.0,Testament of Orpheus,1959.0,Jean Cocteau,"France,",tt0054377,Testament of Orpheus,1960.0,106.0,auto
+69,70.0,The Last Temptation of Christ,1988.0,Martin Scorsese,"United States,",tt0095497,The Last Temptation of Christ,1988.0,112.0,auto
+70,71.0,The Magic Flute,1975.0,Ingmar Bergman,"Sweden,",tt0073822,The Magic Flute,1975.0,112.0,auto
+71,72.0,Le million,1931.0,René Clair,"France,",tt0022150,Le Million,1931.0,112.0,auto
+72,73.0,Cléo from 5 to 7,1962.0,Agnès Varda,"France,",tt0055852,Cléo from 5 to 7,1962.0,112.0,auto
+73,74.0,Vagabond,1985.0,Agnès Varda,"France,",tt0089960,Vagabond,1985.0,112.0,auto
+74,75.0,Chasing Amy,1997.0,Kevin Smith,"United States,",tt0118842,Chasing Amy,1997.0,112.0,auto
+75,76.0,Brief Encounter,1945.0,David Lean,"United Kingdom,",tt0037558,Brief Encounter,1945.0,112.0,auto
+76,77.0,And God Created Woman,1956.0,Roger Vadim,"France,",tt0049189,...And God Created Woman,1956.0,112.0,auto
+77,78.0,The Bank Dick,1940.0,Edward Cline,"United States,",tt0032234,The Bank Dick,1940.0,112.0,auto
+79,80.0,The Element of Crime,1984.0,Lars von Trier,"Denmark,",tt0087280,The Element of Crime,1984.0,112.0,auto
+80,81.0,Variety Lights,1950.0,Federico Fellini and Alberto Lattuada,"Italy,",tt0042692,Variety Lights,1950.0,112.0,auto
+81,82.0,Hamlet,1948.0,Laurence Olivier,"United Kingdom,",tt0040416,Hamlet,1948.0,112.0,auto
+82,83.0,The Harder They Come,1972.0,Perry Henzell,"United States,",tt0070155,The Harder They Come,1972.0,112.0,auto
+83,84.0,Good Morning,1959.0,Yasujiro Ozu,"Japan,",tt0053134,Good Morning,1959.0,112.0,auto
+84,85.0,Pygmalion,1938.0,Anthony Asquith and Leslie Howard,"United Kingdom,",tt0030637,Pygmalion,1938.0,112.0,auto
+86,87.0,Alexander Nevsky,1938.0,Sergei Eisenstein,"Soviet Union,",tt0029850,Alexander Nevsky,1938.0,112.0,auto
+88,88.0,"Ivan the Terrible, Part I",1944.0,Sergei Eisenstein,"Soviet Union,",tt0037824,"Ivan the Terrible, Part I",1944.0,112.0,auto
+89,89.0,Sisters,1973.0,Brian De Palma,"United States,",tt0070698,Sisters,1972.0,106.0,auto
+90,90.0,Kwaidan,1965.0,Masaki Kobayashi,"Japan,",tt0058279,Kwaidan,1964.0,106.0,auto
+91,91.0,The Blob,1958.0,Irvin S. Yeaworth Jr.,"United States,",tt0051418,The Blob,1958.0,112.0,auto
+92,92.0,Fiend Without a Face,1958.0,Arthur Crabtree,"United Kingdom,",tt0050393,Fiend Without a Face,1958.0,112.0,auto
+93,93.0,Black Narcissus,1947.0,Michael Powell and Emeric Pressburger,"United Kingdom,",tt0039192,Black Narcissus,1947.0,112.0,auto
+94,94.0,I Know Where I’m Going!,1945.0,Michael Powell and Emeric Pressburger,"United Kingdom,",tt0037800,I Know Where I'm Going!,1945.0,112.0,auto
+95,95.0,All That Heaven Allows,1955.0,Douglas Sirk,"United States,",tt0047811,All That Heaven Allows,1955.0,112.0,auto
+96,96.0,Written on the Wind,1956.0,Douglas Sirk,"United States,",tt0049966,Written on the Wind,1956.0,112.0,auto
+97,97.0,Do the Right Thing,1989.0,Spike Lee,"United States,",tt0097216,Do the Right Thing,1989.0,112.0,auto
+98,98.0,L’avventura,1960.0,Michelangelo Antonioni,"Italy,",tt0053619,L'Avventura,1960.0,112.0,auto
+99,99.0,Gimme Shelter,1970.0,"David Maysles, Albert Maysles, and Charlotte Zwerin","United States,",tt0065780,Gimme Shelter,1970.0,112.0,auto
+101,101.0,Cries and Whispers,1972.0,Ingmar Bergman,"Sweden,",tt0069467,Cries & Whispers,1972.0,112.0,auto
+102,102.0,The Discreet Charm of the Bourgeoisie,1972.0,Luis Buñuel,"France,",tt0068361,The Discreet Charm of the Bourgeoisie,1972.0,112.0,auto
+103,103.0,The Lady Eve,1941.0,Preston Sturges,"United States,",tt0033804,The Lady Eve,1941.0,112.0,auto
+104,104.0,Double Suicide,1969.0,Masahiro Shinoda,"Japan,",tt0064975,Double Suicide,1969.0,112.0,auto
+105,105.0,Spartacus,1960.0,Stanley Kubrick,"United States,",tt0054331,Spartacus,1960.0,112.0,auto
+106,106.0,Coup de torchon,1981.0,Bertrand Tavernier,"France,",tt0082206,Clean Slate,1981.0,112.0,auto
+107,107.0,Mona Lisa,1986.0,Neil Jordan,"United Kingdom,",tt0091538,Mona Lisa,1986.0,112.0,auto
+108,108.0,The Rock,1996.0,Michael Bay,"United States,",tt0117500,The Rock,1996.0,112.0,auto
+109,109.0,The Scarlet Empress,1934.0,Josef von Sternberg,"United States,",tt0025746,The Scarlet Empress,1934.0,112.0,auto
+110,110.0,Monsieur Hulot’s Holiday,1953.0,Jacques Tati,"France,",tt0046487,Monsieur Hulot's Holiday,1953.0,112.0,auto
+111,111.0,Mon oncle,1958.0,Jacques Tati,"France,",tt0050706,My Uncle,1958.0,112.0,auto
+112,112.0,PlayTime,1967.0,Jacques Tati,"France,",tt0062136,Playtime,1967.0,112.0,auto
+113,113.0,Big Deal on Madonna Street,1958.0,Mario Monicelli,"Italy,",tt0052216,Big Deal on Madonna Street,1958.0,112.0,auto
+114,114.0,My Man Godfrey,1936.0,Gregory La Cava,"United States,",tt0028010,My Man Godfrey,1936.0,112.0,auto
+115,115.0,Rififi,1955.0,Jules Dassin,"France,",tt0048021,Rififi,1955.0,112.0,auto
+116,116.0,The Hidden Fortress,1958.0,Akira Kurosawa,"Japan,",tt0051808,The Hidden Fortress,1958.0,112.0,auto
+117,117.0,Diary of a Chambermaid,1964.0,Luis Buñuel,"France,",tt0058249,Diary of a Chambermaid,1964.0,112.0,auto
+118,118.0,Sullivan’s Travels,1941.0,Preston Sturges,"United States,",tt0034240,Sullivan's Travels,1941.0,112.0,auto
+119,119.0,Withnail and I,1987.0,Bruce Robinson,"United Kingdom,",tt0094336,Withnail and I,1987.0,112.0,auto
+120,120.0,How to Get Ahead in Advertising,1989.0,Bruce Robinson,"United Kingdom,",tt0097531,How to Get Ahead in Advertising,1989.0,112.0,auto
+121,121.0,Billy Liar,1963.0,John Schlesinger,"United Kingdom,",tt0056868,Billy Liar,1963.0,112.0,auto
+122,122.0,Salesman,1969.0,"David Maysles, Albert Maysles, and Charlotte Zwerin","United States,",tt0064921,Salesman,1969.0,112.0,auto
+123,123.0,Grey Gardens,1975.0,"David Maysles, Albert Maysles, Ellen Hovde, and Muffie Meyer","United States,",tt0073076,Grey Gardens,1975.0,112.0,auto
+125,125.0,Day of Wrath,1943.0,Carl Th. Dreyer,"Denmark,",tt0036506,Day of Wrath,1943.0,107.0,auto
+126,126.0,Ordet,1955.0,Carl Th. Dreyer,"Denmark,",tt0048452,Ordet,1955.0,107.0,auto
+127,127.0,Gertrud,1964.0,Carl Th. Dreyer,"Denmark,",tt0058138,Gertrud,1964.0,107.0,auto
+129,129.0,Le trou,1960.0,Jacques Becker,"France,",tt0054407,The Hole,1960.0,112.0,auto
+130,130.0,The Shop on Main Street,1965.0,Ján Kadár and Elmar Klos,"Czechoslovakia,",tt0059527,The Shop on Main Street,1965.0,112.0,auto
+131,131.0,Closely Watched Trains,1966.0,Jiří Menzel,"Czechoslovakia,",tt0060802,Closely Watched Trains,1966.0,112.0,auto
+132,132.0,The Ruling Class,1972.0,Peter Medak,"United Kingdom,",tt0069198,The Ruling Class,1972.0,112.0,auto
+133,133.0,The Vanishing,1988.0,George Sluizer,"France,",tt0096163,The Vanishing,1988.0,112.0,auto
+134,134.0,Häxan,1922.0,Benjamin Christensen,"Denmark,",tt0013257,Häxan,1922.0,112.0,auto
+135,135.0,Rebecca,1940.0,Alfred Hitchcock,"United States,",tt0032976,Rebecca,1940.0,112.0,auto
+136,136.0,Spellbound,1945.0,Alfred Hitchcock,"United States,",tt0038109,Spellbound,1945.0,112.0,auto
+137,137.0,Notorious,1946.0,Alfred Hitchcock,"United States,",tt0038787,Notorious,1946.0,112.0,auto
+138,138.0,Rashomon,1950.0,Akira Kurosawa,"Japan,",tt0042876,Rashomon,1950.0,112.0,auto
+139,139.0,Wild Strawberries,1957.0,Ingmar Bergman,"Sweden,",tt0050986,Wild Strawberries,1957.0,112.0,auto
+140,140.0,8½,1963.0,Federico Fellini,"Italy,",tt0056801,8½,1963.0,112.0,auto
+141,141.0,Children of Paradise,1945.0,Marcel Carné,"France,",tt0037674,Children of Paradise,1945.0,112.0,auto
+142,142.0,The Last Wave,1977.0,Peter Weir,"Australia,",tt0076299,The Last Wave,1977.0,112.0,auto
+143,143.0,That Obscure Object of Desire,1977.0,Luis Buñuel,"France,",tt0075824,That Obscure Object of Desire,1977.0,112.0,auto
+144,144.0,Loves of a Blonde,1965.0,Miloš Forman,"Czechoslovakia,",tt0059415,Loves of a Blonde,1965.0,112.0,auto
+145,145.0,The Firemen’s Ball,1967.0,Miloš Forman,"Czechoslovakia,",tt0061781,The Firemen's Ball,1967.0,112.0,auto
+146,146.0,The Cranes Are Flying,1957.0,Mikhail Kalatozov,"Soviet Union,",tt0050634,The Cranes Are Flying,1957.0,112.0,auto
+147,147.0,In the Mood for Love,2000.0,Wong Kar Wai,"Hong Kong,",tt0118694,In the Mood for Love,2000.0,112.0,auto
+148,148.0,Ballad of a Soldier,1959.0,Grigori Chukhrai,"Soviet Union,",tt0052600,Ballad of a Soldier,1959.0,112.0,auto
+149,149.0,Juliet of the Spirits,1965.0,Federico Fellini,"Italy,",tt0059229,Juliet of the Spirits,1965.0,112.0,auto
+150,150.0,Bob le flambeur,1956.0,Jean-Pierre Melville,"France,",tt0047892,Bob le Flambeur,1956.0,112.0,auto
+151,151.0,Traffic,2000.0,Steven Soderbergh,"United States,",tt0181865,Traffic,2000.0,112.0,auto
+152,152.0,George Washington,2000.0,David Gordon Green,"United States,",tt0262432,George Washington,2000.0,112.0,auto
+153,153.0,General Idi Amin Dada: A Self-Portrait,1974.0,Barbet Schroeder,"France,",tt0071544,General Idi Amin Dada: A Self Portrait,1974.0,112.0,auto
+154,154.0,The Horse’s Mouth,1958.0,Ronald Neame,"United Kingdom,",tt0051739,The Horse's Mouth,1958.0,112.0,auto
+155,155.0,Tokyo Olympiad,1965.0,Kon Ichikawa,"Japan,",tt0059817,Tokyo Olympiad,1965.0,112.0,auto
+156,156.0,Hearts and Minds,1974.0,Peter Davis,"United States,",tt0071604,Hearts and Minds,1974.0,112.0,auto
+157,157.0,The Royal Tenenbaums,2001.0,Wes Anderson,"United States,",tt0265666,The Royal Tenenbaums,2001.0,112.0,auto
+158,158.0,The Importance of Being Earnest,1952.0,Anthony Asquith,"United Kingdom,",tt0044744,The Importance of Being Earnest,1952.0,112.0,auto
+159,159.0,Red Beard,1965.0,Akira Kurosawa,"Japan,",tt0058888,Red Beard,1965.0,112.0,auto
+160,160.0,À nous la liberté,1931.0,René Clair,"France,",tt0022599,À Nous la Liberté,1931.0,112.0,auto
+161,161.0,Under the Roofs of Paris,1930.0,René Clair,"France,",tt0021409,Under the Roofs of Paris,1930.0,112.0,auto
+162,162.0,Ratcatcher,1999.0,Lynne Ramsay,"United Kingdom,",tt0171685,Ratcatcher,1999.0,112.0,auto
+163,163.0,Hopscotch,1980.0,Ronald Neame,"United States,",tt0080889,Hopscotch,1980.0,112.0,auto
+164,164.0,Solaris,1972.0,Andrei Tarkovsky,"Soviet Union,",tt0069293,Solaris,1972.0,112.0,auto
+165,165.0,Man Bites Dog,1992.0,"Rémy Belvaux, André Bonzel, and Benoit Poelvoorde","Belgium,",tt0103905,Man Bites Dog,1992.0,112.0,auto
+166,166.0,Down by Law,1986.0,Jim Jarmusch,"United States,",tt0090967,Down by Law,1986.0,112.0,auto
+168,168.0,Monterey Pop,1968.0,D. A. Pennebaker,"United States,",tt0064689,Monterey Pop,1968.0,112.0,auto
+170,170.0,Trouble in Paradise,1932.0,Ernst Lubitsch,"United States,",tt0023622,Trouble in Paradise,1932.0,112.0,auto
+171,171.0,Contempt,1963.0,Jean-Luc Godard,"France,",tt0057345,Contempt,1963.0,112.0,auto
+172,172.0,Pépé le moko,1937.0,Julien Duvivier,"France,",tt0029453,Pépé le Moko,1937.0,112.0,auto
+173,173.0,The Life and Death of Colonel Blimp,1943.0,Michael Powell and Emeric Pressburger,"United Kingdom,",tt0036112,The Life and Death of Colonel Blimp,1943.0,112.0,auto
+174,174.0,Band of Outsiders,1964.0,Jean-Luc Godard,"France,",tt0057869,Band of Outsiders,1964.0,112.0,auto
+175,175.0,Fear and Loathing in Las Vegas,1998.0,Terry Gilliam,"United States,",tt0120669,Fear and Loathing in Las Vegas,1998.0,112.0,auto
+177,177.0,The Lost Honor of Katharina Blum,1975.0,Volker Schlöndorff and Margarethe von Trotta,"Germany,",tt0073858,The Lost Honor of Katharina Blum,1975.0,112.0,auto
+178,178.0,My Life as a Dog,1985.0,Lasse Hallström,"Sweden,",tt0089606,My Life as a Dog,1985.0,112.0,auto
+180,180.0,I Am Curious—Yellow,1967.0,Vilgot Sjöman,"Sweden,",tt0061834,I Am Curious (Yellow),1967.0,112.0,auto
+181,181.0,I Am Curious—Blue,1967.0,Vilgot Sjöman,"Sweden,",tt0063149,I Am Curious (Blue),1968.0,106.0,auto
+182,182.0,Straw Dogs,1971.0,Sam Peckinpah,"United States,",tt0067800,Straw Dogs,1971.0,112.0,auto
+183,183.0,Les dames du Bois de Boulogne,1945.0,Robert Bresson,"France,",tt0037630,The Ladies of the Bois de Boulogne,1945.0,112.0,auto
+186,186.0,Stolen Kisses,1968.0,François Truffaut,"France,",tt0062695,Stolen Kisses,1968.0,112.0,auto
+187,187.0,Bed and Board,1970.0,François Truffaut,"France,",tt0065651,Bed & Board,1970.0,112.0,auto
+188,188.0,Love on the Run,1979.0,François Truffaut,"France,",tt0078771,Love on the Run,1979.0,112.0,auto
+189,189.0,The White Sheik,1952.0,Federico Fellini,"Italy,",tt0044000,The White Sheik,1952.0,112.0,auto
+190,190.0,Throne of Blood,1957.0,Akira Kurosawa,"Japan,",tt0050613,Throne of Blood,1957.0,112.0,auto
+191,191.0,Jubilee,1978.0,Derek Jarman,"United Kingdom,",tt0076240,Jubilee,1978.0,112.0,auto
+192,192.0,Coup de grâce,1976.0,Volker Schlöndorff,"Germany,",tt0074515,Coup de Grâce,1976.0,112.0,auto
+193,193.0,Quai des Orfèvres,1947.0,Henri-Georges Clouzot,"France,",tt0039739,Jenny Lamour,1947.0,112.0,auto
+194,194.0,Il posto,1961.0,Ermanno Olmi,"Italy,",tt0055320,The Sound of Trumpets,1961.0,112.0,auto
+195,195.0,I fidanzati,1962.0,Ermanno Olmi,"Italy,",tt0055981,The Fiances,1963.0,106.0,auto
+196,196.0,Hiroshima mon amour,1959.0,Alain Resnais,"France,",tt0052893,Hiroshima Mon Amour,1959.0,112.0,auto
+198,198.0,Ali: Fear Eats the Soul,1974.0,Rainer Werner Fassbinder,"Germany,",tt0071141,Ali: Fear Eats the Soul,1974.0,112.0,auto
+199,199.0,Schizopolis,1996.0,Steven Soderbergh,"United States,",tt0117561,Schizopolis,1996.0,112.0,auto
+200,200.0,The Honeymoon Killers,1969.0,Leonard Kastle,"United States,",tt0064437,The Honeymoon Killers,1970.0,106.0,auto
+201,201.0,Umberto D.,1952.0,Vittorio De Sica,"Italy,",tt0045274,Umberto D.,1952.0,112.0,auto
+204,204.0,The Marriage of Maria Braun,1979.0,Rainer Werner Fassbinder,"West Germany,",tt0079095,The Marriage of Maria Braun,1979.0,112.0,auto
+205,205.0,Veronika Voss,1982.0,Rainer Werner Fassbinder,"West Germany,",tt0084654,Veronika Voss,1982.0,112.0,auto
+206,206.0,Lola,1981.0,Rainer Werner Fassbinder,"West Germany,",tt0082671,Lola,1981.0,112.0,auto
+207,207.0,The Pornographers,1966.0,Shohei Imamura,"Japan,",tt0060560,The Pornographers,1966.0,100.0,auto
+209,209.0,Through a Glass Darkly,1961.0,Ingmar Bergman,"Sweden,",tt0055499,Through a Glass Darkly,1961.0,112.0,auto
+210,210.0,Winter Light,1963.0,Ingmar Bergman,"Sweden,",tt0057358,Winter Light,1963.0,112.0,auto
+211,211.0,The Silence,1963.0,Ingmar Bergman,"Sweden,",tt0057611,The Silence,1963.0,112.0,auto
+212,213.0,Richard III,1955.0,Laurence Olivier,"United Kingdom,",tt0049674,Richard III,1955.0,112.0,auto
+214,215.0,Knife in the Water,1962.0,Roman Polanski,"Poland,",tt0056291,Knife in the Water,1962.0,112.0,auto
+215,216.0,The Rules of the Game,1939.0,Jean Renoir,"France,",tt0031885,The Rules of the Game,1939.0,112.0,auto
+216,217.0,Tokyo Story,1953.0,Yasujiro Ozu,"Japan,",tt0046438,Tokyo Story,1953.0,112.0,auto
+217,218.0,Le cercle rouge,1970.0,Jean-Pierre Melville,"France,",tt0065531,Le cercle rouge,1970.0,112.0,auto
+218,219.0,La strada,1954.0,Federico Fellini,"Italy,",tt0047528,La Strada,1954.0,112.0,auto
+219,220.0,Naked Lunch,1991.0,David Cronenberg,"Canada,",tt0102511,Naked Lunch,1991.0,112.0,auto
+220,221.0,Ikiru,1952.0,Akira Kurosawa,"Japan,",tt0044741,Ikiru,1952.0,112.0,auto
+221,222.0,Diary of a Country Priest,1951.0,Robert Bresson,"France,",tt0042619,Diary of a Country Priest,1951.0,112.0,auto
+222,223.0,Maîtresse,1976.0,Barbet Schroeder,"France,",tt0074883,Mistress,1976.0,112.0,auto
+223,224.0,Pickup on South Street,1953.0,Samuel Fuller,"United States,",tt0046187,Pickup on South Street,1953.0,112.0,auto
+224,225.0,Tunes of Glory,1960.0,Ronald Neame,"United Kingdom,",tt0054412,Tunes of Glory,1960.0,112.0,auto
+225,226.0,Onibaba,1964.0,Kaneto Shindo,"Japan,",tt0058430,Onibaba,1964.0,112.0,auto
+226,227.0,Le Corbeau,1943.0,Henri-Georges Clouzot,"France,",tt0035753,Le Corbeau,1943.0,112.0,auto
+227,228.0,Salvatore Giuliano,1962.0,Francesco Rosi,"Italy,",tt0055399,Salvatore Giuliano,1962.0,112.0,auto
+228,229.0,Scenes from a Marriage,1973.0,Ingmar Bergman,"Sweden,",tt6725014,Scenes from a Marriage,1974.0,106.0,auto
+229,230.0,3 Women,1977.0,Robert Altman,"United States,",tt0075612,3 Women,1977.0,112.0,auto
+230,231.0,The Testament of Dr. Mabuse,1933.0,Fritz Lang,"Germany,",tt0023563,The Testament of Dr. Mabuse,1933.0,112.0,auto
+232,233.0,Stray Dog,1949.0,Akira Kurosawa,"Japan,",tt0041699,Stray Dog,1949.0,112.0,auto
+233,234.0,The Tin Drum,1979.0,Volker Schlöndorff,"Germany,",tt0078875,The Tin Drum,1979.0,112.0,auto
+234,235.0,The Leopard,1963.0,Luchino Visconti,"Italy,",tt0057091,The Leopard,1963.0,112.0,auto
+235,236.0,Mamma Roma,1962.0,Pier Paolo Pasolini,"Italy,",tt0056215,Mamma Roma,1962.0,112.0,auto
+236,237.0,Smiles of a Summer Night,1955.0,Ingmar Bergman,"Sweden,",tt0048641,Smiles of a Summer Night,1955.0,112.0,auto
+237,238.0,A Woman Is a Woman,1961.0,Jean-Luc Godard,"France,",tt0055572,A Woman Is a Woman,1961.0,112.0,auto
+239,240.0,Early Summer,1951.0,Yasujiro Ozu,"Japan,",tt0043313,Early Summer,1951.0,112.0,auto
+241,242.0,The Golden Coach,1953.0,Jean Renoir,"France,",tt0044487,The Golden Coach,1952.0,106.0,auto
+242,243.0,French Cancan,1955.0,Jean Renoir,"France,",tt0046998,French Cancan,1955.0,112.0,auto
+243,244.0,Elena and Her Men,1956.0,Jean Renoir,"France,",tt0049177,Elena and Her Men,1956.0,112.0,auto
+244,245.0,Port of Shadows,1938.0,Marcel Carné,"France,",tt0030643,Port of Shadows,1938.0,112.0,auto
+245,246.0,I vitelloni,1953.0,Federico Fellini,"Italy,",tt0046521,I Vitelloni,1953.0,112.0,auto
+246,247.0,Slacker,1991.0,Richard Linklater,"United States,",tt0102943,Slacker,1990.0,106.0,auto
+247,248.0,Videodrome,1983.0,David Cronenberg,"Canada,",tt0086541,Videodrome,1983.0,112.0,auto
+248,249.0,The Battle of Algiers,1966.0,Gillo Pontecorvo,"Italy,",tt0058946,The Battle of Algiers,1966.0,112.0,auto
+250,251.0,Shadows,1959.0,John Cassavetes,"United States,",tt0053270,Shadows,1958.0,106.0,auto
+251,252.0,Faces,1968.0,John Cassavetes,"United States,",tt0062952,Faces,1968.0,112.0,auto
+252,253.0,A Woman Under the Influence,1974.0,John Cassavetes,"United States,",tt0072417,A Woman Under the Influence,1974.0,112.0,auto
+253,254.0,The Killing of a Chinese Bookie,1976.0,John Cassavetes,"United States,",tt0074749,The Killing of a Chinese Bookie,1976.0,112.0,auto
+254,255.0,Opening Night,1977.0,John Cassavetes,"United States,",tt0079672,Opening Night,1977.0,112.0,auto
+255,256.0,A Constant Forge,2000.0,Charles Kiselyak,"United States,",tt0346794,A Constant Forge,2000.0,112.0,auto
+256,257.0,Secret Honor,1984.0,Robert Altman,"United States,",tt0088074,Secret Honor,1984.0,112.0,auto
+258,259.0,Fat Girl,2001.0,Catherine Breillat,"France,",tt0243255,Fat Girl,2001.0,112.0,auto
+259,260.0,Eyes Without a Face,1960.0,Georges Franju,"France,",tt0053459,Eyes Without a Face,1960.0,112.0,auto
+263,264.0,The Making of Fanny and Alexander,1982.0,Ingmar Bergman,"Sweden,",tt0090955,The Making of Fanny and Alexander,1984.0,94.0,auto
+264,265.0,Short Cuts,1993.0,Robert Altman,"United States,",tt0108122,Short Cuts,1993.0,112.0,auto
+265,266.0,The King of Kings,1927.0,Cecil B. DeMille,"United States,",tt0018054,The King of Kings,1927.0,112.0,auto
+266,267.0,Kagemusha,1980.0,Akira Kurosawa,"Japan,",tt0080979,Kagemusha: The Shadow Warrior,1980.0,112.0,auto
+267,268.0,Youth of the Beast,1963.0,Seijun Suzuki,"Japan,",tt0057697,Youth of the Beast,1963.0,112.0,auto
+268,269.0,Fighting Elegy,1966.0,Seijun Suzuki,"Japan,",tt0060586,Fighting Elegy,1966.0,112.0,auto
+269,270.0,Casque d’or,1952.0,Jacques Becker,"France,",tt0043386,Casque d'Or,1952.0,112.0,auto
+270,271.0,Touchez pas au grisbi,1954.0,Jacques Becker,"France,",tt0046451,Don't Touch the Loot,1954.0,112.0,auto
+271,272.0,La commare secca,1962.0,Bernardo Bertolucci,"Italy,",tt0055858,The Grim Reaper,1962.0,112.0,auto
+272,273.0,Thieves’ Highway,1949.0,Jules Dassin,"United States,",tt0041958,Thieves' Highway,1949.0,112.0,auto
+273,274.0,Night and the City,1950.0,Jules Dassin,"United States,",tt0042788,Night and the City,1950.0,112.0,auto
+274,275.0,Tout va bien,1972.0,Jean-Luc Godard and Jean-Pierre Gorin,"France,",tt0069398,All's Well,1972.0,112.0,auto
+275,276.0,The River,1951.0,Jean Renoir,"France,",tt0043972,The River,1951.0,112.0,auto
+276,277.0,My Own Private Idaho,1991.0,Gus Van Sant,"United States,",tt0102494,My Own Private Idaho,1991.0,112.0,auto
+277,278.0,L’eclisse,1962.0,Michelangelo Antonioni,"Italy,",tt0056736,L'Eclisse,1962.0,112.0,auto
+278,279.0,Young Törless,1966.0,Volker Schlöndorff,"Germany,",tt0060574,Young Törless,1966.0,112.0,auto
+279,280.0,The Sword of Doom,1966.0,Kihachi Okamoto,"Japan,",tt0060277,The Sword of Doom,1966.0,112.0,auto
+280,281.0,Jules and Jim,1962.0,François Truffaut,"France,",tt0055032,Jules and Jim,1962.0,112.0,auto
+282,283.0,A Generation,1955.0,Andrzej Wajda,"Poland,",tt0048500,A Generation,1955.0,112.0,auto
+283,284.0,Kanal,1957.0,Andrzej Wajda,"Poland,",tt0050585,Kanal,1957.0,112.0,auto
+284,285.0,Ashes and Diamonds,1958.0,Andrzej Wajda,"Poland,",tt0052080,Ashes and Diamonds,1958.0,112.0,auto
+285,286.0,Divorce Italian Style,1961.0,Pietro Germi,"Italy,",tt0055913,Divorce Italian Style,1961.0,112.0,auto
+286,287.0,Burden of Dreams,1982.0,Les Blank,"United States,",tt0083702,Burden of Dreams,1982.0,112.0,auto
+287,288.0,F for Fake,1975.0,Orson Welles,"United States,",tt0072962,F for Fake,1973.0,94.0,auto
+288,289.0,Hoop Dreams,1994.0,Steve James,"United States,",tt0110057,Hoop Dreams,1994.0,112.0,auto
+289,290.0,The Phantom of Liberty,1974.0,Luis Buñuel,"France,",tt0071487,The Phantom of Liberty,1974.0,112.0,auto
+290,291.0,Heaven Can Wait,1943.0,Ernst Lubitsch,"United States,",tt0035979,Heaven Can Wait,1943.0,112.0,auto
+291,292.0,Unfaithfully Yours,1948.0,Preston Sturges,"United States,",tt0040919,Unfaithfully Yours,1948.0,112.0,auto
+292,293.0,The Flowers of St. Francis,1950.0,Roberto Rossellini,"Italy,",tt0042477,The Flowers of St. Francis,1950.0,112.0,auto
+293,294.0,The Browning Version,1951.0,Anthony Asquith,"United Kingdom,",tt0043362,The Browning Version,1951.0,112.0,auto
+294,295.0,Crazed Fruit,1956.0,Kô Nakahira,"Japan,",tt0160440,Crazed Fruit,1956.0,112.0,auto
+295,296.0,Le notti bianche,1957.0,Luchino Visconti,"Italy,",tt0050782,White Nights,1957.0,112.0,auto
+296,297.0,Au hasard Balthazar,1966.0,Robert Bresson,"France,",tt0060138,Au hasard Balthazar,1966.0,112.0,auto
+297,298.0,Gate of Flesh,1964.0,Seijun Suzuki,"Japan,",tt0058409,Gate of Flesh,1964.0,112.0,auto
+298,299.0,Story of a Prostitute,1965.0,Seijun Suzuki,"Japan,",tt0059715,Story of a Prostitute,1965.0,112.0,auto
+299,300.0,The Life Aquatic with Steve Zissou,2004.0,Wes Anderson,"United States,",tt0362270,The Life Aquatic with Steve Zissou,2004.0,112.0,auto
+300,301.0,An Angel at My Table,1990.0,Jane Campion,"New Zealand,",tt0099040,An Angel at My Table,1990.0,112.0,auto
+301,302.0,Harakiri,1962.0,Masaki Kobayashi,"Japan,",tt0056058,Harakiri,1962.0,112.0,auto
+302,303.0,Bad Timing,1980.0,Nicolas Roeg,"United Kingdom,",tt0080408,Bad Timing,1980.0,112.0,auto
+303,304.0,The Man Who Fell to Earth,1976.0,Nicolas Roeg,"United States,",tt0074851,The Man Who Fell to Earth,1976.0,112.0,auto
+304,305.0,Boudu Saved from Drowning,1932.0,Jean Renoir,"France,",tt0022718,Boudu Saved from Drowning,1932.0,112.0,auto
+305,306.0,Le samouraï,1967.0,Jean-Pierre Melville,"France,",tt0062229,Le Samouraï,1967.0,112.0,auto
+306,307.0,Naked,1993.0,Mike Leigh,"United Kingdom,",tt0107653,Naked,1993.0,112.0,auto
+307,308.0,Masculin féminin,1966.0,Jean-Luc Godard,"France,",tt0060675,Masculine Feminine,1966.0,112.0,auto
+308,309.0,Ugetsu,1953.0,Kenji Mizoguchi,"Japan,",tt0046478,Ugetsu,1953.0,112.0,auto
+309,310.0,Samurai Rebellion,1967.0,Masaki Kobayashi,"Japan,",tt0061847,Samurai Rebellion,1967.0,112.0,auto
+310,311.0,Sword of the Beast,1965.0,Hideo Gosha,"Japan,",tt0200768,Sword of the Beast,1965.0,112.0,auto
+311,312.0,Samurai Spy,1965.0,Masahiro Shinoda,"Japan,",tt0059303,Samurai Spy,1965.0,112.0,auto
+312,313.0,Kill!,1968.0,Kihachi Okamoto,"Japan,",tt0063186,Kill!,1968.0,112.0,auto
+313,314.0,Pickpocket,1959.0,Robert Bresson,"France,",tt0053168,Pickpocket,1959.0,112.0,auto
+314,315.0,Shoot the Piano Player,1960.0,François Truffaut,"France,",tt0054389,Shoot the Piano Player,1960.0,112.0,auto
+315,316.0,Ran,1985.0,Akira Kurosawa,"Japan,",tt0089881,Ran,1985.0,112.0,auto
+316,317.0,The Tales of Hoffmann,1951.0,Michael Powell and Emeric Pressburger,"United Kingdom,",tt0044103,The Tales of Hoffmann,1951.0,112.0,auto
+317,318.0,Forbidden Games,1952.0,René Clément,"France,",tt0043686,Forbidden Games,1952.0,112.0,auto
+318,319.0,The Bad Sleep Well,1960.0,Akira Kurosawa,"Japan,",tt0054460,The Bad Sleep Well,1960.0,112.0,auto
+319,320.0,Young Mr. Lincoln,1939.0,John Ford,"United States,",tt0032155,Young Mr. Lincoln,1939.0,112.0,auto
+320,321.0,The Virgin Spring,1960.0,Ingmar Bergman,"Sweden,",tt0053976,The Virgin Spring,1960.0,112.0,auto
+322,323.0,The Children Are Watching Us,1944.0,Vittorio De Sica,"Italy,",tt0034493,The Children Are Watching Us,1943.0,106.0,auto
+323,324.0,La bête humaine,1938.0,Jean Renoir,"France,",tt0029957,The Human Beast,1938.0,112.0,auto
+324,325.0,Kind Hearts and Coronets,1949.0,Robert Hamer,"United Kingdom,",tt0041546,Kind Hearts and Coronets,1949.0,112.0,auto
+325,326.0,Metropolitan,1990.0,Whit Stillman,"United States,",tt0100142,Metropolitan,1990.0,112.0,auto
+327,328.0,Murmur of the Heart,1971.0,Louis Malle,"France,",tt0067778,Murmur of the Heart,1971.0,112.0,auto
+328,329.0,"Lacombe, Lucien",1974.0,Louis Malle,"France,",tt0071733,"Lacombe, Lucien",1974.0,112.0,auto
+329,330.0,Au revoir les enfants,1987.0,Louis Malle,"France,",tt0092593,Au Revoir les Enfants,1987.0,112.0,auto
+330,331.0,Late Spring,1949.0,Yasujiro Ozu,"Japan,",tt0041154,Late Spring,1949.0,112.0,auto
+331,332.0,Viridiana,1961.0,Luis Buñuel,"Spain,",tt0055601,Viridiana,1961.0,112.0,auto
+332,333.0,Fists in the Pocket,1965.0,Marco Bellocchio,"Italy,",tt0059619,Fists in the Pocket,1965.0,112.0,auto
+333,334.0,Harlan County USA,1976.0,Barbara Kopple,"United States,",tt0074605,Harlan County U.S.A.,1976.0,95.33333333333334,auto
+334,335.0,Elevator to the Gallows,1958.0,Louis Malle,"France,",tt0051378,Elevator to the Gallows,1958.0,112.0,auto
+335,336.0,Dazed and Confused,1993.0,Richard Linklater,"United States,",tt0106677,Dazed and Confused,1993.0,112.0,auto
+336,337.0,À nos amours,1983.0,Maurice Pialat,"France,",tt0086650,To Our Loves,1983.0,112.0,auto
+337,338.0,Equinox,1970.0,Jack Woods,"United States,",tt0067055,Equinox,1970.0,112.0,auto
+338,339.0,Yi Yi,2000.0,Edward Yang,"Taiwan,",tt0244316,Yi Yi,2000.0,112.0,auto
+339,340.0,Koko: A Talking Gorilla,1978.0,Barbet Schroeder,"France,",tt0076097,Koko: A Talking Gorilla,1978.0,112.0,auto
+340,341.0,A Canterbury Tale,1944.0,Michael Powell and Emeric Pressburger,"United Kingdom,",tt0036695,A Canterbury Tale,1944.0,112.0,auto
+343,344.0,Suzanne’s Career,1963.0,Eric Rohmer,"France,",tt0056910,Suzanne's Career,1963.0,112.0,auto
+344,345.0,My Night at Maud’s,1969.0,Eric Rohmer,"France,",tt0064612,My Night at Maud's,1969.0,112.0,auto
+345,346.0,La collectionneuse,1967.0,Eric Rohmer,"France,",tt0061495,The Collector,1967.0,112.0,auto
+346,347.0,Claire’s Knee,1970.0,Eric Rohmer,"France,",tt0065772,Claire's Knee,1970.0,112.0,auto
+347,348.0,Love in the Afternoon,1972.0,Eric Rohmer,"France,",tt0068205,Love in the Afternoon,1972.0,112.0,auto
+348,349.0,Kicking and Screaming,1995.0,Noah Baumbach,"United States,",tt0113537,Kicking and Screaming,1995.0,112.0,auto
+349,350.0,Seduced and Abandoned,1964.0,Pietro Germi,"Italy,",tt0058564,Seduced and Abandoned,1964.0,112.0,auto
+350,351.0,The Spirit of the Beehive,1973.0,Víctor Erice,"Spain,",tt0070040,The Spirit of the Beehive,1973.0,112.0,auto
+351,352.0,Jigoku,1960.0,Nobuo Nakagawa,"Japan,",tt0154683,The Sinners of Hell,1960.0,112.0,auto
+352,353.0,Sólo con tu pareja,1991.0,Alfonso Cuarón,"Mexico,",tt0102958,Love in the Time of Hysteria,1991.0,112.0,auto
+353,354.0,"Clean, Shaven",1994.0,Lodge Kerrigan,"United States,",tt0106579,"Clean, Shaven",1993.0,106.0,auto
+354,355.0,Hands over the City,1963.0,Francesco Rosi,"Italy,",tt0057286,Hands Over the City,1963.0,112.0,auto
+355,356.0,Sweetie,1989.0,Jane Campion,"New Zealand,",tt0098725,Sweetie,1989.0,112.0,auto
+356,357.0,The Fallen Idol,1948.0,Carol Reed,"United Kingdom,",tt0040338,The Fallen Idol,1948.0,112.0,auto
+357,358.0,Pandora’s Box,1929.0,G. W. Pabst,"Germany,",tt0018737,Pandora's Box,1929.0,100.0,auto
+358,359.0,The Double Life of Véronique,1991.0,Krzysztof Kieślowski,"France,",tt0101765,The Double Life of Véronique,1991.0,100.0,auto
+360,361.0,The Beales of Grey Gardens,2006.0,Albert Maysles and David Maysles,"United States,",tt0839739,The Beales of Grey Gardens,2006.0,112.0,auto
+361,362.0,Border Radio,1987.0,"Allison Anders, Dean Lent, and Kurt Voss","United States,",tt0090766,Border Radio,1987.0,112.0,auto
+362,363.0,Mouchette,1967.0,Robert Bresson,"France,",tt0061996,Mouchette,1967.0,112.0,auto
+364,365.0,First Man into Space,1959.0,Robert Day,"United States,",tt0052805,First Man Into Space,1959.0,112.0,auto
+365,366.0,The Atomic Submarine,1959.0,Spencer G. Bennet,"United States,",tt0052587,The Atomic Submarine,1959.0,107.0,auto
+366,367.0,The Haunted Strangler,1958.0,Robert Day,"United States,",tt0051706,The Haunted Strangler,1958.0,112.0,auto
+367,368.0,Corridors of Blood,1959.0,Robert Day,"United States,",tt0051542,Corridors of Blood,1958.0,106.0,auto
+369,370.0,The Emperor Jones,1933.0,Dudley Murphy,"United States,",tt0023985,The Emperor Jones,1933.0,112.0,auto
+370,371.0,Body and Soul,1925.0,Oscar Micheaux,"United States,",tt0015634,Body and Soul,1925.0,112.0,auto
+371,372.0,Sanders of the River,1935.0,Zoltán Korda,"United Kingdom,",tt0026966,Sanders of the River,1935.0,107.0,auto
+372,373.0,The Proud Valley,1940.0,Pen Tennyson,"United Kingdom,",tt0031828,The Tunnel,1940.0,112.0,auto
+373,374.0,Bicycle Thieves,1948.0,Vittorio De Sica,"Italy,",tt0040522,Bicycle Thieves,1948.0,112.0,auto
+374,375.0,Green for Danger,1946.0,Sidney Gilliat,"United Kingdom,",tt0038577,Green for Danger,1946.0,112.0,auto
+375,376.0,49th Parallel,1941.0,Michael Powell,"United Kingdom,",tt0033627,The Invaders,1941.0,112.0,auto
+376,377.0,When a Woman Ascends the Stairs,1960.0,Mikio Naruse,"Japan,",tt0054144,When a Woman Ascends the Stairs,1960.0,112.0,auto
+377,378.0,Fires on the Plain,1959.0,Kon Ichikawa,"Japan,",tt0053121,Fires on the Plain,1959.0,112.0,auto
+378,379.0,The Burmese Harp,1956.0,Kon Ichikawa,"Japan,",tt0049012,The Burmese Harp,1956.0,112.0,auto
+379,380.0,The Naked City,1948.0,Jules Dassin,"United States,",tt0040636,The Naked City,1948.0,112.0,auto
+380,381.0,La haine,1995.0,Mathieu Kassovitz,"France,",tt0113247,La haine,1995.0,112.0,auto
+381,382.0,Overlord,1975.0,Stuart Cooper,"United Kingdom,",tt0073502,Overlord,1975.0,112.0,auto
+382,383.0,Brute Force,1947.0,Jules Dassin,"United States,",tt0039224,Brute Force,1947.0,112.0,auto
+383,384.0,Vengeance Is Mine,1979.0,Shohei Imamura,"Japan,",tt0079182,Vengeance Is Mine,1979.0,100.0,auto
+384,385.0,Army of Shadows,1969.0,Jean-Pierre Melville,"France,",tt0064040,Army of Shadows,1969.0,112.0,auto
+385,386.0,Sansho the Bailiff,1954.0,Kenji Mizoguchi,"Japan,",tt0047445,Sansho the Bailiff,1954.0,112.0,auto
+387,388.0,The Two of Us,1967.0,Claude Berri,"France,",tt0063771,The Two of Us,1967.0,112.0,auto
+388,389.0,WR: Mysteries of the Organism,1971.0,Dušan Makavejev,"Yugoslavia,",tt0067958,WR: Mysteries of the Organism,1971.0,107.0,auto
+389,390.0,Sweet Movie,1974.0,Dušan Makavejev,"France,",tt0072235,Sweet Movie,1974.0,107.0,auto
+390,391.0,If....,1969.0,Lindsay Anderson,"United Kingdom,",tt0063850,If....,1968.0,106.0,auto
+392,393.0,Pitfall,1962.0,Hiroshi Teshigahara,"Japan,",tt0203612,Pitfall,1962.0,112.0,auto
+393,394.0,Woman in the Dunes,1964.0,Hiroshi Teshigahara,"Japan,",tt0058625,Woman in the Dunes,1964.0,112.0,auto
+394,395.0,The Face of Another,1966.0,Hiroshi Teshigahara,"Japan,",tt0061065,The Face of Another,1966.0,112.0,auto
+395,396.0,Ace in the Hole,1951.0,Billy Wilder,"United States,",tt0043338,Ace in the Hole,1951.0,112.0,auto
+396,397.0,Ivan’s Childhood,1962.0,Andrei Tarkovsky,"Soviet Union,",tt0056111,Ivan's Childhood,1962.0,112.0,auto
+397,398.0,Les enfants terribles,1950.0,Jean-Pierre Melville,"France,",tt0042436,The Terrible Children,1950.0,112.0,auto
+398,399.0,House of Games,1987.0,David Mamet,"United States,",tt0093223,House of Games,1987.0,112.0,auto
+399,400.0,Stranger Than Paradise,1984.0,Jim Jarmusch,"United States,",tt0088184,Stranger Than Paradise,1984.0,112.0,auto
+400,401.0,Night on Earth,1991.0,Jim Jarmusch,"United States,",tt0102536,Night on Earth,1991.0,112.0,auto
+401,402.0,The Milky Way,1969.0,Luis Buñuel,"France,",tt0066534,The Milky Way,1969.0,112.0,auto
+402,403.0,Cría cuervos . . .,1976.0,Carlos Saura,"Spain,",tt0074360,Cría Cuervos,1976.0,112.0,auto
+403,404.0,Robinson Crusoe on Mars,1964.0,Byron Haskin,"United States,",tt0058530,Robinson Crusoe on Mars,1964.0,112.0,auto
+404,405.0,The Threepenny Opera,1931.0,G. W. Pabst,"Germany,",tt0021818,The Threepenny Opera,1931.0,100.0,auto
+406,407.0,Mala Noche,1985.0,Gus Van Sant,"United States,",tt0089537,Mala Noche,1986.0,106.0,auto
+407,408.0,Breathless,1960.0,Jean-Luc Godard,"France,",tt0053472,Breathless,1960.0,112.0,auto
+408,409.0,Days of Heaven,1978.0,Terrence Malick,"United States,",tt0077405,Days of Heaven,1978.0,112.0,auto
+409,410.0,Under the Volcano,1984.0,John Huston,"United States,",tt0088322,Under the Volcano,1984.0,112.0,auto
+411,412.0,Sawdust and Tinsel,1953.0,Ingmar Bergman,"Sweden,",tt0045848,Sawdust and Tinsel,1953.0,112.0,auto
+412,413.0,Drunken Angel,1948.0,Akira Kurosawa,"Japan,",tt0040979,Drunken Angel,1948.0,112.0,auto
+413,414.0,Two-Lane Blacktop,1971.0,Monte Hellman,"United States,",tt0067893,Two-Lane Blacktop,1971.0,112.0,auto
+414,415.0,The Naked Prey,1965.0,Cornel Wilde,"United States,",tt0060736,The Naked Prey,1965.0,112.0,auto
+415,416.0,Miss Julie,1951.0,Alf Sjöberg,"Sweden,",tt0043567,Miss Julie,1951.0,112.0,auto
+416,417.0,This Sporting Life,1963.0,Lindsay Anderson,"United Kingdom,",tt0057578,This Sporting Life,1963.0,112.0,auto
+418,419.0,La Pointe Courte,1955.0,Agnès Varda,"France,",tt0048499,La Pointe Courte,1955.0,112.0,auto
+419,420.0,Le bonheur,1965.0,Agnès Varda,"France,",tt0058985,Happiness,1965.0,112.0,auto
+420,421.0,Pierrot le fou,1965.0,Jean-Luc Godard,"France,",tt0059592,Pierrot le Fou,1965.0,112.0,auto
+421,422.0,The Last Emperor,1987.0,Bernardo Bertolucci,"China,",tt0093389,The Last Emperor,1987.0,112.0,auto
+422,423.0,Walker,1987.0,Alex Cox,"United States,",tt0096409,Walker,1987.0,112.0,auto
+423,424.0,Mafioso,1962.0,Alberto Lattuada,"Italy,",tt0056210,Mafioso,1962.0,112.0,auto
+424,425.0,Antonio Gaudí,1984.0,Hiroshi Teshigahara,"Japan,",tt0086907,Antonio Gaudí,1984.0,112.0,auto
+425,426.0,The Ice Storm,1997.0,Ang Lee,"United States,",tt0119349,The Ice Storm,1997.0,112.0,auto
+426,427.0,Death of a Cyclist,1955.0,Juan Antonio Bardem,"Spain,",tt0048394,Death of a Cyclist,1955.0,112.0,auto
+427,428.0,Blast of Silence,1961.0,Allen Baron,"United States,",tt0054687,Blast of Silence,1961.0,112.0,auto
+428,429.0,The Lovers,1958.0,Louis Malle,"France,",tt0052556,The Lovers,1958.0,112.0,auto
+429,430.0,The Fire Within,1963.0,Louis Malle,"France,",tt0057058,The Fire Within,1963.0,112.0,auto
+430,431.0,The Thief of Bagdad,1940.0,"Ludwig Berger, Michael Powell, and Tim Whelan","United Kingdom,",tt0033152,The Thief of Bagdad,1940.0,112.0,auto
+431,432.0,Mishima: A Life in Four Chapters,1985.0,Paul Schrader,"United States,",tt0089603,Mishima: A Life in Four Chapters,1985.0,112.0,auto
+433,434.0,Classe tous risques,1960.0,Claude Sautet,"France,",tt0052698,The Big Risk,1960.0,112.0,auto
+434,435.0,The Furies,1950.0,Anthony Mann,"United States,",tt0042490,The Furies,1950.0,112.0,auto
+435,436.0,Before the Rain,1994.0,Milcho Manchevski,"Republic of Macedonia,",tt0110882,Before the Rain,1994.0,112.0,auto
+436,437.0,Vampyr,1932.0,Carl Th. Dreyer,"Denmark,",tt0023649,Vampyr,1932.0,107.0,auto
+437,438.0,Mon oncle Antoine,1971.0,Claude Jutra,"Canada,",tt0067439,My Uncle Antoine,1971.0,112.0,auto
+438,439.0,Trafic,1971.0,Jacques Tati,"France,",tt0069400,Traffic,1971.0,112.0,auto
+439,440.0,Brand upon the Brain!,2006.0,Guy Maddin,"Canada,",tt0443455,Brand Upon the Brain!,2006.0,112.0,auto
+440,441.0,The Small Back Room,1949.0,Michael Powell and Emeric Pressburger,"United Kingdom,",tt0041886,The Small Back Room,1949.0,112.0,auto
+441,442.0,Twenty-Four Eyes,1954.0,Keisuke Kinoshita,"Japan,",tt0047281,Twenty-Four Eyes,1954.0,112.0,auto
+442,443.0,La ronde,1950.0,Max Ophuls,"France,",tt0042906,La Ronde,1950.0,100.0,auto
+443,444.0,Le plaisir,1952.0,Max Ophuls,"France,",tt0045034,Le Plaisir,1952.0,100.0,auto
+444,445.0,The Earrings of Madame de . . .,1953.0,Max Ophuls,"France,",tt0046022,The Earrings of Madame De...,1953.0,100.0,auto
+445,446.0,An Autumn Afternoon,1962.0,Yasujiro Ozu,"Japan,",tt0056444,An Autumn Afternoon,1962.0,112.0,auto
+446,447.0,Le doulos,1962.0,Jean-Pierre Melville,"France,",tt0054821,Le Doulos,1962.0,112.0,auto
+447,448.0,Le deuxième souffle,1966.0,Jean-Pierre Melville,"France,",tt0060305,Le deuxième souffle,1966.0,112.0,auto
+448,449.0,Missing,1982.0,Costa-Gavras,"United States,",tt0084335,Missing,1982.0,112.0,auto
+449,450.0,Bottle Rocket,1996.0,Wes Anderson,"United States,",tt0115734,Bottle Rocket,1996.0,112.0,auto
+450,451.0,Fanfan la Tulipe,1952.0,Christian-Jaque,"France,",tt0044602,Fanfan la Tulipe,1952.0,112.0,auto
+451,452.0,The Spy Who Came in from the Cold,1965.0,Martin Ritt,"United States,",tt0059749,The Spy Who Came in from the Cold,1965.0,112.0,auto
+452,453.0,Chungking Express,1994.0,Wong Kar Wai,"Hong Kong,",tt0109424,Chungking Express,1994.0,112.0,auto
+453,454.0,Europa,1991.0,Lars von Trier,"Denmark,",tt0101829,Europa,1991.0,112.0,auto
+454,455.0,White Dog,1982.0,Samuel Fuller,"United States,",tt0084899,White Dog,1982.0,112.0,auto
+455,456.0,The Taking of Power by Louis XIV,1966.0,Roberto Rossellini,"Italy,",tt0060860,The Taking of Power by Louis XIV,1966.0,112.0,auto
+456,457.0,Magnificent Obsession,1954.0,Douglas Sirk,"United States,",tt0047203,Magnificent Obsession,1954.0,112.0,auto
+457,458.0,El Norte,1983.0,Gregory Nava,"Guatemala,",tt0085482,El Norte,1983.0,112.0,auto
+458,459.0,The Exterminating Angel,1962.0,Luis Buñuel,"Mexico,",tt0056732,The Exterminating Angel,1962.0,112.0,auto
+459,460.0,Simon of the Desert,1965.0,Luis Buñuel,"Mexico,",tt0059719,Simon of the Desert,1965.0,112.0,auto
+460,461.0,Hobson’s Choice,1954.0,David Lean,"United Kingdom,",tt0047094,Hobson's Choice,1954.0,112.0,auto
+461,462.0,The Last Metro,1980.0,François Truffaut,"France,",tt0080610,The Last Metro,1980.0,112.0,auto
+462,463.0,Il Generale Della Rovere,1959.0,Roberto Rossellini,"Italy,",tt0053856,General Della Rovere,1959.0,112.0,auto
+463,464.0,Danton,1983.0,Andrzej Wajda,"France,",tt0083789,Danton,1983.0,112.0,auto
+464,465.0,Dodes’ka-den,1970.0,Akira Kurosawa,"Japan,",tt0065649,Dodes'ka-den,1970.0,112.0,auto
+465,466.0,In the Realm of the Senses,1976.0,Nagisa Oshima,"Japan,",tt0074102,In the Realm of the Senses,1976.0,112.0,auto
+466,467.0,Empire of Passion,1978.0,Nagisa Oshima,"Japan,",tt0077132,Empire of Passion,1978.0,112.0,auto
+468,469.0,The Hit,1984.0,Stephen Frears,"United Kingdom,",tt0087414,The Hit,1984.0,112.0,auto
+469,470.0,Wise Blood,1979.0,John Huston,"United States,",tt0080140,Wise Blood,1979.0,112.0,auto
+471,472.0,Pigs and Battleships,1962.0,Shohei Imamura,"Japan,",tt0054709,Pigs and Battleships,1961.0,94.0,auto
+472,473.0,The Insect Woman,1963.0,Shohei Imamura,"Japan,",tt0057363,The Insect Woman,1963.0,100.0,auto
+473,474.0,Intentions of Murder,1964.0,Shohei Imamura,"Japan,",tt0057829,Intentions of Murder,1964.0,100.0,auto
+474,475.0,The Friends of Eddie Coyle,1973.0,Peter Yates,"United States,",tt0070077,The Friends of Eddie Coyle,1973.0,112.0,auto
+475,476.0,The Curious Case of Benjamin Button,2008.0,David Fincher,"United States,",tt0421715,The Curious Case of Benjamin Button,2008.0,112.0,auto
+476,477.0,Bergman Island,2006.0,Marie Nyreröd,"Sweden,",tt0469772,Bergman Island,2004.0,94.0,auto
+477,478.0,Last Year at Marienbad,1961.0,Alain Resnais,"France,",tt0054632,Last Year at Marienbad,1961.0,112.0,auto
+478,479.0,My Dinner with André,1981.0,Louis Malle,"United States,",tt0082783,My Dinner with Andre,1981.0,109.43589743589743,auto
+480,481.0,Made in U.S.A,1966.0,Jean-Luc Godard,"France,",tt0060647,Made in U.S.A,1966.0,112.0,auto
+481,482.0,2 or 3 Things I Know About Her,1967.0,Jean-Luc Godard,"France,",tt0060304,2 or 3 Things I Know About Her,1967.0,112.0,auto
+482,483.0,Repulsion,1965.0,Roman Polanski,"United Kingdom,",tt0059646,Repulsion,1965.0,112.0,auto
+483,484.0,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",1975.0,Chantal Akerman,"France,",tt0073198,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",1975.0,112.0,auto
+484,485.0,The Last Days of Disco,1998.0,Whit Stillman,"United States,",tt0120728,The Last Days of Disco,1998.0,112.0,auto
+485,486.0,Homicide,1991.0,David Mamet,"United States,",tt0102048,Homicide,1991.0,112.0,auto
+486,487.0,That Hamilton Woman,1941.0,Alexander Korda,"United Kingdom,",tt0034272,That Hamilton Woman,1941.0,112.0,auto
+487,488.0,Howards End,1992.0,James Ivory,"United Kingdom,",tt0104454,Howards End,1992.0,112.0,auto
+488,489.0,Monsoon Wedding,2001.0,Mira Nair,"India,",tt0265343,Monsoon Wedding,2001.0,112.0,auto
+489,490.0,Wings of Desire,1987.0,Wim Wenders,"Germany,",tt0093191,Wings of Desire,1987.0,112.0,auto
+490,491.0,Z,1969.0,Costa-Gavras,"Greece,",tt0065234,Z,1969.0,112.0,auto
+491,492.0,A Christmas Tale,2008.0,Arnaud Desplechin,"France,",tt0993789,A Christmas Tale,2008.0,112.0,auto
+492,493.0,Gomorrah,2008.0,Matteo Garrone,"Italy,",tt0929425,Gomorrah,2008.0,112.0,auto
+493,494.0,Downhill Racer,1969.0,Michael Ritchie,"United States,",tt0064253,Downhill Racer,1969.0,112.0,auto
+496,497.0,Rome Open City,1945.0,Roberto Rossellini,"Italy,",tt0038890,"Rome, Open City",1945.0,112.0,auto
+497,498.0,Paisan,1946.0,Roberto Rossellini,"Italy,",tt0038823,Paisan,1946.0,112.0,auto
+498,499.0,Germany Year Zero,1948.0,Roberto Rossellini,"Italy,",tt0039417,Germany Year Zero,1948.0,112.0,auto
+500,501.0,"Paris, Texas",1984.0,Wim Wenders,"Germany,",tt0087884,"Paris, Texas",1984.0,112.0,auto
+501,502.0,Revanche,2008.0,Götz Spielmann,"Austria,",tt1173745,Revanche,2008.0,112.0,auto
+502,503.0,Lola Montès,1955.0,Max Ophuls,"Germany,",tt0048308,Lola Montès,1955.0,100.0,auto
+503,504.0,Hunger,2008.0,Steve McQueen,"Ireland,",tt0986233,Hunger,2008.0,112.0,auto
+504,505.0,Make Way for Tomorrow,1937.0,Leo McCarey,"United States,",tt0029192,Make Way for Tomorrow,1937.0,112.0,auto
+505,506.0,Dillinger Is Dead,1969.0,Marco Ferreri,"Italy,",tt0062893,Dillinger Is Dead,1969.0,112.0,auto
+506,507.0,Bigger Than Life,1956.0,Nicholas Ray,"United States,",tt0049010,Bigger Than Life,1956.0,112.0,auto
+508,509.0,Ossos,1997.0,Pedro Costa,"Portugal,",tt0119844,Bones,1997.0,112.0,auto
+509,510.0,In Vanda’s Room,2000.0,Pedro Costa,"Portugal,",tt0139500,In Vanda's Room,2000.0,112.0,auto
+510,511.0,Colossal Youth,2006.0,Pedro Costa,"Portugal,",tt0460480,Colossal Youth,2006.0,112.0,auto
+511,512.0,Vivre sa vie,1962.0,Jean-Luc Godard,"France,",tt0056663,Vivre sa vie,1962.0,112.0,auto
+512,513.0,Summer Hours,2008.0,Olivier Assayas,"France,",tt0836700,Summer Hours,2008.0,112.0,auto
+513,514.0,Ride with the Devil,1999.0,Ang Lee,"United States,",tt0134154,Ride with the Devil,1999.0,112.0,auto
+514,515.0,The Fugitive Kind,1960.0,Sidney Lumet,"United States,",tt0052832,The Fugitive Kind,1960.0,112.0,auto
+515,516.0,Stagecoach,1939.0,John Ford,"United States,",tt0031971,Stagecoach,1939.0,112.0,auto
+518,519.0,Close-up,1990.0,Abbas Kiarostami,"Iran,",tt0100234,Close-Up,1990.0,112.0,auto
+519,520.0,Everlasting Moments,2008.0,Jan Troell,"Sweden,",tt0961066,Everlasting Moments,2008.0,112.0,auto
+520,521.0,Mystery Train,1989.0,Jim Jarmusch,"United States,",tt0097940,Mystery Train,1989.0,112.0,auto
+521,522.0,Red Desert,1964.0,Michelangelo Antonioni,"France,",tt0058003,Red Desert,1964.0,112.0,auto
+522,523.0,Night Train to Munich,1940.0,Carol Reed,"United Kingdom,",tt0032842,Night Train to Munich,1940.0,112.0,auto
+524,525.0,The Only Son,1936.0,Yasujiro Ozu,"Japan,",tt0027752,The Only Son,1936.0,112.0,auto
+525,526.0,There Was a Father,1942.0,Yasujiro Ozu,"Japan,",tt0034591,There Was a Father,1942.0,112.0,auto
+526,527.0,The Secret of the Grain,2007.0,Abdellatif Kechiche,"France,",tt0487419,The Secret of the Grain,2007.0,112.0,auto
+528,529.0,Underworld,1927.0,Josef von Sternberg,"United States,",tt0018526,Underworld,1927.0,112.0,auto
+529,530.0,The Last Command,1928.0,Josef von Sternberg,"United States,",tt0019071,The Last Command,1928.0,112.0,auto
+530,531.0,The Docks of New York,1928.0,Josef von Sternberg,"United States,",tt0018839,The Docks of New York,1928.0,112.0,auto
+531,532.0,Louie Bluie,1985.0,Terry Zwigoff,"United States,",tt0089507,Louie Bluie,1985.0,112.0,auto
+532,533.0,Crumb,1995.0,Terry Zwigoff,"United States,",tt0109508,Crumb,1994.0,106.0,auto
+533,534.0,L’enfance nue,1968.0,Maurice Pialat,"France,",tt0065695,Naked Childhood,1968.0,112.0,auto
+534,535.0,Merry Christmas Mr. Lawrence,1983.0,Nagisa Oshima,"United Kingdom,",tt0085933,Merry Christmas Mr. Lawrence,1983.0,112.0,auto
+535,536.0,The Thin Red Line,1998.0,Terrence Malick,"United States,",tt0120863,The Thin Red Line,1998.0,112.0,auto
+536,537.0,The Magician,1958.0,Ingmar Bergman,"Sweden,",tt0051365,The Magician,1958.0,112.0,auto
+537,538.0,Paths of Glory,1957.0,Stanley Kubrick,"United States,",tt0050825,Paths of Glory,1957.0,112.0,auto
+538,539.0,House,1977.0,Nobuhiko Obayashi,"Japan,",tt0076162,House,1977.0,100.0,auto
+539,540.0,The Darjeeling Limited,2007.0,Wes Anderson,"United States,",tt0838221,The Darjeeling Limited,2007.0,112.0,auto
+540,541.0,The Night of the Hunter,1955.0,Charles Laughton,"United States,",tt0048424,The Night of the Hunter,1955.0,112.0,auto
+541,542.0,Antichrist,2009.0,Lars von Trier,"Denmark,",tt0870984,Antichrist,2009.0,112.0,auto
+542,543.0,Modern Times,1936.0,Charles Chaplin,"United States,",tt0027977,Modern Times,1936.0,112.0,auto
+543,544.0,Head,1968.0,Bob Rafelson,"United States,",tt0063049,Head,1968.0,112.0,auto
+544,545.0,Easy Rider,1969.0,Dennis Hopper,"United States,",tt0064276,Easy Rider,1969.0,112.0,auto
+545,546.0,Five Easy Pieces,1970.0,Bob Rafelson,"United States,",tt0065724,Five Easy Pieces,1970.0,112.0,auto
+546,547.0,"Drive, He Said",1970.0,Jack Nicholson,"United States,",tt0068509,"Drive, He Said",1971.0,106.0,auto
+547,548.0,A Safe Place,1971.0,Henry Jaglom,"United States,",tt0067699,A Safe Place,1971.0,112.0,auto
+548,549.0,The Last Picture Show,1971.0,Peter Bogdanovich,"United States,",tt0067328,The Last Picture Show,1971.0,112.0,auto
+549,550.0,The King of Marvin Gardens,1972.0,Bob Rafelson,"United States,",tt0068805,The King of Marvin Gardens,1972.0,112.0,auto
+550,551.0,Cronos,1993.0,Guillermo del Toro,"Mexico,",tt0104029,Cronos,1992.0,106.0,auto
+551,552.0,Broadcast News,1987.0,James L. Brooks,"United States,",tt0092699,Broadcast News,1987.0,112.0,auto
+552,553.0,Fish Tank,2009.0,Andrea Arnold,"United Kingdom,",tt1232776,Fish Tank,2009.0,112.0,auto
+553,554.0,Still Walking,2008.0,Hirokazu Kore-eda,"Japan,",tt1087578,Still Walking,2008.0,100.0,auto
+554,555.0,Sweet Smell of Success,1957.0,Alexander Mackendrick,"United States,",tt0051036,Sweet Smell of Success,1957.0,112.0,auto
+555,556.0,Senso,1954.0,Luchino Visconti,"Italy,",tt0047469,Senso,1954.0,112.0,auto
+556,557.0,The Times of Harvey Milk,1984.0,Robert Epstein,"United States,",tt0088275,The Times of Harvey Milk,1984.0,107.0,auto
+557,558.0,Topsy-Turvy,1999.0,Mike Leigh,"United Kingdom,",tt0151568,Topsy-Turvy,1999.0,112.0,auto
+558,559.0,The Mikado,1939.0,Victor Schertzinger,"United Kingdom,",tt0031650,The Mikado,1939.0,112.0,auto
+559,560.0,White Material,2009.0,Claire Denis,"France,",tt1135952,White Material,2009.0,112.0,auto
+560,561.0,Kes,1970.0,Ken Loach,"United Kingdom,",tt0064541,Kes,1969.0,106.0,auto
+561,562.0,Blow Out,1981.0,Brian De Palma,"United States,",tt0082085,Blow Out,1981.0,112.0,auto
+562,563.0,Something Wild,1986.0,Jonathan Demme,"United States,",tt0091983,Something Wild,1986.0,112.0,auto
+563,564.0,Pale Flower,1964.0,Masahiro Shinoda,"Japan,",tt0056327,Pale Flower,1964.0,112.0,auto
+564,565.0,The Great Dictator,1940.0,Charles Chaplin,"United States,",tt0032553,The Great Dictator,1940.0,112.0,auto
+565,566.0,Insignificance,1985.0,Nicolas Roeg,"United Kingdom,",tt0089343,Insignificance,1985.0,112.0,auto
+566,567.0,The Makioka Sisters,1983.0,Kon Ichikawa,"Japan,",tt0086242,The Makioka Sisters,1983.0,112.0,auto
+567,568.0,Kiss Me Deadly,1955.0,Robert Aldrich,"United States,",tt0048261,Kiss Me Deadly,1955.0,112.0,auto
+568,569.0,People on Sunday,1930.0,Robert Siodmak and Edgar G. Ulmer,"Germany,",tt0020163,People on Sunday,1930.0,112.0,auto
+569,570.0,Zazie dans le métro,1960.0,Louis Malle,"France,",tt0054494,Zazie in the Metro,1960.0,112.0,auto
+570,571.0,Black Moon,1975.0,Louis Malle,"France,",tt0072709,Black Moon,1975.0,112.0,auto
+571,572.0,"Léon Morin, Priest",1961.0,Jean-Pierre Melville,"France,",tt0055082,"Léon Morin, Priest",1961.0,112.0,auto
+572,573.0,The Music Room,1958.0,Satyajit Ray,"India,",tt0051792,The Music Room,1958.0,112.0,auto
+573,574.0,Life During Wartime,2010.0,Todd Solondz,"United States,",tt0808526,Life During Wartime,2009.0,106.0,auto
+574,575.0,The Killing,1956.0,Stanley Kubrick,"United States,",tt0049406,The Killing,1956.0,112.0,auto
+575,576.0,Secret Sunshine,2007.0,Lee Chang-dong,"South Korea,",tt0817225,Secret Sunshine,2007.0,112.0,auto
+576,577.0,Cul-de-sac,1966.0,Roman Polanski,"United Kingdom,",tt0060268,Cul-de-sac,1966.0,112.0,auto
+578,579.0,The Phantom Carriage,1921.0,Victor Sjöström,"Sweden,",tt0012364,The Phantom Carriage,1921.0,112.0,auto
+579,580.0,Le beau Serge,1958.0,Claude Chabrol,"France,",tt0051404,Le Beau Serge,1958.0,112.0,auto
+580,581.0,Les cousins,1959.0,Claude Chabrol,"France,",tt0052708,The Cousins,1959.0,112.0,auto
+581,582.0,Carlos,2010.0,Olivier Assayas,"Germany,",tt33398096,Carlos,2010.0,112.0,auto
+582,583.0,The Four Feathers,1939.0,Zoltán Korda,"United Kingdom,",tt0031334,The Four Feathers,1939.0,107.0,auto
+584,585.0,Identification of a Woman,1982.0,Michelangelo Antonioni,"Italy,",tt0084116,Identification of a Woman,1982.0,112.0,auto
+585,586.0,Island of Lost Souls,1932.0,Erle C. Kenton,"United States,",tt0024188,Island of Lost Souls,1932.0,112.0,auto
+587,588.0,Three Colors: Blue,1993.0,Krzysztof Kieślowski,"France,",tt0108394,Three Colors: Blue,1993.0,100.0,auto
+588,589.0,Three Colors: White,1994.0,Krzysztof Kieślowski,"Poland,",tt0111507,Three Colors: White,1994.0,100.0,auto
+589,590.0,Three Colors: Red,1994.0,Krzysztof Kieślowski,"Switzerland,",tt0111495,Three Colors: Red,1994.0,100.0,auto
+590,591.0,12 Angry Men,1957.0,Sidney Lumet,"United States,",tt0050083,12 Angry Men,1957.0,112.0,auto
+591,592.0,Design for Living,1933.0,Ernst Lubitsch,"United States,",tt0023940,Design for Living,1933.0,112.0,auto
+592,593.0,Belle de jour,1967.0,Luis Buñuel,"France,",tt0061395,Belle de Jour,1967.0,112.0,auto
+593,594.0,Godzilla,1954.0,Ishiro Honda,"Japan,",tt0047034,Godzilla,1954.0,112.0,auto
+594,595.0,The Moment of Truth,1965.0,Francesco Rosi,"Italy,",tt0059459,The Moment of Truth,1965.0,112.0,auto
+595,596.0,Three Outlaw Samurai,1964.0,Hideo Gosha,"Japan,",tt0058652,Three Outlaw Samurai,1964.0,112.0,auto
+596,597.0,Tiny Furniture,2010.0,Lena Dunham,"United States,",tt1570989,Tiny Furniture,2010.0,112.0,auto
+598,599.0,Vanya on 42nd Street,1994.0,Louis Malle,"United States,",tt0111590,Vanya on 42nd Street,1994.0,112.0,auto
+599,600.0,Anatomy of a Murder,1959.0,Otto Preminger,"United States,",tt0052561,Anatomy of a Murder,1959.0,112.0,auto
+600,601.0,Letter Never Sent,1959.0,Mikhail Kalatozov,"Soviet Union,",tt0053106,Letter Never Sent,1960.0,106.0,auto
+601,602.0,The War Room,1993.0,Chris Hegedus and D. A. Pennebaker,"United States,",tt0108515,The War Room,1993.0,112.0,auto
+603,604.0,In Which We Serve,1942.0,David Lean and Noël Coward,"United Kingdom,",tt0034891,In Which We Serve,1942.0,112.0,auto
+604,605.0,This Happy Breed,1944.0,David Lean,"United Kingdom,",tt0037367,This Happy Breed,1944.0,112.0,auto
+605,606.0,Blithe Spirit,1945.0,David Lean,"United Kingdom,",tt0038363,Blithe Spirit,1945.0,112.0,auto
+607,608.0,Harold and Maude,1971.0,Hal Ashby,"United States,",tt0067185,Harold and Maude,1971.0,112.0,auto
+608,609.0,¡Alambrista!,1977.0,Robert M. Young,"United States,",tt0075654,Alambrista!,1977.0,112.0,auto
+609,610.0,The Organizer,1963.0,Mario Monicelli,"Italy,",tt0056945,The Organizer,1963.0,112.0,auto
+610,611.0,Being John Malkovich,1999.0,Spike Jonze,"United States,",tt0120601,Being John Malkovich,1999.0,112.0,auto
+611,612.0,Certified Copy,2010.0,Abbas Kiarostami,"Iran,",tt1020773,Certified Copy,2010.0,112.0,auto
+612,613.0,Summer Interlude,1951.0,Ingmar Bergman,"Sweden,",tt0044060,Summer Interlude,1951.0,112.0,auto
+613,614.0,Summer with Monika,1953.0,Ingmar Bergman,"Sweden,",tt0046345,Summer with Monika,1953.0,112.0,auto
+615,616.0,Shallow Grave,1994.0,Danny Boyle,"United Kingdom,",tt0111149,Shallow Grave,1994.0,112.0,auto
+616,617.0,And Everything Is Going Fine,2010.0,Steven Soderbergh,"United States,",tt1122614,And Everything Is Going Fine,2010.0,112.0,auto
+617,618.0,Gray’s Anatomy,1997.0,Steven Soderbergh,"United States,",tt0116447,Gray's Anatomy,1996.0,106.0,auto
+618,619.0,Le Havre,2011.0,Aki Kaurismäki,"France,",tt1508675,Le Havre,2011.0,112.0,auto
+619,620.0,La promesse,1996.0,Luc Dardenne and Jean-Pierre Dardenne,"Belgium,",tt0117398,The Promise,1996.0,112.0,auto
+620,621.0,Rosetta,1999.0,Luc Dardenne and Jean-Pierre Dardenne,"Belgium,",tt0200071,Rosetta,1999.0,112.0,auto
+621,622.0,Weekend,2011.0,Andrew Haigh,"United Kingdom,",tt1714210,Weekend,2011.0,112.0,auto
+622,623.0,Lonesome,1928.0,Paul Fejos,"United States,",tt0019109,Lonesome,1928.0,100.0,auto
+623,624.0,Quadrophenia,1979.0,Franc Roddam,"United Kingdom,",tt0079766,Quadrophenia,1979.0,112.0,auto
+624,625.0,Eating Raoul,1982.0,Paul Bartel,"United States,",tt0083869,Eating Raoul,1982.0,112.0,auto
+625,626.0,Les visiteurs du soir,1942.0,Marcel Carné,"France,",tt0035521,The Devil's Envoys,1942.0,112.0,auto
+626,627.0,The Game,1997.0,David Fincher,"United States,",tt0119174,The Game,1997.0,112.0,auto
+627,628.0,The Forgiveness of Blood,2011.0,Joshua Marston,"United States,",tt1787127,The Forgiveness of Blood,2011.0,112.0,auto
+628,629.0,Sunday Bloody Sunday,1971.0,John Schlesinger,"United Kingdom,",tt0067805,Sunday Bloody Sunday,1971.0,112.0,auto
+629,630.0,Rosemary’s Baby,1968.0,Roman Polanski,"United States,",tt0063522,Rosemary's Baby,1968.0,112.0,auto
+631,632.0,The Decameron,1971.0,Pier Paolo Pasolini,"Italy,",tt0065622,The Decameron,1971.0,112.0,auto
+632,633.0,The Canterbury Tales,1972.0,Pier Paolo Pasolini,"Italy,",tt0067647,The Canterbury Tales,1972.0,112.0,auto
+633,634.0,Arabian Nights,1974.0,Pier Paolo Pasolini,"Italy,",tt0071502,Arabian Nights,1974.0,112.0,auto
+634,635.0,Weekend,1967.0,Jean-Luc Godard,"France,",tt0062480,Weekend,1967.0,112.0,auto
+635,636.0,Heaven’s Gate,1980.0,Michael Cimino,"United States,",tt0080855,Heaven's Gate,1980.0,112.0,auto
+636,637.0,Purple Noon,1960.0,René Clément,"France,",tt0054189,Purple Noon,1960.0,112.0,auto
+637,638.0,Following,1999.0,Christopher Nolan,"United Kingdom,",tt0154506,Following,1998.0,106.0,auto
+639,640.0,Koyaanisqatsi,1983.0,Godfrey Reggio,"United States,",tt0085809,Koyaanisqatsi,1982.0,106.0,auto
+640,641.0,Powaqqatsi,1988.0,Godfrey Reggio,"United States,",tt0095895,Powaqqatsi,1988.0,112.0,auto
+641,642.0,Naqoyqatsi,2002.0,Godfrey Reggio,"United States,",tt0145937,Naqoyqatsi,2002.0,112.0,auto
+642,643.0,The Man Who Knew Too Much,1934.0,Alfred Hitchcock,"United Kingdom,",tt0025452,The Man Who Knew Too Much,1934.0,112.0,auto
+643,644.0,Pina,2011.0,Wim Wenders,"Germany,",tt1440266,Pina,2011.0,112.0,auto
+644,645.0,The Ballad of Narayama,1958.0,Keisuke Kinoshita,"Japan,",tt0051980,The Ballad of Narayama,1958.0,112.0,auto
+645,646.0,The Kid with a Bike,2011.0,Jean-Pierre Dardenne and Luc Dardenne,"Belgium,",tt1827512,The Kid with a Bike,2011.0,112.0,auto
+646,647.0,On the Waterfront,1954.0,Elia Kazan,"United States,",tt0047296,On the Waterfront,1954.0,112.0,auto
+647,648.0,Chronicle of a Summer,1961.0,Jean Rouch and Edgar Morin,"France,",tt0054745,Chronicle of a Summer,1961.0,112.0,auto
+648,649.0,Ministry of Fear,1944.0,Fritz Lang,"United States,",tt0037075,Ministry of Fear,1944.0,112.0,auto
+649,650.0,A Man Escaped,1956.0,Robert Bresson,"France,",tt0049902,A Man Escaped,1956.0,112.0,auto
+650,651.0,Badlands,1973.0,Terrence Malick,"United States,",tt0069762,Badlands,1973.0,112.0,auto
+651,652.0,Monsieur Verdoux,1947.0,Charles Chaplin,"United States,",tt0039631,Monsieur Verdoux,1947.0,112.0,auto
+652,653.0,Gate of Hell,1953.0,Teinosuke Kinugasa,"Japan,",tt0045935,Gate of Hell,1953.0,112.0,auto
+653,654.0,Repo Man,1984.0,Alex Cox,"United States,",tt0087995,Repo Man,1984.0,112.0,auto
+655,656.0,Jubal,1956.0,Delmer Daves,"United States,",tt0048233,Jubal,1956.0,112.0,auto
+656,657.0,3:10 to Yuma,1957.0,Delmer Daves,"United States,",tt0050086,3:10 to Yuma,1957.0,112.0,auto
+657,658.0,Medium Cool,1969.0,Haskell Wexler,"United States,",tt0064652,Medium Cool,1969.0,112.0,auto
+658,659.0,Life Is Sweet,1990.0,Mike Leigh,"United Kingdom,",tt0100024,Life Is Sweet,1990.0,112.0,auto
+659,660.0,Things to Come,1936.0,William Cameron Menzies,"United Kingdom,",tt0028358,Things to Come,1936.0,112.0,auto
+660,661.0,Marketa Lazarová,1967.0,František Vláčil,"Czechoslovakia,",tt0063278,Marketa Lazarová,1967.0,100.0,auto
+661,662.0,Safety Last!,1923.0,Fred Newmeyer and Sam Taylor,"United States,",tt0014429,Safety Last!,1923.0,112.0,auto
+662,663.0,Shoah,1985.0,Claude Lanzmann,"France,",tt0090015,Shoah,1985.0,112.0,auto
+663,664.0,The Life of Oharu,1952.0,Kenji Mizoguchi,"Japan,",tt0045112,The Life of Oharu,1952.0,112.0,auto
+664,665.0,Babette’s Feast,1987.0,Gabriel Axel,"Denmark,",tt0092603,Babette's Feast,1987.0,112.0,auto
+665,666.0,The Devil’s Backbone,2001.0,Guillermo del Toro,"Mexico,",tt0256009,The Devil's Backbone,2001.0,112.0,auto
+666,667.0,Seconds,1966.0,John Frankenheimer,"United States,",tt0060955,Seconds,1966.0,112.0,auto
+667,668.0,The Big City,1963.0,Satyajit Ray,"India,",tt0057277,The Big City,1963.0,112.0,auto
+668,669.0,Charulata,1964.0,Satyajit Ray,"India,",tt0057935,The Lonely Wife,1964.0,112.0,auto
+669,670.0,To Be or Not to Be,1942.0,Ernst Lubitsch,"United States,",tt0035446,To Be or Not to Be,1942.0,112.0,auto
+670,671.0,La Cage aux Folles,1978.0,Edouard Molinaro,"France,",tt0077288,La Cage aux Folles,1978.0,112.0,auto
+672,673.0,Stromboli,1950.0,Roberto Rossellini,"Italy,",tt0041931,Stromboli,1950.0,112.0,auto
+673,674.0,Europe ’51,1952.0,Roberto Rossellini,"Italy,",tt0043511,Europe '51,1952.0,112.0,auto
+674,675.0,Journey to Italy,1954.0,Roberto Rossellini,"Italy,",tt0046511,Journey to Italy,1954.0,112.0,auto
+675,676.0,I Married a Witch,1942.0,René Clair,"United States,",tt0034881,I Married a Witch,1942.0,112.0,auto
+676,677.0,The Uninvited,1944.0,Lewis Allen,"United States,",tt0037415,The Uninvited,1944.0,112.0,auto
+677,678.0,La notte,1961.0,Michelangelo Antonioni,"Italy,",tt0054130,La Notte,1961.0,112.0,auto
+678,679.0,Zatoichi: The Blind Swordsman,,,,tt0363226,The Blind Swordsman: Zatoichi,2003.0,90.0,auto
+679,680.0,City Lights,1931.0,Charles Chaplin,"United States,",tt0021749,City Lights,1931.0,112.0,auto
+680,681.0,Frances Ha,2013.0,Noah Baumbach,"United States,",tt2347569,Frances Ha,2012.0,106.0,auto
+681,682.0,Investigation of a Citizen Above Suspicion,1970.0,Elio Petri,"Italy,",tt0065889,Investigation of a Citizen Above Suspicion,1970.0,112.0,auto
+682,683.0,Nashville,1975.0,Robert Altman,"United States,",tt0073440,Nashville,1975.0,112.0,auto
+684,685.0,Touki bouki,1973.0,Djibril Diop Mambéty,"Senegal,",tt0070820,Touki Bouki,1973.0,112.0,auto
+685,686.0,Redes,1936.0,Emilio Gómez Muriel…,"Mexico,",tt0028165,Redes,1936.0,112.0,auto
+686,687.0,A River Called Titas,1973.0,Ritwik Ghatak,"Bangladesh,",tt0070809,A River Called Titas,1973.0,112.0,auto
+687,688.0,Dry Summer,1964.0,Metin Erksan,"Turkey,",tt0062322,Dry Summer,1963.0,106.0,auto
+688,689.0,Trances,1981.0,Ahmed El Maanouni,"Morocco,",tt0406280,Trances,1981.0,112.0,auto
+689,690.0,The Housemaid,1960.0,Kim Ki-young,"South Korea,",tt0150980,The Housemaid,1960.0,112.0,auto
+690,691.0,Thief,1981.0,Michael Mann,"United States,",tt0083190,Thief,1981.0,112.0,auto
+691,692.0,"It’s a Mad, Mad, Mad, Mad World",1963.0,Stanley Kramer,"United States,",tt0057193,It's a Mad Mad Mad Mad World,1963.0,112.0,auto
+692,693.0,La vie de bohème,1992.0,Aki Kaurismäki,"Finland,",tt0105750,The Bohemian Life,1992.0,112.0,auto
+693,694.0,The Long Day Closes,1992.0,Terence Davies,"United Kingdom,",tt0104753,The Long Day Closes,1992.0,112.0,auto
+694,695.0,Blue Is the Warmest Color,2013.0,Abdellatif Kechiche,"France,",tt2278871,Blue Is the Warmest Colour,2013.0,110.0392156862745,auto
+695,696.0,Foreign Correspondent,1940.0,Alfred Hitchcock,"United States,",tt0032484,Foreign Correspondent,1940.0,112.0,auto
+696,697.0,Tess,1979.0,Roman Polanski,"United Kingdom,",tt0080009,Tess,1979.0,112.0,auto
+697,698.0,King of the Hill,1993.0,Steven Soderbergh,"United States,",tt0107322,King of the Hill,1993.0,112.0,auto
+698,699.0,A Brief History of Time,1991.0,Errol Morris,"United States,",tt0103882,A Brief History of Time,1991.0,112.0,auto
+699,700.0,Fantastic Mr. Fox,2009.0,Wes Anderson,"United States,",tt0432283,Fantastic Mr. Fox,2009.0,112.0,auto
+700,701.0,Persona,1966.0,Ingmar Bergman,"Sweden,",tt0060827,Persona,1966.0,112.0,auto
+701,702.0,The Great Beauty,2013.0,Paolo Sorrentino,"Italy,",tt2358891,The Great Beauty,2013.0,112.0,auto
+702,703.0,The Freshman,1925.0,Sam Taylor and Fred Newmeyer,"United States,",tt0015841,The Freshman,1925.0,112.0,auto
+703,704.0,Riot in Cell Block 11,1954.0,Don Siegel,"United States,",tt0047417,Riot in Cell Block 11,1954.0,112.0,auto
+704,705.0,Breaking the Waves,1996.0,Lars von Trier,"Denmark,",tt0115751,Breaking the Waves,1996.0,112.0,auto
+705,706.0,Master of the House,1925.0,Carl Th. Dreyer,"Denmark,",tt0015768,Master of the House,1925.0,107.0,auto
+706,707.0,Il sorpasso,1962.0,Dino Risi,"Italy,",tt0056512,The Easy Life,1962.0,112.0,auto
+707,708.0,Like Someone in Love,2012.0,Abbas Kiarostami,"Japan,",tt1843287,Like Someone in Love,2012.0,112.0,auto
+708,709.0,Red River,1948.0,Howard Hawks,"United States,",tt0040724,Red River,1948.0,112.0,auto
+709,710.0,Judex,1963.0,Georges Franju,"France,",tt0057207,Judex,1963.0,112.0,auto
+710,711.0,A Hard Day’s Night,1964.0,Richard Lester,"United Kingdom,",tt0058182,A Hard Day's Night,1964.0,112.0,auto
+711,712.0,Scanners,1981.0,David Cronenberg,"Canada,",tt0081455,Scanners,1981.0,112.0,auto
+713,714.0,Lola,1961.0,Jacques Demy,"France,",tt0055093,Lola,1961.0,112.0,auto
+714,715.0,Bay of Angels,1963.0,Jacques Demy,"France,",tt0056846,Bay of Angels,1963.0,112.0,auto
+715,716.0,The Umbrellas of Cherbourg,1964.0,Jacques Demy,"France,",tt0058450,The Umbrellas of Cherbourg,1964.0,112.0,auto
+716,717.0,The Young Girls of Rochefort,1967.0,Jacques Demy,"France,",tt0062873,The Young Girls of Rochefort,1967.0,112.0,auto
+717,718.0,Donkey Skin,1970.0,Jacques Demy,"France,",tt0066207,Donkey Skin,1970.0,112.0,auto
+718,719.0,Une chambre en ville,1982.0,Jacques Demy,"France,",tt0084843,A Room in Town,1982.0,112.0,auto
+719,720.0,The Big Chill,1983.0,Lawrence Kasdan,"United States,",tt0085244,The Big Chill,1983.0,112.0,auto
+720,721.0,Love Streams,1984.0,John Cassavetes,"United States,",tt0087644,Love Streams,1984.0,112.0,auto
+721,722.0,Tie Me Up! Tie Me Down!,1990.0,Pedro Almodóvar,"Spain,",tt0101026,Tie Me Up! Tie Me Down!,1989.0,106.0,auto
+722,723.0,Y tu mamá también,2001.0,Alfonso Cuarón,"Mexico,",tt0245574,Y tu mamá también,2001.0,112.0,auto
+723,724.0,All That Jazz,1979.0,Bob Fosse,"United States,",tt0078754,All That Jazz,1979.0,112.0,auto
+724,725.0,Eraserhead,1977.0,David Lynch,"United States,",tt0074486,Eraserhead,1977.0,112.0,auto
+725,726.0,Macbeth,1971.0,Roman Polanski,"United Kingdom,",tt0067372,Macbeth,1971.0,112.0,auto
+726,727.0,The Innocents,1961.0,Jack Clayton,"United States,",tt0055018,The Innocents,1961.0,112.0,auto
+727,728.0,Sundays and Cybèle,1962.0,Serge Bourguignon,"France,",tt0055910,Sundays and Cybèle,1962.0,112.0,auto
+729,730.0,Jour de fête,1949.0,Jacques Tati,"France,",tt0040497,The Big Day,1949.0,112.0,auto
+730,731.0,Parade,1974.0,Jacques Tati,"France,",tt0071968,Parade,1974.0,112.0,auto
+731,732.0,My Darling Clementine,1946.0,John Ford,"United States,",tt0038762,My Darling Clementine,1946.0,112.0,auto
+732,733.0,La dolce vita,1960.0,Federico Fellini,"Italy,",tt0053779,La Dolce Vita,1960.0,112.0,auto
+733,734.0,The Shooting,1966.0,Monte Hellman,"United States,",tt0062262,The Shooting,1966.0,112.0,auto
+734,735.0,Ride in the Whirlwind,1966.0,Monte Hellman,"United States,",tt0059653,Ride in the Whirlwind,1966.0,112.0,auto
+735,736.0,It Happened One Night,1934.0,Frank Capra,"United States,",tt0025316,It Happened One Night,1934.0,112.0,auto
+737,738.0,Tootsie,1982.0,Sydney Pollack,"United States,",tt0084805,Tootsie,1982.0,112.0,auto
+738,739.0,Safe,1995.0,Todd Haynes,"United States,",tt0114323,Safe,1995.0,112.0,auto
+739,740.0,The Bitter Tears of Petra von Kant,1972.0,Rainer Werner Fassbinder,"West Germany,",tt0068278,The Bitter Tears of Petra von Kant,1972.0,112.0,auto
+740,741.0,My Winnipeg,2007.0,Guy Maddin,"Canada,",tt1093842,My Winnipeg,2007.0,112.0,auto
+741,742.0,The Palm Beach Story,1942.0,Preston Sturges,"United States,",tt0035169,The Palm Beach Story,1942.0,112.0,auto
+742,743.0,La Ciénaga,2001.0,Lucrecia Martel,"Argentina,",tt0240419,The Swamp,2001.0,112.0,auto
+743,744.0,Every Man for Himself,1980.0,Jean-Luc Godard,"France,",tt0079854,Every Man for Himself,1980.0,112.0,auto
+744,745.0,Don’t Look Now,1973.0,Nicolas Roeg,"United Kingdom,",tt0069995,Don't Look Now,1973.0,112.0,auto
+746,747.0,Fellini Satyricon,1969.0,Federico Fellini,"Italy,",tt0064940,Satyricon,1969.0,112.0,auto
+747,748.0,Watership Down,1978.0,Martin Rosen,"United Kingdom,",tt0078480,Watership Down,1978.0,112.0,auto
+748,749.0,The Soft Skin,1964.0,François Truffaut,"France,",tt0058458,The Soft Skin,1964.0,112.0,auto
+749,750.0,Ride the Pink Horse,1947.0,Robert Montgomery,"United States,",tt0039768,Ride the Pink Horse,1947.0,112.0,auto
+750,751.0,Gates of Heaven,1978.0,Errol Morris,"United States,",tt0077598,Gates of Heaven,1978.0,112.0,auto
+751,752.0,"Vernon, Florida",1981.0,Errol Morris,"United States,",tt0083281,"Vernon, Florida",1981.0,112.0,auto
+752,753.0,The Thin Blue Line,1988.0,Errol Morris,"United States,",tt0096257,The Thin Blue Line,1988.0,112.0,auto
+753,754.0,Odd Man Out,1947.0,Carol Reed,"United Kingdom,",tt0039677,Odd Man Out,1947.0,112.0,auto
+754,755.0,Le silence de la mer,1949.0,Jean-Pierre Melville,"France,",tt0039822,The Silence of the Sea,1949.0,112.0,auto
+755,756.0,Limelight,1952.0,Charles Chaplin,"United States,",tt0044837,Limelight,1952.0,112.0,auto
+756,757.0,The Rose,1979.0,Mark Rydell,"United States,",tt0079826,The Rose,1979.0,112.0,auto
+757,758.0,The Merchant of Four Seasons,1971.0,Rainer Werner Fassbinder,"Germany,",tt0067227,The Merchant of Four Seasons,1972.0,106.0,auto
+758,759.0,The Confession,1970.0,Costa-Gavras,"Italy,",tt0065439,The Confession,1970.0,112.0,auto
+759,760.0,State of Siege,1972.0,Costa-Gavras,"France,",tt0070959,State of Siege,1972.0,112.0,auto
+760,761.0,Valerie and Her Week of Wonders,1970.0,Jaromil Jireš,"Czechoslovakia,",tt0066516,Valerie and Her Week of Wonders,1970.0,112.0,auto
+761,762.0,A Master Builder,2014.0,Jonathan Demme,"United States,",tt2276069,A Master Builder,2013.0,106.0,auto
+762,763.0,The Bridge,1959.0,Bernhard Wicki,"Germany,",tt0052654,The Bridge,1959.0,112.0,auto
+763,764.0,The Fisher King,1991.0,Terry Gilliam,"United States,",tt0101889,The Fisher King,1991.0,112.0,auto
+764,765.0,The Black Stallion,1979.0,Carroll Ballard,"United States,",tt0078872,The Black Stallion,1979.0,112.0,auto
+765,766.0,Here Is Your Life,1966.0,Jan Troell,"Sweden,",tt0060529,Here Is Your Life,1966.0,112.0,auto
+766,767.0,My Beautiful Laundrette,1985.0,Stephen Frears,"United Kingdom,",tt0091578,My Beautiful Laundrette,1985.0,112.0,auto
+767,768.0,The French Lieutenant’s Woman,1981.0,Karel Reisz,"United Kingdom,",tt0082416,The French Lieutenant's Woman,1981.0,112.0,auto
+768,769.0,Day for Night,1973.0,François Truffaut,"France,",tt0070460,Day for Night,1973.0,112.0,auto
+769,770.0,Dressed to Kill,1980.0,Brian De Palma,"United States,",tt0080661,Dressed to Kill,1980.0,112.0,auto
+770,771.0,"Two Days, One Night",2014.0,Jean-Pierre Dardenne and Luc Dardenne,"Belgium,",tt2737050,"Two Days, One Night",2014.0,112.0,auto
+772,773.0,Breaker Morant,1980.0,Bruce Beresford,"Australia,",tt0080310,Breaker Morant,1980.0,112.0,auto
+773,774.0,Mister Johnson,1990.0,Bruce Beresford,"United States,",tt0102458,Mister Johnson,1990.0,112.0,auto
+774,775.0,A Room with a View,1986.0,James Ivory,"United Kingdom,",tt0091867,A Room with a View,1985.0,106.0,auto
+775,776.0,Moonrise Kingdom,2012.0,Wes Anderson,"United States,",tt1748122,Moonrise Kingdom,2012.0,112.0,auto
+776,777.0,The Brood,1979.0,David Cronenberg,"Canada,",tt0078908,The Brood,1979.0,112.0,auto
+777,778.0,A Special Day,1977.0,Ettore Scola,"Italy,",tt0076085,A Special Day,1977.0,112.0,auto
+778,779.0,Mulholland Dr.,2001.0,David Lynch,"United States,",tt0166924,Mulholland Drive,2001.0,112.0,auto
+779,780.0,Code Unknown,2000.0,Michael Haneke,"France,",tt0216625,Code Unknown,2000.0,112.0,auto
+780,781.0,In Cold Blood,1967.0,Richard Brooks,"United States,",tt0061809,In Cold Blood,1967.0,112.0,auto
+782,783.0,Pather Panchali,1955.0,Satyajit Ray,"India,",tt0048473,Pather Panchali,1955.0,112.0,auto
+783,784.0,Aparajito,1956.0,Satyajit Ray,"India,",tt0048956,The Unvanquished,1956.0,112.0,auto
+784,785.0,Apur Sansar,1959.0,Satyajit Ray,"India,",tt0052572,The World of Apu,1959.0,112.0,auto
+785,786.0,Dont Look Back,1967.0,D. A. Pennebaker,"United States,",tt0061589,Bob Dylan: Dont Look Back,1967.0,112.0,auto
+786,787.0,Jellyfish Eyes,2013.0,Takashi Murakami,"Japan,",tt2006181,Jellyfish Eyes,2013.0,112.0,auto
+787,788.0,Speedy,1928.0,Ted Wilde,"United States,",tt0019412,Speedy,1928.0,112.0,auto
+788,789.0,Burroughs: The Movie,1983.0,Howard Brookner,"United States,",tt3581384,Burroughs: The Movie,1983.0,112.0,auto
+789,790.0,Lady Snowblood,1973.0,Toshiya Fujita,"Japan,",tt0158714,Lady Snowblood,1973.0,112.0,auto
+791,792.0,Bitter Rice,1949.0,Giuseppe De Santis,"Italy,",tt0040737,Bitter Rice,1949.0,112.0,auto
+792,793.0,The American Friend,1977.0,Wim Wenders,"Germany,",tt0075675,The American Friend,1977.0,112.0,auto
+793,794.0,Inside Llewyn Davis,2013.0,Joel Coen and Ethan Coen,"United States,",tt2042568,Inside Llewyn Davis,2013.0,112.0,auto
+794,795.0,Gilda,1946.0,Charles Vidor,"United States,",tt0038559,Gilda,1946.0,112.0,auto
+795,796.0,The Emigrants,1971.0,Jan Troell,"Sweden,",tt0067919,The Emigrants,1971.0,112.0,auto
+796,797.0,The New Land,1972.0,Jan Troell,"Sweden,",tt0069035,The New Land,1972.0,112.0,auto
+797,798.0,Death by Hanging,1968.0,Nagisa Oshima,"Japan,",tt0063198,Death by Hanging,1968.0,112.0,auto
+798,799.0,The Kid,1921.0,Charles Chaplin,"United States,",tt0012349,The Kid,1921.0,112.0,auto
+799,800.0,The Graduate,1967.0,Mike Nichols,"United States,",tt0061722,The Graduate,1967.0,112.0,auto
+800,801.0,I Knew Her Well,1965.0,Antonio Pietrangeli,"Italy,",tt0060545,I Knew Her Well,1965.0,112.0,auto
+801,802.0,Paris Belongs to Us,1961.0,Jacques Rivette,"France,",tt0054156,Paris Belongs to Us,1961.0,112.0,auto
+802,803.0,The Manchurian Candidate,1962.0,John Frankenheimer,"United States,",tt0056218,The Manchurian Candidate,1962.0,112.0,auto
+803,804.0,A Brighter Summer Day,1991.0,Edward Yang,"Taiwan,",tt0101985,A Brighter Summer Day,1991.0,112.0,auto
+804,805.0,A Poem Is a Naked Person,1974.0,Les Blank,"United States,",tt0424359,A Poem Is a Naked Person,1974.0,112.0,auto
+805,806.0,Only Angels Have Wings,1939.0,Howard Hawks,"United States,",tt0031762,Only Angels Have Wings,1939.0,112.0,auto
+806,807.0,Barcelona,1994.0,Whit Stillman,"United States,",tt0109219,Barcelona,1994.0,112.0,auto
+808,809.0,Phoenix,2014.0,Christian Petzold,"Germany,",tt2764784,Phoenix,2014.0,112.0,auto
+809,810.0,In a Lonely Place,1950.0,Nicholas Ray,"United States,",tt0042593,In a Lonely Place,1950.0,112.0,auto
+810,811.0,The Naked Island,1960.0,Kaneto Shindo,"Japan,",tt0056049,The Naked Island,1960.0,112.0,auto
+811,812.0,The Player,1992.0,Robert Altman,"United States,",tt0105151,The Player,1992.0,112.0,auto
+813,814.0,Alice in the Cities,1974.0,Wim Wenders,"Germany,",tt0069687,Alice in the Cities,1974.0,112.0,auto
+814,815.0,Wrong Move,1975.0,Wim Wenders,"Germany,",tt0071483,Wrong Move,1975.0,112.0,auto
+815,816.0,Kings of the Road,1976.0,Wim Wenders,"Germany,",tt0073152,Kings of the Road,1976.0,112.0,auto
+816,817.0,Le amiche,1955.0,Michelangelo Antonioni,"Italy,",tt0047821,Le Amiche,1955.0,112.0,auto
+817,818.0,La chienne,1931.0,Jean Renoir,"France,",tt0021739,The Bitch,1931.0,112.0,auto
+818,819.0,Here Comes Mr. Jordan,1941.0,Alexander Hall,"United States,",tt0033712,Here Comes Mr. Jordan,1941.0,112.0,auto
+819,820.0,Fantastic Planet,1973.0,René Laloux,"France,",tt0070544,Fantastic Planet,1973.0,112.0,auto
+820,821.0,"Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",1964.0,Stanley Kubrick,"United States,",tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964.0,112.0,auto
+821,822.0,Clouds of Sils Maria,2014.0,Olivier Assayas,"France,",tt2452254,Clouds of Sils Maria,2014.0,112.0,auto
+822,823.0,The In-Laws,1979.0,Arthur Hiller,"United States,",tt0079336,The In-Laws,1979.0,112.0,auto
+824,825.0,A Touch of Zen,1971.0,King Hu,"Taiwan,",tt0064451,A Touch of Zen,1971.0,112.0,auto
+825,826.0,The New World,2005.0,Terrence Malick,"United States,",tt0402399,The New World,2005.0,112.0,auto
+826,827.0,McCabe & Mrs. Miller,1971.0,Robert Altman,"United States,",tt0067411,McCabe & Mrs. Miller,1971.0,112.0,auto
+827,828.0,Ingrid Bergman: In Her Own Words,2015.0,Stig Björkman,"Sweden,",tt4621016,Ingrid Bergman: In Her Own Words,2015.0,112.0,auto
+828,829.0,A Taste of Honey,1961.0,Tony Richardson,"United Kingdom,",tt0055506,A Taste of Honey,1961.0,112.0,auto
+829,830.0,Chimes at Midnight,1966.0,Orson Welles,"Spain,",tt0059012,Chimes at Midnight,1965.0,106.0,auto
+830,831.0,The Immortal Story,1968.0,Orson Welles,"France,",tt0063127,The Immortal Story,1968.0,112.0,auto
+831,832.0,The Story of the Last Chrysanthemum,1939.0,Kenji Mizoguchi,"Japan,",tt0032156,The Story of the Last Chrysanthemum,1939.0,112.0,auto
+832,833.0,Cat People,1942.0,Jacques Tourneur,"United States,",tt0034587,Cat People,1942.0,112.0,auto
+833,834.0,Blood Simple,1984.0,Joel Coen,"United States,",tt0086979,Blood Simple,1984.0,112.0,auto
+834,835.0,Valley of the Dolls,1967.0,Mark Robson,"United States,",tt0062430,Valley of the Dolls,1967.0,112.0,auto
+835,836.0,Beyond the Valley of the Dolls,1970.0,Russ Meyer,"United States,",tt0065466,Beyond the Valley of the Dolls,1970.0,112.0,auto
+837,838.0,Pan’s Labyrinth,2006.0,Guillermo del Toro,"Spain,",tt0457430,Pan's Labyrinth,2006.0,112.0,auto
+838,839.0,Boyhood,2014.0,Richard Linklater,"United States,",tt1065073,Boyhood,2014.0,112.0,auto
+839,840.0,The Executioner,1963.0,Luis García Berlanga,"Spain,",tt0057643,The Executioner,1963.0,112.0,auto
+842,843.0,Punch-Drunk Love,2002.0,Paul Thomas Anderson,"United States,",tt0272338,Punch-Drunk Love,2002.0,112.0,auto
+843,844.0,One-Eyed Jacks,1961.0,Marlon Brando,"United States,",tt0055257,One-Eyed Jacks,1961.0,112.0,auto
+844,845.0,The Squid and the Whale,2005.0,Noah Baumbach,"United States,",tt0367089,The Squid and the Whale,2005.0,112.0,auto
+845,846.0,Heart of a Dog,2015.0,Laurie Anderson,"United States,",tt4935446,Heart of a Dog,2015.0,112.0,auto
+846,847.0,The Asphalt Jungle,1950.0,John Huston,"United States,",tt0042208,The Asphalt Jungle,1950.0,112.0,auto
+847,848.0,Roma,1972.0,Federico Fellini,"Italy,",tt0069191,Roma,1972.0,112.0,auto
+848,849.0,His Girl Friday,1940.0,Howard Hawks,"United States,",tt0032599,His Girl Friday,1940.0,112.0,auto
+849,850.0,Something Wild,1961.0,Jack Garfein,"United States,",tt0055464,Something Wild,1961.0,112.0,auto
+850,851.0,Fox and His Friends,1975.0,Rainer Werner Fassbinder,"Germany,",tt0072976,Fox and His Friends,1975.0,112.0,auto
+851,852.0,Black Girl,1966.0,Ousmane Sembène,"Senegal,",tt0060758,Black Girl,1966.0,107.0,auto
+852,853.0,Cameraperson,2016.0,Kirsten Johnson,"United States,",tt5375040,Cameraperson,2016.0,112.0,auto
+853,854.0,The Tree of Wooden Clogs,1978.0,Ermanno Olmi,"Italy,",tt0077138,The Tree of Wooden Clogs,1978.0,112.0,auto
+854,855.0,Women on the Verge of a Nervous Breakdown,1988.0,Pedro Almodóvar,"Spain,",tt0095675,Women on the Verge of a Nervous Breakdown,1988.0,112.0,auto
+856,857.0,Before Sunrise,1995.0,Richard Linklater,"United States,",tt0112471,Before Sunrise,1995.0,112.0,auto
+857,858.0,Before Sunset,2004.0,Richard Linklater,"United States,",tt0381681,Before Sunset,2004.0,112.0,auto
+858,859.0,Before Midnight,2013.0,Richard Linklater,"United States,",tt2209418,Before Midnight,2013.0,112.0,auto
+859,860.0,Mildred Pierce,1945.0,Michael Curtiz,"United States,",tt0037913,Mildred Pierce,1945.0,112.0,auto
+860,861.0,45 Years,2015.0,Andrew Haigh,"United Kingdom,",tt3544082,45 Years,2015.0,112.0,auto
+861,862.0,Canoa: A Shameful Memory,1976.0,Felipe Cazals,"Mexico,",tt0131335,Canoa: A Shameful Memory,1976.0,112.0,auto
+862,863.0,Multiple Maniacs,1970.0,John Waters,"United States,",tt0067454,Multiple Maniacs,1970.0,112.0,auto
+863,864.0,Being There,1979.0,Hal Ashby,"United States,",tt0078841,Being There,1979.0,112.0,auto
+864,865.0,Blow-Up,1966.0,Michelangelo Antonioni,"United Kingdom,",tt0060176,Blow-Up,1966.0,112.0,auto
+865,866.0,Buena Vista Social Club,1999.0,Wim Wenders,"United States,",tt0186508,Buena Vista Social Club,1999.0,112.0,auto
+866,867.0,Woman of the Year,1942.0,George Stevens,"United States,",tt0035567,Woman of the Year,1942.0,112.0,auto
+867,868.0,Tampopo,1985.0,Juzo Itami,"Japan,",tt0092048,Tampopo,1985.0,107.0,auto
+868,869.0,Rumble Fish,1983.0,Francis Ford Coppola,"United States,",tt0086216,Rumble Fish,1983.0,112.0,auto
+869,870.0,Othello,1952.0,Orson Welles,"United States,",tt0045251,Othello,1951.0,106.0,auto
+870,871.0,Dheepan,2015.0,Jacques Audiard,"France,",tt4082068,Dheepan,2015.0,112.0,auto
+871,872.0,Ghost World,2001.0,Terry Zwigoff,"United States,",tt0162346,Ghost World,2001.0,112.0,auto
+873,874.0,Insiang,1976.0,Lino Brocka,"Philippines,",tt0077740,Insiang,1976.0,112.0,auto
+874,875.0,Mysterious Object at Noon,2000.0,Apichatpong Weerasethakul,"Thailand,",tt0269587,Mysterious Object at Noon,2000.0,112.0,auto
+875,876.0,Revenge,1989.0,Ermek Shinarbaev,"Kazakhstan,",tt0102497,Revenge,1989.0,100.0,auto
+876,877.0,Limite,1931.0,Mário Peixoto,"Brazil,",tt0022080,Limit,1931.0,100.0,auto
+877,878.0,Law of the Border,1966.0,Lütfi Ö. Akad,"Turkey,",tt0261739,Law of the Border,1967.0,106.0,auto
+878,879.0,Taipei Story,1985.0,Edward Yang,"Taiwan,",tt0089866,Taipei Story,1985.0,112.0,auto
+879,880.0,They Live by Night,1948.0,Nicholas Ray,"United States,",tt0040872,They Live by Night,1948.0,112.0,auto
+881,882.0,Marius,1931.0,Alexander Korda,"France,",tt0022125,Marius,1931.0,112.0,auto
+882,883.0,Fanny,1932.0,Marc Allégret,"France,",tt0022877,Fanny,1932.0,112.0,auto
+883,884.0,César,1936.0,Marcel Pagnol,"France,",tt0027489,César,1936.0,112.0,auto
+884,885.0,The Lodger: A Story of the London Fog,1927.0,Alfred Hitchcock,"United Kingdom,",tt0017075,The Lodger: A Story of the London Fog,1927.0,112.0,auto
+885,886.0,L’argent,1983.0,Robert Bresson,"France,",tt0085180,L'Argent,1983.0,112.0,auto
+886,887.0,Lost in America,1985.0,Albert Brooks,"United States,",tt0089504,Lost in America,1985.0,112.0,auto
+887,888.0,Stalker,1979.0,Andrei Tarkovsky,"Soviet Union,",tt0079944,Stalker,1979.0,112.0,auto
+888,889.0,The Breaking Point,1950.0,Michael Curtiz,"United States,",tt0042281,The Breaking Point,1950.0,112.0,auto
+889,890.0,Meantime,1984.0,Mike Leigh,"United Kingdom,",tt0082727,Meantime,1983.0,106.0,auto
+890,891.0,La poison,1951.0,Sacha Guitry,"France,",tt0043927,La Poison,1951.0,112.0,auto
+891,892.0,Festival,1967.0,Murray Lerner,"United States,",tt0061658,Festival,1967.0,112.0,auto
+892,893.0,Certain Women,2016.0,Kelly Reichardt,"United States,",tt4468634,Certain Women,2016.0,112.0,auto
+893,894.0,The Piano Teacher,2001.0,Michael Haneke,"France,",tt0254686,The Piano Teacher,2001.0,112.0,auto
+894,895.0,David Lynch: The Art Life,2016.0,"Jon Nguyen, Rick Barnes, and Olivia Neergaard-Holm","United States,",tt1691152,David Lynch: The Art Life,2016.0,112.0,auto
+895,896.0,The Lure,2015.0,Agnieszka Smoczyńska,"Poland,",tt5278832,The Lure,2015.0,107.0,auto
+896,897.0,Barry Lyndon,1975.0,Stanley Kubrick,"United States,",tt0072684,Barry Lyndon,1975.0,112.0,auto
+897,898.0,Twin Peaks: Fire Walk with Me,1992.0,David Lynch,"United States,",tt0105665,Twin Peaks: Fire Walk with Me,1992.0,112.0,auto
+898,899.0,Personal Shopper,2016.0,Olivier Assayas,"France,",tt4714782,Personal Shopper,2016.0,112.0,auto
+900,901.0,The Philadelphia Story,1940.0,George Cukor,"United States,",tt0032904,The Philadelphia Story,1940.0,112.0,auto
+901,902.0,Desert Hearts,1985.0,Donna Deitch,"United States,",tt0089015,Desert Hearts,1985.0,112.0,auto
+902,903.0,Jabberwocky,1977.0,Terry Gilliam,"United Kingdom,",tt0076221,Jabberwocky,1977.0,112.0,auto
+903,904.0,Election,1999.0,Alexander Payne,"United States,",tt0126886,Election,1999.0,112.0,auto
+904,905.0,The Breakfast Club,1985.0,John Hughes,"United States,",tt0088847,The Breakfast Club,1985.0,112.0,auto
+905,906.0,"I, Daniel Blake",2016.0,Ken Loach,"United Kingdom,",tt5168192,"I, Daniel Blake",2016.0,112.0,auto
+906,907.0,Westfront 1918,1930.0,G. W. Pabst,"Germany,",tt0021542,Westfront 1918,1930.0,100.0,auto
+907,908.0,Kameradschaft,1931.0,G. W. Pabst,"Germany,",tt0022017,Comradeship,1931.0,100.0,auto
+908,909.0,Night of the Living Dead,1968.0,George A. Romero,"United States,",tt0063350,Night of the Living Dead,1968.0,112.0,auto
+909,910.0,Tom Jones,1963.0,Tony Richardson,"United Kingdom,",tt0057590,Tom Jones,1963.0,112.0,auto
+910,911.0,The Hero,1966.0,Satyajit Ray,"India,",tt0060742,The Hero,1966.0,112.0,auto
+911,912.0,An Actor’s Revenge,1963.0,Kon Ichikawa,"Japan,",tt0057710,An Actor's Revenge,1963.0,112.0,auto
+912,913.0,The Age of Innocence,1993.0,Martin Scorsese,"United States,",tt0106226,The Age of Innocence,1993.0,112.0,auto
+913,914.0,Baal,1970.0,Volker Schlöndorff,"West Germany,",tt0065440,Baal,1970.0,112.0,auto
+914,915.0,King of Jazz,1930.0,John Murray Anderson,"United States,",tt0021025,King of Jazz,1930.0,112.0,auto
+915,916.0,Women in Love,1969.0,Ken Russell,"United Kingdom,",tt0066579,Women in Love,1969.0,112.0,auto
+916,917.0,The Awful Truth,1937.0,Leo McCarey,"United States,",tt0028597,The Awful Truth,1937.0,112.0,auto
+917,918.0,The Color of Pomegranates,1969.0,Sergei Parajanov,"Soviet Union,",tt0063555,The Color of Pomegranates,1969.0,112.0,auto
+918,919.0,Dead Man,1995.0,Jim Jarmusch,"United States,",tt0112817,Dead Man,1995.0,112.0,auto
+919,920.0,The Virgin Suicides,1999.0,Sofia Coppola,"United States,",tt0159097,The Virgin Suicides,1999.0,112.0,auto
+920,921.0,Moonrise,1948.0,Frank Borzage,"United States,",tt0040607,Moonrise,1948.0,112.0,auto
+921,922.0,The Other Side of Hope,2017.0,Aki Kaurismäki,"Finland,",tt5222918,The Other Side of Hope,2017.0,112.0,auto
+922,923.0,Beyond the Hills,2012.0,Cristian Mungiu,"Romania,",tt2258281,Beyond the Hills,2012.0,112.0,auto
+923,924.0,Graduation,2016.0,Cristian Mungiu,"Romania,",tt4936450,Graduation,2016.0,112.0,auto
+924,925.0,Midnight Cowboy,1969.0,John Schlesinger,"United States,",tt0064665,Midnight Cowboy,1969.0,112.0,auto
+925,926.0,Manila in the Claws of Light,1975.0,Lino Brocka,"Philippines,",tt0073363,Manila in the Claws of Light,1975.0,112.0,auto
+926,927.0,El Sur,1983.0,Víctor Erice,"Spain,",tt0084740,El Sur,1983.0,112.0,auto
+927,928.0,Bowling for Columbine,2002.0,Michael Moore,"United States,",tt0310793,Bowling for Columbine,2002.0,112.0,auto
+928,929.0,Female Trouble,1974.0,John Waters,"United States,",tt0072979,Female Trouble,1974.0,112.0,auto
+930,931.0,Morocco,1930.0,Josef von Sternberg,"United States,",tt0021156,Morocco,1930.0,112.0,auto
+931,932.0,Dishonored,1931.0,Josef von Sternberg,"United States,",tt0021800,Dishonored,1931.0,112.0,auto
+932,933.0,Shanghai Express,1932.0,Josef von Sternberg,"United States,",tt0023458,Shanghai Express,1932.0,112.0,auto
+933,934.0,Blonde Venus,1932.0,Josef von Sternberg,"United States,",tt0022698,Blonde Venus,1932.0,112.0,auto
+934,935.0,The Devil Is a Woman,1935.0,Josef von Sternberg,"United States,",tt0026276,The Devil Is a Woman,1935.0,112.0,auto
+935,936.0,Bull Durham,1988.0,Ron Shelton,"United States,",tt0094812,Bull Durham,1988.0,112.0,auto
+936,937.0,Dragon Inn,1967.0,King Hu,"Taiwan,",tt0060635,Dragon Inn,1967.0,112.0,auto
+937,938.0,"sex, lies, and videotape",1989.0,Steven Soderbergh,"United States,",tt0098724,"Sex, Lies, and Videotape",1989.0,112.0,auto
+938,939.0,A Matter of Life and Death,1946.0,Michael Powell and Emeric Pressburger,"United Kingdom,",tt0038733,A Matter of Life and Death,1946.0,112.0,auto
+940,941.0,Smithereens,1982.0,Susan Seidelman,"United States,",tt0084698,Smithereens,1982.0,112.0,auto
+941,942.0,The Tree of Life,2011.0,Terrence Malick,"United States,",tt0478304,The Tree of Life,2011.0,112.0,auto
+942,943.0,Memories of Underdevelopment,1968.0,Tomás Gutiérrez Alea,"Cuba,",tt0063291,Memories of Underdevelopment,1968.0,112.0,auto
+943,944.0,Cold Water,1994.0,Olivier Assayas,"France,",tt0109702,Cold Water,1994.0,112.0,auto
+944,945.0,A Raisin in the Sun,1961.0,Daniel Petrie,"United States,",tt0055353,A Raisin in the Sun,1961.0,112.0,auto
+946,947.0,Shampoo,1975.0,Hal Ashby,"United States,",tt0073692,Shampoo,1975.0,112.0,auto
+947,948.0,The Princess Bride,1987.0,Rob Reiner,"United States,",tt0093779,The Princess Bride,1987.0,112.0,auto
+948,949.0,A Story from Chikamatsu,1954.0,Kenji Mizoguchi,"Japan,",tt0046851,A Story from Chikamatsu,1954.0,112.0,auto
+949,950.0,Some Like It Hot,1959.0,Billy Wilder,"United States,",tt0053291,Some Like It Hot,1959.0,112.0,auto
+950,951.0,True Stories,1986.0,David Byrne,"United States,",tt0092117,True Stories,1986.0,112.0,auto
+951,952.0,The Magnificent Ambersons,1942.0,Orson Welles,"United States,",tt0035015,The Magnificent Ambersons,1942.0,112.0,auto
+952,953.0,A Dry White Season,1989.0,Euzhan Palcy,"United States,",tt0097243,A Dry White Season,1989.0,112.0,auto
+953,954.0,Forty Guns,1957.0,Samuel Fuller,"United States,",tt0050407,Forty Guns,1957.0,112.0,auto
+954,955.0,Panique,1946.0,Julien Duvivier,"France,",tt0038824,Panique,1946.0,112.0,auto
+955,956.0,24 Frames,2017.0,Abbas Kiarostami,"Iran,",tt6777170,24 Frames,2017.0,112.0,auto
+956,957.0,Mikey and Nicky,1976.0,Elaine May,"United States,",tt0074901,Mikey and Nicky,1976.0,112.0,auto
+957,958.0,"4 Months, 3 Weeks and 2 Days",2007.0,Cristian Mungiu,"Romania,",tt1032846,"4 Months, 3 Weeks and 2 Days",2007.0,112.0,auto
+958,959.0,In the Heat of the Night,1967.0,Norman Jewison,"United States,",tt0061811,In the Heat of the Night,1967.0,112.0,auto
+959,960.0,La vérité,1960.0,Henri-Georges Clouzot,"France,",tt0054452,The Truth,1960.0,112.0,auto
+960,961.0,Shame,1968.0,Ingmar Bergman,"Sweden,",tt0063611,Shame,1968.0,112.0,auto
+961,962.0,Death in Venice,1971.0,Luchino Visconti,"Italy,",tt0067445,Death in Venice,1971.0,112.0,auto
+962,963.0,To Sleep with Anger,1990.0,Charles Burnett,"United States,",tt0100791,To Sleep with Anger,1990.0,112.0,auto
+963,964.0,The Kid Brother,1927.0,Ted Wilde,"United States,",tt0018051,The Kid Brother,1927.0,112.0,auto
+964,965.0,Wanda,1970.0,Barbara Loden,"United States,",tt0067961,Wanda,1970.0,112.0,auto
+965,966.0,Detour,1945.0,Edgar G. Ulmer,"United States,",tt0037638,Detour,1945.0,112.0,auto
+966,967.0,I Wanna Hold Your Hand,1978.0,Robert Zemeckis,"United States,",tt0077714,I Wanna Hold Your Hand,1978.0,112.0,auto
+967,968.0,Japón,2002.0,Carlos Reygadas,"Mexico,",tt0322824,Japón,2002.0,112.0,auto
+968,969.0,Diamonds of the Night,1964.0,Jan Němec,"Czechoslovakia,",tt0058001,Diamonds of the Night,1964.0,100.0,auto
+969,970.0,A Face in the Crowd,1957.0,Elia Kazan,"United States,",tt0050371,A Face in the Crowd,1957.0,112.0,auto
+970,971.0,Police Story,1985.0,Jackie Chan,"Hong Kong,",tt0089374,Police Story,1985.0,112.0,auto
+971,972.0,Police Story 2,1988.0,Jackie Chan,"Hong Kong,",tt0095403,Police Story 2,1988.0,112.0,auto
+972,973.0,My Brilliant Career,1979.0,Gillian Armstrong,"Australia,",tt0079596,My Brilliant Career,1979.0,112.0,auto
+973,974.0,The Heiress,1949.0,William Wyler,"United States,",tt0041452,The Heiress,1949.0,112.0,auto
+974,975.0,Funny Games,1997.0,Michael Haneke,"Austria,",tt0119167,Funny Games,1997.0,112.0,auto
+975,976.0,Let the Sunshine In,2017.0,Claire Denis,"France,",tt6423776,Let the Sunshine In,2017.0,112.0,auto
+976,977.0,Blue Velvet,1986.0,David Lynch,"United States,",tt0090756,Blue Velvet,1986.0,112.0,auto
+977,978.0,"One Sings, the Other Doesn’t",1977.0,Agnès Varda,"France,",tt0076855,"One Sings, the Other Doesn't",1977.0,112.0,auto
+978,979.0,Swing Time,1936.0,George Stevens,"United States,",tt0028333,Swing Time,1936.0,112.0,auto
+979,980.0,La vie de Jésus,1997.0,Bruno Dumont,"France,",tt0120448,The Life of Jesus,1997.0,112.0,auto
+980,981.0,L’humanité,1999.0,Bruno Dumont,"France,",tt0197569,Humanité,1999.0,112.0,auto
+981,982.0,Hedwig and the Angry Inch,2001.0,John Cameron Mitchell,"United States,",tt0248845,Hedwig and the Angry Inch,2001.0,112.0,auto
+982,983.0,War and Peace,1966.0,Sergei Bondarchuk,"Soviet Union,",tt0063794,War and Peace,1965.0,106.0,auto
+983,984.0,1984,1984.0,Michael Radford,"United Kingdom,",tt0087803,1984,1984.0,112.0,auto
+984,985.0,Europa Europa,1990.0,Agnieszka Holland,"Poland,",tt0099776,Europa Europa,1990.0,112.0,auto
+985,986.0,The Baker’s Wife,1938.0,Marcel Pagnol,"France,",tt0030127,The Baker's Wife,1938.0,112.0,auto
+986,987.0,Klute,1971.0,Alan J. Pakula,"United States,",tt0067309,Klute,1971.0,112.0,auto
+987,988.0,The Inland Sea,1991.0,Lucille Carra,"United States,",tt0104510,The Inland Sea,1991.0,112.0,auto
+988,989.0,The Flavor of Green Tea over Rice,1952.0,Yasujiro Ozu,"Japan,",tt0044982,The Flavor of Green Tea Over Rice,1952.0,112.0,auto
+989,990.0,Where Is the Friend’s House?,1987.0,Abbas Kiarostami,"Iran,",tt0093342,Where Is the Friend's House?,1987.0,112.0,auto
+990,991.0,And Life Goes On,1992.0,Abbas Kiarostami,"Iran,",tt0105888,And Life Goes On,1992.0,112.0,auto
+991,992.0,Through the Olive Trees,1994.0,Abbas Kiarostami,"Iran,",tt0111845,Through the Olive Trees,1994.0,112.0,auto
+992,993.0,The Cloud-Capped Star,1960.0,Ritwik Ghatak,"India,",tt0054073,The Cloud-Capped Star,1960.0,112.0,auto
+993,994.0,Local Hero,1983.0,Bill Forsyth,"United Kingdom,",tt0085859,Local Hero,1983.0,112.0,auto
+994,995.0,Polyester,1981.0,John Waters,"United States,",tt0082926,Polyester,1981.0,112.0,auto
+995,996.0,The Circus,1928.0,Charles Chaplin,"United States,",tt0018773,The Circus,1928.0,112.0,auto
+996,997.0,Cluny Brown,1946.0,Ernst Lubitsch,"United States,",tt0038419,Cluny Brown,1946.0,112.0,auto
+997,998.0,When We Were Kings,1996.0,Leon Gast,"United States,",tt0118147,When We Were Kings,1996.0,112.0,auto
+998,999.0,Matewan,1987.0,John Sayles,"United States,",tt0093509,Matewan,1987.0,112.0,auto
+1000,1001.0,The Daytrippers,1996.0,Greg Mottola,"Canada,",tt0116041,The Daytrippers,1996.0,112.0,auto
+1001,1002.0,Betty Blue,1986.0,Jean-Jacques Beineix,"France,",tt0090563,Betty Blue,1986.0,112.0,auto
+1002,1003.0,All About Eve,1950.0,Joseph L. Mankiewicz,"United States,",tt0042192,All About Eve,1950.0,112.0,auto
+1003,1004.0,"Now, Voyager",1942.0,Irving Rapper,"United States,",tt0035140,"Now, Voyager",1942.0,112.0,auto
+1004,1005.0,Cold War,2018.0,Paweł Pawlikowski,"Poland,",tt6543652,Cold War,2018.0,112.0,auto
+1005,1006.0,The Story of Temple Drake,1933.0,Stephen Roberts,"United States,",tt0024617,The Story of Temple Drake,1933.0,112.0,auto
+1006,1007.0,Until the End of the World,1991.0,Wim Wenders,"Germany,",tt0101458,Until the End of the World,1991.0,112.0,auto
+1007,1008.0,Old Joy,2006.0,Kelly Reichardt,"United States,",tt0468526,Old Joy,2006.0,112.0,auto
+1008,1009.0,Holiday,1938.0,George Cukor,"United States,",tt0030241,Holiday,1938.0,112.0,auto
+1009,1010.0,Le petit soldat,1963.0,Jean-Luc Godard,"France,",tt0054177,The Little Soldier,1963.0,112.0,auto
+1010,1011.0,Fail Safe,1964.0,Sidney Lumet,"United States,",tt0058083,Fail Safe,1964.0,112.0,auto
+1011,1012.0,All About My Mother,1999.0,Pedro Almodóvar,"Spain,",tt0185125,All About My Mother,1999.0,112.0,auto
+1012,1013.0,Teorema,1968.0,Pier Paolo Pasolini,"Italy,",tt0063678,Teorema,1968.0,112.0,auto
+1013,1014.0,Roma,2018.0,Alfonso Cuarón,"United States,",tt6155172,Roma,2018.0,112.0,auto
+1014,1015.0,Journey to the Beginning of Time,1955.0,Karel Zeman,"Czechoslovakia,",tt0047930,A Journey to the Beginning of Time,1955.0,108.96969696969697,auto
+1015,1016.0,Invention for Destruction,1958.0,Karel Zeman,"Czechoslovakia,",tt0052374,Invention for Destruction,1958.0,112.0,auto
+1016,1017.0,The Fabulous Baron Munchausen,1962.0,Karel Zeman,"Czechoslovakia,",tt0054665,The Fabulous Baron Munchausen,1962.0,112.0,auto
+1017,1018.0,Paris Is Burning,1990.0,Jennie Livingston,"United States,",tt0100332,Paris Is Burning,1990.0,112.0,auto
+1018,1019.0,Bamboozled,2000.0,Spike Lee,"United States,",tt0215545,Bamboozled,2000.0,112.0,auto
+1019,1020.0,Leave Her to Heaven,1945.0,John M. Stahl,"United States,",tt0037865,Leave Her to Heaven,1945.0,112.0,auto
+1020,1021.0,Show Boat,1936.0,James Whale,"United States,",tt0028249,Show Boat,1936.0,112.0,auto
+1021,1022.0,The Prince of Tides,1991.0,Barbra Streisand,"United States,",tt0102713,The Prince of Tides,1991.0,112.0,auto
+1022,1023.0,The Cremator,1969.0,Juraj Herz,"Czechoslovakia,",tt0063633,The Cremator,1969.0,112.0,auto
+1023,1024.0,Destry Rides Again,1939.0,George Marshall,"United States,",tt0031225,Destry Rides Again,1939.0,112.0,auto
+1024,1025.0,The Grand Budapest Hotel,2014.0,Wes Anderson,"United States,",tt2278388,The Grand Budapest Hotel,2014.0,112.0,auto
+1025,1026.0,Me and You and Everyone We Know,2005.0,Miranda July,"United States,",tt0415978,Me and You and Everyone We Know,2005.0,112.0,auto
+1026,1027.0,The Great Escape,1963.0,John Sturges,"United States,",tt0057115,The Great Escape,1963.0,112.0,auto
+1027,1028.0,"Dance, Girl, Dance",1940.0,Dorothy Arzner,"United States,",tt0032376,"Dance, Girl, Dance",1940.0,112.0,auto
+1028,1029.0,Husbands,1970.0,John Cassavetes,"United States,",tt0065867,Husbands,1970.0,112.0,auto
+1029,1030.0,Scorsese Shorts,,Martin Scorsese,"United States,",tt12431770,Scorsese Shorts,2020.0,102.0,auto
+1030,1031.0,Wildlife,2018.0,Paul Dano,"United States,",tt5929754,Wildlife,2018.0,112.0,auto
+1031,1032.0,An Unmarried Woman,1978.0,Paul Mazursky,"United States,",tt0078444,An Unmarried Woman,1978.0,112.0,auto
+1032,1033.0,The Cameraman,1928.0,Edward Sedgwick,"United States,",tt0018742,The Cameraman,1928.0,112.0,auto
+1033,1034.0,Portrait of a Lady on Fire,2019.0,Céline Sciamma,"France,",tt8613070,Portrait of a Lady on Fire,2019.0,112.0,auto
+1034,1035.0,Come and See,1985.0,Elem Klimov,"Soviet Union,",tt0091251,Come and See,1985.0,112.0,auto
+1036,1037.0,The War of the Worlds,1953.0,Byron Haskin,"United States,",tt0046534,The War of the Worlds,1953.0,112.0,auto
+1037,1038.0,Marriage Story,2019.0,Noah Baumbach,"United States,",tt7653254,Marriage Story,2019.0,112.0,auto
+1038,1039.0,Town Bloody Hall,1979.0,Chris Hegedus and D. A. Pennebaker,"United States,",tt0217853,Town Bloody Hall,1979.0,112.0,auto
+1039,1040.0,Toni,1935.0,Jean Renoir,"France,",tt0025898,Toni,1935.0,112.0,auto
+1040,1041.0,The Comfort of Strangers,1990.0,Paul Schrader,"Italy,",tt0099292,The Comfort of Strangers,1990.0,112.0,auto
+1041,1042.0,Beau travail,1999.0,Claire Denis,"France,",tt0209933,Beau Travail,1999.0,112.0,auto
+1042,1043.0,Christ Stopped at Eboli,1979.0,Francesco Rosi,"Italy,",tt0079010,Christ Stopped at Eboli,1979.0,112.0,auto
+1044,1045.0,Lucía,1968.0,Humberto Solás,"Cuba,",tt0064609,Lucia,1968.0,112.0,auto
+1045,1046.0,After the Curfew,1954.0,Usmar Ismail,"Indonesia,",tt0045997,After the Curfew,1954.0,112.0,auto
+1046,1047.0,Pixote,1980.0,Héctor Babenco,"Brazil,",tt0082912,Pixote,1980.0,107.0,auto
+1047,1048.0,Dos monjes,1934.0,Juan Bustillo Oro,"Mexico,",tt0025062,Two Monks,1934.0,112.0,auto
+1048,1049.0,Soleil Ô,1970.0,Med Hondo,"France,",tt0062285,"Oh, Sun",1970.0,112.0,auto
+1049,1050.0,Downpour,1972.0,Bahram Beyzaie,"Iran,",tt0067649,Downpour,1972.0,112.0,auto
+1050,1051.0,The Elephant Man,1980.0,David Lynch,"United States,",tt0080678,The Elephant Man,1980.0,112.0,auto
+1051,1052.0,Claudine,1974.0,John Berry,"United States,",tt0071334,Claudine,1974.0,112.0,auto
+1052,1053.0,The Gunfighter,1950.0,Henry King,"United States,",tt0042531,The Gunfighter,1950.0,112.0,auto
+1053,1054.0,Parasite,2019.0,Bong Joon Ho,"South Korea,",tt6751668,Parasite,2019.0,112.0,auto
+1054,1055.0,Girlfriends,1978.0,Claudia Weill,"United States,",tt0077613,Girlfriends,1978.0,112.0,auto
+1055,1056.0,Moonstruck,1987.0,Norman Jewison,"United States,",tt0093565,Moonstruck,1987.0,112.0,auto
+1056,1057.0,Ghost Dog: The Way of the Samurai,1999.0,Jim Jarmusch,"United States,",tt0165798,Ghost Dog: The Way of the Samurai,1999.0,112.0,auto
+1057,1058.0,The Irishman,2019.0,Martin Scorsese,"United States,",tt1302006,The Irishman,2019.0,112.0,auto
+1058,1059.0,Crash,1996.0,David Cronenberg,"Canada,",tt0115964,Crash,1996.0,112.0,auto
+1059,1060.0,Amores perros,2000.0,Alejandro G. Iñárritu,"Mexico,",tt0245712,Amores Perros,2000.0,112.0,auto
+1060,1061.0,Minding the Gap,2018.0,Bing Liu,"United States,",tt7476236,Minding the Gap,2018.0,112.0,auto
+1061,1062.0,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,2019.0,Martin Scorsese,"United States,",tt9577852,Rolling Thunder Revue,2019.0,112.0,auto
+1062,1063.0,The Ascent,1977.0,Larisa Shepitko,"Soviet Union,",tt0075404,The Ascent,1977.0,112.0,auto
+1063,1064.0,The Parallax View,1974.0,Alan J. Pakula,"United States,",tt0071970,The Parallax View,1974.0,112.0,auto
+1064,1065.0,Mandabi,1968.0,Ousmane Sembène,"Senegal,",tt0063268,Mandabi,1968.0,107.0,auto
+1065,1066.0,Man Push Cart,2005.0,Ramin Bahrani,"United States,",tt0464105,Man Push Cart,2005.0,112.0,auto
+1066,1067.0,Chop Shop,2007.0,Ramin Bahrani,"United States,",tt0990404,Chop Shop,2007.0,112.0,auto
+1067,1068.0,Smooth Talk,1985.0,Joyce Chopra,"United States,",tt0090037,Smooth Talk,1985.0,112.0,auto
+1069,1070.0,Secrets & Lies,1996.0,Mike Leigh,"United Kingdom,",tt0117589,Secrets & Lies,1996.0,112.0,auto
+1070,1071.0,Defending Your Life,1991.0,Albert Brooks,"United States,",tt0101698,Defending Your Life,1991.0,112.0,auto
+1071,1072.0,History Is Made at Night,1937.0,Frank Borzage,"United States,",tt0029002,History Is Made at Night,1937.0,112.0,auto
+1072,1073.0,Memories of Murder,2003.0,Bong Joon Ho,"South Korea,",tt0353969,Memories of Murder,2003.0,112.0,auto
+1073,1074.0,Irma Vep,1996.0,Olivier Assayas,"France,",tt0116650,Irma Vep,1996.0,112.0,auto
+1074,1075.0,Fast Times at Ridgemont High,1982.0,Amy Heckerling,"United States,",tt0083929,Fast Times at Ridgemont High,1982.0,112.0,auto
+1075,1076.0,Merrily We Go to Hell,1932.0,Dorothy Arzner,"United States,",tt0023213,Merrily We Go to Hell,1932.0,112.0,auto
+1076,1077.0,Flowers of Shanghai,1998.0,Hou Hsiao-hsien,"Taiwan,",tt0156587,Flowers of Shanghai,1998.0,112.0,auto
+1077,1078.0,Nightmare Alley,1947.0,Edmund Goulding,"United States,",tt0039661,Nightmare Alley,1947.0,112.0,auto
+1078,1079.0,Streetwise,1984.0,Martin Bell,"United States,",tt0088196,Streetwise,1984.0,112.0,auto
+1079,1080.0,Tiny: The Life of Erin Blackwell,2016.0,Martin Bell,"United States,",tt3505094,Tiny: The Life of Erin Blackwell,2016.0,112.0,auto
+1080,1081.0,Visions of Eight,1973.0,"Juri Ozerov, Mai Zetterling, Arthur Penn, Michael Pfleghar, Kon Ichikawa, Miloš Forman, Claude Lelouch, and John Schlesinger","United States,",tt0070884,Visions of Eight,1973.0,112.0,auto
+1082,1083.0,Pariah,2011.0,Dee Rees,"United States,",tt1233334,Pariah,2011.0,112.0,auto
+1083,1084.0,Mirror,1975.0,Andrei Tarkovsky,"Soviet Union,",tt0072443,Mirror,1975.0,112.0,auto
+1084,1085.0,Bringing Up Baby,1938.0,Howard Hawks,"United States,",tt0029947,Bringing Up Baby,1938.0,112.0,auto
+1085,1086.0,Deep Cover,1992.0,Bill Duke,"United States,",tt0104073,Deep Cover,1992.0,112.0,auto
+1086,1087.0,Working Girls,1986.0,Lizzie Borden,"United States,",tt0092238,Working Girls,1986.0,112.0,auto
+1087,1088.0,La piscine,1969.0,Jacques Deray,"France,",tt0064816,The Swimming Pool,1969.0,112.0,auto
+1088,1089.0,After Life,1998.0,Hirokazu Kore-eda,"Japan,",tt0165078,After Life,1998.0,100.0,auto
+1089,1090.0,Original Cast Album: “Company”,1970.0,D. A. Pennebaker,"United States,",tt0293475,Original Cast Album: Company,1970.0,112.0,auto
+1090,1091.0,Beasts of No Nation,2015.0,Cary Joji Fukunaga,"United States,",tt1365050,Beasts of No Nation,2015.0,112.0,auto
+1091,1092.0,Throw Down,2004.0,Johnnie To,"Hong Kong,",tt0415380,Throw Down,2004.0,112.0,auto
+1092,1093.0,The Story of a Three Day Pass,1967.0,Melvin Van Peebles,"France,",tt0063646,The Story of a Three Day Pass,1967.0,112.0,auto
+1093,1094.0,Watermelon Man,1970.0,Melvin Van Peebles,"United States,",tt0066550,Watermelon Man,1970.0,112.0,auto
+1094,1095.0,Sweet Sweetback’s Baadasssss Song,1971.0,Melvin Van Peebles,"United States,",tt0067810,Sweet Sweetback's Baadasssss Song,1971.0,112.0,auto
+1095,1096.0,Don’t Play Us Cheap,1972.0,Melvin Van Peebles,"United States,",tt0069996,Don't Play Us Cheap,1972.0,112.0,auto
+1096,1097.0,Love & Basketball,2000.0,Gina Prince-Bythewood,"United States,",tt0199725,Love & Basketball,2000.0,112.0,auto
+1097,1098.0,The Damned,1969.0,Luchino Visconti,"Italy,",tt0064118,The Damned,1969.0,112.0,auto
+1098,1099.0,High Sierra,1941.0,Raoul Walsh,"United States,",tt0033717,High Sierra,1941.0,112.0,auto
+1099,1100.0,The Incredible Shrinking Man,1957.0,Jack Arnold,"United States,",tt0050539,The Incredible Shrinking Man,1957.0,112.0,auto
+1100,1101.0,Uncut Gems,2019.0,Josh Safdie and Benny Safdie,"United States,",tt5727208,Uncut Gems,2019.0,112.0,auto
+1101,1102.0,Devi,1960.0,Satyajit Ray,"India,",tt0053765,The Goddess,1960.0,112.0,auto
+1103,1104.0,Citizen Kane,1941.0,Orson Welles,"United States,",tt0033467,Citizen Kane,1941.0,112.0,auto
+1104,1105.0,Menace II Society,1993.0,Albert Hughes and Allen Hughes,"United States,",tt0107554,Menace II Society,1993.0,112.0,auto
+1105,1106.0,One Night in Miami . . .,2020.0,Regina King,"United States,",tt10612922,One Night in Miami...,2020.0,112.0,auto
+1106,1107.0,The Learning Tree,1969.0,Gordon Parks,"United States,",tt0064579,The Learning Tree,1969.0,112.0,auto
+1107,1108.0,The Celebration,1998.0,Thomas Vinterberg,"Denmark,",tt0154420,The Celebration,1998.0,112.0,auto
+1108,1109.0,Time,2020.0,Garrett Bradley,"United States,",tt11416746,Time,2020.0,112.0,auto
+1109,1110.0,The Piano,1993.0,Jane Campion,"New Zealand,",tt0107822,The Piano,1993.0,112.0,auto
+1110,1111.0,Dick Johnson Is Dead,2020.0,Kirsten Johnson,"United States,",tt11394180,Dick Johnson Is Dead,2020.0,112.0,auto
+1111,1112.0,Miller’s Crossing,1990.0,Joel Coen,"United States,",tt0100150,Miller's Crossing,1990.0,112.0,auto
+1112,1113.0,Boat People,1982.0,Ann Hui,"Hong Kong,",tt0084807,Boat People,1982.0,112.0,auto
+1113,1114.0,Love Affair,1939.0,Leo McCarey,"United States,",tt0031593,Love Affair,1939.0,112.0,auto
+1114,1115.0,Adoption,1975.0,Márta Mészáros,"Hungary,",tt0073948,Adoption,1975.0,112.0,auto
+1115,1116.0,The Flight of the Phoenix,1965.0,Robert Aldrich,"United States,",tt0059183,The Flight of the Phoenix,1965.0,112.0,auto
+1116,1117.0,love jones,1997.0,Theodore Witcher,"United States,",tt0119572,Love Jones,1997.0,112.0,auto
+1117,1118.0,The Last Waltz,1978.0,Martin Scorsese,"United States,",tt0077838,The Last Waltz,1978.0,112.0,auto
+1118,1119.0,Miracle in Milan,1951.0,Vittorio De Sica,"Italy,",tt0043809,Miracle in Milan,1951.0,112.0,auto
+1119,1120.0,The Girl Can’t Help It,1956.0,Frank Tashlin,"United States,",tt0049263,The Girl Can't Help It,1956.0,112.0,auto
+1121,1122.0,’Round Midnight,1986.0,Bertrand Tavernier,"United States,",tt0090557,'Round Midnight,1986.0,112.0,auto
+1122,1123.0,Mr. Klein,1976.0,Joseph Losey,"France,",tt0074916,Mr. Klein,1976.0,112.0,auto
+1123,1124.0,Chan Is Missing,1982.0,Wayne Wang,"United States,",tt0083728,Chan Is Missing,1982.0,112.0,auto
+1124,1125.0,The Funeral,1984.0,Juzo Itami,"Japan,",tt0089746,The Funeral,1984.0,107.0,auto
+1125,1126.0,Double Indemnity,1944.0,Billy Wilder,"United States,",tt0036775,Double Indemnity,1944.0,112.0,auto
+1126,1127.0,Mississippi Masala,1991.0,Mira Nair,"United States,",tt0102456,Mississippi Masala,1991.0,112.0,auto
+1127,1128.0,Farewell Amor,2020.0,Ekwa Msangi,"United States,",tt11380884,Farewell Amor,2020.0,112.0,auto
+1128,1129.0,Rouge,1987.0,Stanley Kwan,"Hong Kong,",tt0093258,Rouge,1987.0,112.0,auto
+1129,1130.0,Shaft,1971.0,Gordon Parks,"United States,",tt0067741,Shaft,1971.0,112.0,auto
+1130,1131.0,Pink Flamingos,1972.0,John Waters,"United States,",tt0069089,Pink Flamingos,1972.0,112.0,auto
+1131,1132.0,The Worst Person in the World,2021.0,Joachim Trier,"Norway,",tt10370710,The Worst Person in the World,2021.0,112.0,auto
+1132,1133.0,Okja,2017.0,Bong Joon Ho,"South Korea,",tt3967856,Okja,2017.0,112.0,auto
+1133,1134.0,Raging Bull,1980.0,Martin Scorsese,"United States,",tt0081398,Raging Bull,1980.0,112.0,auto
+1134,1135.0,Devil in a Blue Dress,1995.0,Carl Franklin,"United States,",tt0112857,Devil in a Blue Dress,1995.0,112.0,auto
+1135,1136.0,Drive My Car,2021.0,Ryusuke Hamaguchi,"Japan,",tt14039582,Drive My Car,2021.0,112.0,auto
+1136,1137.0,Frownland,2007.0,Ronald Bronstein,"United States,",tt0970935,Frownland,2007.0,112.0,auto
+1137,1138.0,Daddy Longlegs,2009.0,Josh Safdie and Benny Safdie,"United States,",tt1426362,Daddy Longlegs,2009.0,112.0,auto
+1138,1139.0,Hôtel du Nord,1938.0,Marcel Carné,"France,",tt0030252,Hotel du Nord,1938.0,112.0,auto
+1139,1140.0,Buck and the Preacher,1972.0,Sidney Poitier,"United States,",tt0068323,Buck and the Preacher,1972.0,112.0,auto
+1140,1141.0,Faya dayi,2021.0,Jessica Beshir,"Ethiopia,",tt13648216,Faya Dayi,2021.0,112.0,auto
+1142,1143.0,Sambizanga,1972.0,Sarah Maldoror,"Angola,",tt0069214,Sambizanga,1972.0,112.0,auto
+1143,1144.0,Prisioneros de la tierra,1939.0,Mario Soffici,"Argentina,",tt0176049,Prisioneros de la tierra,1939.0,112.0,auto
+1144,1145.0,Chess of the Wind,1976.0,Mohammad Reza Aslani,"Iran,",tt0318069,Chess of the Wind,1976.0,112.0,auto
+1145,1146.0,Muna moto,1975.0,Dikongué-Pipa,"Cameroon,",tt0073417,The Child of Another,1975.0,100.0,auto
+1146,1147.0,Two Girls on the Street,1939.0,André de Toth,"Hungary,",tt0031544,Two Girls on the Street,1939.0,112.0,auto
+1147,1148.0,Kalpana,1948.0,Uday Shankar,"India,",tt0311384,Kalpana,1948.0,112.0,auto
+1148,1149.0,Take Out,2004.0,Sean Baker and Shih-Ching Tsou,"United States,",tt0391483,Take Out,2004.0,112.0,auto
+1149,1150.0,Exotica,1994.0,Atom Egoyan,"Canada,",tt0109759,Exotica,1994.0,112.0,auto
+1150,1151.0,Sound of Metal,2019.0,Darius Marder,"United States,",tt5363618,Sound of Metal,2019.0,112.0,auto
+1151,1152.0,Lost Highway,1997.0,David Lynch,"United States,",tt0116922,Lost Highway,1997.0,112.0,auto
+1152,1153.0,Arsenic and Old Lace,1944.0,Frank Capra,"United States,",tt0036613,Arsenic and Old Lace,1944.0,112.0,auto
+1153,1154.0,Eve’s Bayou,1997.0,Kasi Lemmons,"United States,",tt0119080,Eve's Bayou,1997.0,112.0,auto
+1154,1155.0,Cure,1997.0,Kiyoshi Kurosawa,"Japan,",tt0123948,Cure,1997.0,112.0,auto
+1155,1156.0,La Llorona,2019.0,Jayro Bustamante,"Guatemala,",tt10767168,La Llorona,2019.0,112.0,auto
+1156,1157.0,Daisies,1966.0,Věra Chytilová,"Czechoslovakia,",tt0060959,Daisies,1966.0,107.0,auto
+1157,1158.0,The Power of the Dog,2021.0,Jane Campion,"United States,",tt10293406,The Power of the Dog,2021.0,112.0,auto
+1159,1160.0,Malcolm X,1992.0,Spike Lee,"United States,",tt0104797,Malcolm X,1992.0,112.0,auto
+1160,1161.0,WALL·E,2008.0,Andrew Stanton,"United States,",tt0910970,WALL·E,2008.0,112.0,auto
+1163,1164.0,The Velvet Underground,2021.0,Todd Haynes,"United States,",tt7230750,The Velvet Underground,2021.0,112.0,auto
+1164,1165.0,Cooley High,1975.0,Michael Schultz,"United States,",tt0072820,Cooley High,1975.0,112.0,auto
+1165,1166.0,The Adventures of Baron Munchausen,1988.0,Terry Gilliam,"United Kingdom,",tt0096764,The Adventures of Baron Munchausen,1988.0,112.0,auto
+1166,1167.0,Imitation of Life,1934.0,John M. Stahl,"United States,",tt0025301,Imitation of Life,1934.0,112.0,auto
+1168,1169.0,"This Is Not a Burial, It’s a Resurrection",2019.0,Lemohang Jeremiah Mosese,"Lesotho,",tt10849514,"This Is Not a Burial, It's a Resurrection",2019.0,112.0,auto
+1169,1170.0,Bergman Island,2021.0,Mia Hansen-Løve,"France,",tt6910282,Bergman Island,2021.0,112.0,auto
+1170,1171.0,Romeo and Juliet,1968.0,Franco Zeffirelli,"Italy,",tt0063518,Romeo and Juliet,1968.0,112.0,auto
+1172,1173.0,Hollywood Shuffle,1987.0,Robert Townsend,"United States,",tt0093200,Hollywood Shuffle,1987.0,112.0,auto
+1173,1174.0,Last Hurrah for Chivalry,1979.0,John Woo,"Hong Kong,",tt0077655,Last Hurrah for Chivalry,1979.0,112.0,auto
+1174,1175.0,Inland Empire,2006.0,David Lynch,"United States,",tt0460829,Inland Empire,2006.0,112.0,auto
+1175,1176.0,Chilly Scenes of Winter,1979.0,Joan Micklin Silver,"United States,",tt0079278,Chilly Scenes of Winter,1979.0,112.0,auto
+1177,1178.0,Triangle of Sadness,2022.0,Ruben Östlund,"Sweden,",tt7322224,Triangle of Sadness,2022.0,112.0,auto
+1178,1179.0,Targets,1968.0,Peter Bogdanovich,"United States,",tt0063671,Targets,1968.0,112.0,auto
+1179,1180.0,Thelma & Louise,1991.0,Ridley Scott,"United States,",tt0103074,Thelma & Louise,1991.0,112.0,auto
+1180,1181.0,Petite maman,2021.0,Céline Sciamma,"France,",tt13204490,Petite Maman,2021.0,112.0,auto
+1181,1182.0,The Servant,1963.0,Joseph Losey,"United Kingdom,",tt0057490,The Servant,1963.0,112.0,auto
+1182,1183.0,Medicine for Melancholy,2008.0,Barry Jenkins,"United States,",tt1133989,Medicine for Melancholy,2008.0,112.0,auto
+1183,1184.0,The Watermelon Woman,1996.0,Cheryl Dunye,"United States,",tt0118125,The Watermelon Woman,1996.0,112.0,auto
+1184,1185.0,After Hours,1985.0,Martin Scorsese,"United States,",tt0088680,After Hours,1985.0,112.0,auto
+1186,1187.0,One False Move,1992.0,Carl Franklin,"United States,",tt0102592,One False Move,1991.0,106.0,auto
+1187,1188.0,Dim Sum: A Little Bit of Heart,1985.0,Wayne Wang,"United States,",tt0087150,Dim Sum: A Little Bit of Heart,1985.0,112.0,auto
+1189,1190.0,Drylongso,1998.0,Cauleen Smith,"United States,",tt0181517,Drylongso,1998.0,112.0,auto
+1190,1191.0,The Trial,1962.0,Orson Welles,"France,",tt0057427,The Trial,1962.0,112.0,auto
+1191,1192.0,Moonage Daydream,2022.0,Brett Morgen,"United States,",tt9883832,Moonage Daydream,2022.0,112.0,auto
+1192,1193.0,La Bamba,1987.0,Luis Valdez,"United States,",tt0093378,La Bamba,1987.0,112.0,auto
+1194,1195.0,The Others,2001.0,Alejandro Amenábar,"Spain,",tt0230600,The Others,2001.0,112.0,auto
+1195,1196.0,Nanny,2022.0,Nikyatu Jusu,"United States,",tt10931784,Nanny,2022.0,112.0,auto
+1197,1198.0,Mean Streets,1973.0,Martin Scorsese,"United States,",tt0070379,Mean Streets,1973.0,112.0,auto
+1198,1199.0,La cérémonie,1995.0,Claude Chabrol,"France,",tt0112769,The Ceremony,1995.0,112.0,auto
+1200,1201.0,Guillermo del Toro’s Pinocchio,2022.0,Guillermo del Toro and Mark Gustafson,"Mexico,",tt1488589,Guillermo del Toro's Pinocchio,2022.0,112.0,auto
+1201,1202.0,Lone Star,1996.0,John Sayles,"United States,",tt0116905,Lone Star,1996.0,112.0,auto
+1203,1204.0,Trainspotting,1996.0,Danny Boyle,"United Kingdom,",tt0117951,Trainspotting,1996.0,112.0,auto
+1204,1205.0,Mudbound,2017.0,Dee Rees,"United States,",tt2396589,Mudbound,2017.0,112.0,auto
+1207,1208.0,The Roaring Twenties,1939.0,Raoul Walsh,"United States,",tt0031867,The Roaring Twenties,1939.0,112.0,auto
+1208,1209.0,Nothing but a Man,1964.0,Michael Roemer,"United States,",tt0058414,Nothing But a Man,1964.0,112.0,auto
+1209,1210.0,All the Beauty and the Bloodshed,2022.0,Laura Poitras,"United States,",tt21374850,All the Beauty and the Bloodshed,2022.0,112.0,auto
+1210,1211.0,The Runner,1984.0,Amir Naderi,"Iran,",tt0088992,The Runner,1984.0,112.0,auto
+1211,1212.0,Saint Omer,2022.0,Alice Diop,"France,",tt15376894,Saint Omer,2022.0,112.0,auto
+1212,1213.0,To Die For,1995.0,Gus Van Sant,"United States,",tt0114681,To Die For,1995.0,112.0,auto
+1213,1214.0,I Am Cuba,1964.0,Mikhail Kalatozov,"Cuba,",tt0058604,I Am Cuba,1964.0,112.0,auto
+1214,1215.0,Werckmeister Harmonies,2000.0,Béla Tarr and Ágnes Hranitzky,"Hungary,",tt0249241,Werckmeister Harmonies,2000.0,112.0,auto
+1215,1216.0,Dogfight,1991.0,Nancy Savoca,"United States,",tt0101748,Dogfight,1991.0,112.0,auto
+1217,1218.0,Anatomy of a Fall,2023.0,Justine Triet,"France,",tt17009710,Anatomy of a Fall,2023.0,112.0,auto
+1218,1219.0,Girlfight,2000.0,Karyn Kusama,"United States,",tt0210075,Girlfight,2000.0,112.0,auto
+1219,1220.0,Bound,1996.0,Lana Wachowski and Lilly Wachowski,"United States,",tt0115736,Bound,1996.0,112.0,auto
+1220,1221.0,Querelle,1982.0,Rainer Werner Fassbinder,"Germany,",tt0084565,Querelle,1982.0,112.0,auto
+1221,1222.0,Victims of Sin,1951.0,Emilio Fernández,"Mexico,",tt0043115,Victims of Sin,1951.0,112.0,auto
+1223,1224.0,Pat Garrett and Billy the Kid,1973.0,Sam Peckinpah,"United States,",tt0070518,Pat Garrett & Billy the Kid,1973.0,112.0,auto
+1224,1225.0,"Black God, White Devil",1964.0,Glauber Rocha,"Brazil,",tt0058006,"Black God, White Devil",1964.0,112.0,auto
+1225,1226.0,Perfect Days,2023.0,Wim Wenders,"Japan,",tt27503384,Perfect Days,2023.0,112.0,auto
+1226,1227.0,Risky Business,1983.0,Paul Brickman,"United States,",tt0086200,Risky Business,1983.0,112.0,auto
+1227,1228.0,Farewell My Concubine,1993.0,Chen Kaige,"China,",tt0106332,Farewell My Concubine,1993.0,112.0,auto
+1229,1230.0,Not a Pretty Picture,1975.0,Martha Coolidge,"United States,",tt0073467,Not a Pretty Picture,1976.0,106.0,auto
+1230,1231.0,Real Life,1979.0,Albert Brooks,"United States,",tt0079781,Real Life,1979.0,112.0,auto
+1231,1232.0,Mother,1996.0,Albert Brooks,"United States,",tt0117091,Mother,1996.0,112.0,auto
+1233,1234.0,All of Us Strangers,2023.0,Andrew Haigh,"United Kingdom,",tt21192142,All of Us Strangers,2023.0,112.0,auto
+1234,1235.0,Happiness,1998.0,Todd Solondz,"United States,",tt0147612,Happiness,1998.0,112.0,auto
+1236,1237.0,Demon Pond,1979.0,Masahiro Shinoda,"Japan,",tt0079041,Demon Pond,1979.0,112.0,auto
+1237,1238.0,Gummo,1997.0,Harmony Korine,"United States,",tt0119237,Gummo,1997.0,112.0,auto
+1238,1239.0,Scarface,1932.0,Howard Hawks,"United States,",tt0023427,Scarface,1932.0,112.0,auto
+1239,1240.0,Funny Girl,1968.0,William Wyler,"United States,",tt0062994,Funny Girl,1968.0,112.0,auto
+1240,1241.0,Paper Moon,1973.0,Peter Bogdanovich,"United States,",tt0070510,Paper Moon,1973.0,112.0,auto
+1241,1242.0,The Shape of Water,2017.0,Guillermo del Toro,"United States,",tt5580390,The Shape of Water,2017.0,112.0,auto
+1242,1243.0,No Country for Old Men,2007.0,Joel Coen and Ethan Coen,"United States,",tt0477348,No Country for Old Men,2007.0,112.0,auto
+1243,1244.0,Eastern Condors,1987.0,Sammo Hung,"Hong Kong,",tt0090956,Eastern Condors,1987.0,100.0,auto
+1244,1245.0,The Mother and the Whore,1973.0,Jean Eustache,"France,",tt0070359,The Mother and the Whore,1973.0,112.0,auto
+1245,1246.0,The Grifters,1990.0,Stephen Frears,"United States,",tt0099703,The Grifters,1990.0,112.0,auto
+1246,1247.0,"Jo Jo Dancer, Your Life Is Calling",1986.0,Richard Pryor,"United States,",tt0091295,"Jo Jo Dancer, Your Life Is Calling",1986.0,112.0,auto
+1247,1248.0,Winchester ’73,1950.0,Anthony Mann,"United States,",tt0043137,Winchester '73,1950.0,112.0,auto
+1248,1249.0,King Lear,1987.0,Jean-Luc Godard,"United States,",tt0093349,King Lear,1987.0,112.0,auto
+1249,1250.0,Crossing Delancey,1988.0,Joan Micklin Silver,"United States,",tt0094921,Crossing Delancey,1988.0,112.0,auto
+1250,1251.0,Drugstore Cowboy,1989.0,Gus Van Sant,"United States,",tt0097240,Drugstore Cowboy,1989.0,112.0,auto
+1251,1252.0,Performance,1970.0,Donald Cammell and Nicolas Roeg,"United Kingdom,",tt0066214,Performance,1970.0,112.0,auto
+1253,1254.0,Godzilla vs. Biollante,1989.0,Kazuki Omori,"Japan,",tt0097444,Godzilla vs. Biollante,1989.0,112.0,auto
+1254,1255.0,Night Moves,1975.0,Arthur Penn,"United States,",tt0073453,Night Moves,1975.0,112.0,auto
+1255,1256.0,Choose Me,1984.0,Alan Rudolph,"United States,",tt0087054,Choose Me,1984.0,112.0,auto
+1257,1258.0,Prince of Broadway,2008.0,Sean Baker,"United States,",tt1000769,Prince of Broadway,2008.0,112.0,auto
+1258,1259.0,Anora,2024.0,Sean Baker,"United States,",tt28607951,Anora,2024.0,112.0,auto
+1259,1260.0,Basquiat,1996.0,Julian Schnabel,"United States,",tt0115632,Basquiat,1996.0,112.0,auto
+1260,1261.0,The Wind Will Carry Us,1999.0,Abbas Kiarostami,"Iran,",tt0209463,The Wind Will Carry Us,1999.0,112.0,auto
+1261,1262.0,Killer of Sheep,1977.0,Charles Burnett,"United States,",tt0076263,Killer of Sheep,1978.0,106.0,auto
+1263,1264.0,The Wiz,1978.0,Sidney Lumet,"United States,",tt0078504,The Wiz,1978.0,112.0,auto
+1264,1265.0,"Thelonious Monk Straight, No Chaser",1988.0,Charlotte Zwerin,"United States,",tt0098465,"Thelonious Monk: Straight, No Chaser",1988.0,112.0,auto
+1265,1266.0,Midnight,1939.0,Mitchell Leisen,"United States,",tt0031647,Midnight,1939.0,112.0,auto
+1266,1267.0,Sorcerer,1977.0,William Friedkin,"United States,",tt0076740,Sorcerer,1977.0,112.0,auto
+1267,1268.0,Thirty Two Short Films About Glenn Gould,1993.0,François Girard,"Canada,",tt0108328,Thirty Two Short Films About Glenn Gould,1993.0,112.0,auto
+1268,1269.0,The Big Heat,1953.0,Fritz Lang,"United States,",tt0045555,The Big Heat,1953.0,112.0,auto
+1269,1270.0,Carnal Knowledge,1971.0,Mike Nichols,"United States,",tt0066892,Carnal Knowledge,1971.0,112.0,auto
+1270,1271.0,You Can Count on Me,2000.0,Kenneth Lonergan,"United States,",tt0203230,You Can Count on Me,2000.0,112.0,auto
+1271,1272.0,Shoeshine,1946.0,Vittorio De Sica,"Italy,",tt0038913,Shoeshine,1946.0,112.0,auto
+1272,1273.0,Cairo Station,1958.0,Youssef Chahine,"Egypt,",tt0051390,Cairo Station,1958.0,112.0,auto
+1273,1274.0,Compensation,1999.0,Zeinabu irene Davis,"United States,",tt0223027,Compensation,1999.0,112.0,auto
+1275,1276.0,Saving Face,2004.0,Alice Wu,"United States,",tt0384504,Saving Face,2004.0,112.0,auto
+1276,1277.0,Born in Flames,1983.0,Lizzie Borden,"United States,",tt0085267,Born in Flames,1983.0,112.0,auto
+1277,1278.0,Flow,2024.0,Gints Zilbalodis,"Latvia,",tt4772188,Flow,2024.0,112.0,auto
+1278,1279.0,Read My Lips,2001.0,Jacques Audiard,"France,",tt0274117,Read My Lips,2001.0,112.0,auto
+1279,1280.0,The Beat That My Heart Skipped,2005.0,Jacques Audiard,"France,",tt0411270,The Beat That My Heart Skipped,2005.0,112.0,auto
+1280,1281.0,Isle of Dogs,2018.0,Wes Anderson,"United States,",tt5104604,Isle of Dogs,2018.0,112.0,auto
+1281,1282.0,"The French Dispatch of the Liberty, Kansas Evening Sun",2021.0,Wes Anderson,"United States,",tt8847712,The French Dispatch,2021.0,112.0,auto
+1282,1283.0,A History of Violence,2005.0,David Cronenberg,"United States,",tt0399146,A History of Violence,2005.0,112.0,auto
+1283,1284.0,Altered States,1980.0,Ken Russell,"United States,",tt0080360,Altered States,1980.0,112.0,auto
+1284,1285.0,Deep Crimson,1996.0,Arturo Ripstein,"Mexico,",tt0117394,Deep Crimson,1996.0,112.0,auto
+1285,1286.0,Nightmare Alley,2021.0,Guillermo del Toro,"United States,",tt7740496,Nightmare Alley,2021.0,112.0,auto
+1286,1287.0,House Party,1990.0,Reginald Hudlin,"United States,",tt0099800,House Party,1990.0,112.0,auto
+1287,1288.0,Hell’s Angels,1930.0,Howard Hughes,"United States,",tt0020960,Hell's Angels,1930.0,112.0,auto
+1288,1289.0,Él,1953.0,Luis Buñuel,"Mexico,",tt0045361,El,1953.0,112.0,auto
+1289,1290.0,Eyes Wide Shut,1999.0,Stanley Kubrick,"United Kingdom,",tt0120663,Eyes Wide Shut,1999.0,112.0,auto
+1290,1291.0,Return to Reason: Four Films by Man Ray,2023.0,Man Ray,"France,",tt27656132,Return to Reason: Four Films by Man Ray,2023.0,112.0,auto
+1291,1292.0,Salaam Bombay!,1988.0,Mira Nair,"India,",tt0096028,Salaam Bombay!,1988.0,112.0,auto
+1292,1293.0,Pee-wee’s Big Adventure,1985.0,Tim Burton,"United States,",tt0089791,Pee-wee's Big Adventure,1985.0,112.0,auto
+1293,1294.0,David Byrne’s American Utopia,2020.0,Spike Lee,"United States,",tt11874226,David Byrne's American Utopia,2020.0,112.0,auto
+1294,1295.0,The Dead,1987.0,John Huston,"United Kingdom,",tt0092843,The Dead,1987.0,112.0,auto
+1296,1297.0,Captain Blood,1935.0,Michael Curtiz,"United States,",tt0026174,Captain Blood,1935.0,112.0,auto
+1297,1298.0,Birth,2004.0,Jonathan Glazer,"United States,",tt0337876,Birth,2004.0,112.0,auto
+1298,1299.0,Kiss of the Spider Woman,1985.0,Héctor Babenco,"United States,",tt0089424,Kiss of the Spider Woman,1985.0,107.0,auto
+1299,1300.0,Network,1976.0,Sidney Lumet,"United States,",tt0074958,Network,1976.0,112.0,auto
+1300,1301.0,The Man Who Wasn’t There,2001.0,Joel Coen,"United States,",tt0243133,The Man Who Wasn't There,2001.0,112.0,auto
+1301,1302.0,Killers of the Flower Moon,2023.0,Martin Scorsese,"United States,",tt5537002,Killers of the Flower Moon,2023.0,112.0,auto
+1302,1303.0,Testament,1983.0,Lynne Littman,"United States,",tt0086429,Testament,1983.0,112.0,auto
+1303,1304.0,A Man and a Woman,1966.0,Claude Lelouch,"France,",tt0061138,A Man and a Woman,1966.0,112.0,auto
+1304,1305.0,The Blade,1995.0,Tsui Hark,"Hong Kong,",tt0112800,The Blade,1995.0,112.0,auto
+1307,,The Killers,1946.0,Robert Siodmak,"United States,",tt0038669,The Killers,1946.0,112.0,auto
+1308,,The Killers,1964.0,Don Siegel,"United States,",tt0058262,The Killers,1964.0,112.0,auto
+1309,,A Story of Floating Weeds,1934.0,Yasujiro Ozu,"Japan,",tt0025929,A Story of Floating Weeds,1934.0,112.0,auto
+1310,,Floating Weeds,1959.0,Yasujiro Ozu,"Japan,",tt0053390,Floating Weeds,1959.0,112.0,auto
+1311,,The Lower Depths,1936.0,Jean Renoir,"France,",tt0027336,The Lower Depths,1936.0,112.0,auto
+1312,,The Lower Depths,1957.0,Akira Kurosawa,"Japan,",tt0050330,The Lower Depths,1957.0,112.0,auto
+1313,,Borderline,1930.0,Kenneth Macpherson,"United States,",tt0020701,Borderline,1930.0,112.0,auto
+1315,,Jericho,1937.0,Thornton Freeland,"United Kingdom,",tt0029064,Dark Sands,1937.0,112.0,auto
+1316,,Native Land,1942.0,Leo Hurwitz and Paul Strand,"United States,",tt0035112,Native Land,1942.0,112.0,auto
+1318,,Sans Soleil,1983.0,Chris Marker,"France,",tt0084628,Sans Soleil,1983.0,112.0,auto
+1319,,America Lost and Found: The BBS Story,,,,tt1778199,America Lost and Found: The BBS Story,2010.0,90.0,auto
+1320,,The Suitor,1963.0,Pierre Etaix,"France,",tt0056514,The Suitor,1962.0,94.0,auto
+1321,,Yoyo,1965.0,Pierre Etaix,"France,",tt0059934,Yoyo,1965.0,100.0,auto
+1322,,As Long as You’ve Got Your Health,1966.0,Pierre Etaix,"France,",tt0207145,As Long as You've Got Your Health,1966.0,100.0,auto
+1323,,Le grand amour,1969.0,Pierre Etaix,"France,",tt0064390,Le Grand Amour,1969.0,100.0,auto
+1324,,Land of Milk and Honey,1971.0,Pierre Etaix,"France,",tt0258013,Land of Milk and Honey,1971.0,100.0,auto
+1326,,Zéro de conduite,1933.0,Jean Vigo,"France,",tt0024803,Zero for Conduct,1933.0,112.0,auto
+1327,,L’Atalante,1934.0,Jean Vigo,"France,",tt0024844,L'Atalante,1934.0,112.0,auto
+1328,,The Tale of Zatoichi,1962.0,Kenji Misumi,"Japan,",tt0056714,The Tale of Zatoichi,1962.0,112.0,auto
+1329,,The Tale of Zatoichi Continues,1962.0,Kazuo Mori,"Japan,",tt0200309,The Tale of Zatoichi Continues,1962.0,112.0,auto
+1330,,New Tale of Zatoichi,1963.0,Tokuzo Tanaka,"Japan,",tt0057503,New Tale of Zatoichi,1963.0,112.0,auto
+1331,,Zatoichi the Fugitive,1963.0,Tokuzo Tanaka,"Japan,",tt0057715,Zatoichi the Fugitive,1963.0,112.0,auto
+1332,,Zatoichi on the Road,1963.0,Kimiyoshi Yasuda,"Japan,",tt0057714,Zatoichi on the Road,1963.0,112.0,auto
+1333,,Zatoichi and the Chest of Gold,1964.0,Kazuo Ikehiro,"Japan,",tt0130377,Zatoichi and the Chest of Gold,1964.0,112.0,auto
+1334,,Zatoichi’s Flashing Sword,1964.0,Kazuo Ikehiro,"Japan,",tt0191664,Zatoichi's Flashing Sword,1964.0,112.0,auto
+1335,,"Fight, Zatoichi, Fight",1964.0,Kenji Misumi,"Japan,",tt0123334,"Fight, Zatoichi, Fight",1964.0,112.0,auto
+1336,,Adventures of Zatoichi,1964.0,Kimiyoshi Yasuda,"Japan,",tt0164984,Adventures of Zatoichi,1964.0,112.0,auto
+1337,,Zatoichi’s Revenge,1965.0,Akira Inoue,"Japan,",tt0123335,Zatoichi's Revenge,1965.0,112.0,auto
+1338,,Zatoichi and the Doomed Man,1965.0,Kazuo Mori,"Japan,",tt0202154,Zatoichi and the Doomed Man,1965.0,112.0,auto
+1339,,Zatoichi and the Chess Expert,1965.0,Kenji Misumi,"Japan,",tt0059942,Zatoichi and the Chess Expert,1965.0,112.0,auto
+1340,,Zatoichi’s Vengeance,1966.0,Tokuzo Tanaka,"Japan,",tt0143012,Zatoichi's Vengeance,1966.0,112.0,auto
+1341,,Zatoichi’s Pilgrimage,1966.0,Kazuo Ikehiro,"Japan,",tt0199905,Zatoichi's Pilgrimage,1966.0,112.0,auto
+1342,,Zatoichi’s Cane Sword,1967.0,Kimiyoshi Yasuda,"Japan,",tt0186725,Zatoichi's Cane Sword,1967.0,112.0,auto
+1343,,Zatoichi the Outlaw,1967.0,Satsuo Yamamoto,"Japan,",tt0062518,Zatoichi the Outlaw,1967.0,112.0,auto
+1344,,Zatoichi Challenged,1967.0,Kenji Misumi,"Japan,",tt0063834,Zatoichi Challenged,1967.0,112.0,auto
+1345,,Zatoichi and the Fugitives,1968.0,Kimiyoshi Yasuda,"Japan,",tt0063835,Zatoichi and the Fugitives,1968.0,112.0,auto
+1346,,Samaritan Zatoichi,1968.0,Kenji Misumi,"Japan,",tt0164983,Samaritan Zatoichi,1968.0,112.0,auto
+1347,,Zatoichi Meets Yojimbo,1970.0,Kihachi Okamoto,"Japan,",tt0066603,Zatoichi Meets Yojimbo,1970.0,112.0,auto
+1348,,Zatoichi Goes to the Fire Festival,1970.0,Kenji Misumi,"Japan,",tt0164982,Zatoichi Goes to the Fire Festival,1970.0,112.0,auto
+1349,,Zatoichi Meets the One-Armed Swordsman,1971.0,Kimiyoshi Yasuda,"Japan,",tt0066602,Zatoichi and the One-Armed Swordsman,1971.0,98.48648648648648,auto
+1350,,Zatoichi at Large,1972.0,Kazuo Mori,"Japan,",tt0202153,Zatoichi at Large,1972.0,112.0,auto
+1351,,Zatoichi in Desperation,1972.0,Shintaro Katsu,"Japan,",tt0201922,Zatoichi in Desperation,1972.0,112.0,auto
+1352,,Zatoichi’s Conspiracy,1973.0,Kimiyoshi Yasuda,"Japan,",tt0072439,Zatoichi's Conspiracy,1973.0,112.0,auto
+1360,,Lone Wolf and Cub: Sword of Vengeance,1972.0,Kenji Misumi,"Japan,",tt0068815,Lone Wolf and Cub: Sword of Vengeance,1972.0,112.0,auto
+1361,,Lone Wolf and Cub: Baby Cart at the River Styx,1972.0,Kenji Misumi,"Japan,",tt0068816,Lone Wolf and Cub: Baby Cart at the River Styx,1972.0,112.0,auto
+1362,,Lone Wolf and Cub: Baby Cart to Hades,1972.0,Kenji Misumi,"Japan,",tt0068817,Lone Wolf and Cub: Baby Cart to Hades,1972.0,112.0,auto
+1363,,Lone Wolf and Cub: Baby Cart in Peril,1972.0,Buichi Saito,"Japan,",tt0143348,Lone Wolf and Cub: Baby Cart in Peril,1972.0,112.0,auto
+1364,,Lone Wolf and Cub: Baby Cart in the Land of Demons,1973.0,Kenji Misumi,"Japan,",tt0143428,Lone Wolf and Cub: Baby Cart in the Land of Demons,1973.0,112.0,auto
+1365,,Lone Wolf and Cub: White Heaven in Hell,1974.0,Yoshiyuki Kuroda,"Japan,",tt0071695,Lone Wolf and Cub: White Heaven in Hell,1974.0,112.0,auto
+1367,,The Devil’s Eye,1960.0,Ingmar Bergman,"Sweden,",tt0053772,The Devil's Eye,1960.0,112.0,auto
+1368,,The Rite,1969.0,Ingmar Bergman,"Sweden,",tt0064897,The Rite,1969.0,112.0,auto
+1369,,The Passion of Anna,1969.0,Ingmar Bergman,"Sweden,",tt0064793,The Passion of Anna,1969.0,112.0,auto
+1370,,Saraband,2003.0,Ingmar Bergman,"Sweden,",tt0299478,Saraband,2003.0,112.0,auto
+1371,,Dreams,1955.0,Ingmar Bergman,"Sweden,",tt0048272,Dreams,1955.0,112.0,auto
+1372,,A Ship to India,1947.0,Ingmar Bergman,"Sweden,",tt0039834,A Ship to India,1947.0,112.0,auto
+1373,,All These Women,1964.0,Ingmar Bergman,"Sweden,",tt0058124,All These Women,1964.0,112.0,auto
+1374,,Brink of Life,1958.0,Ingmar Bergman,"Sweden,",tt0052017,Brink of Life,1958.0,112.0,auto
+1375,,The Touch,1971.0,Ingmar Bergman,"Sweden,",tt0066826,The Touch,1971.0,112.0,auto
+1379,,After the Rehearsal,1984.0,Ingmar Bergman,"Sweden,",tt0087193,After the Rehearsal,1984.0,112.0,auto
+1380,,The Serpent’s Egg,1977.0,Ingmar Bergman,"United States,",tt0076686,The Serpent's Egg,1977.0,112.0,auto
+1381,,A Lesson in Love,1954.0,Ingmar Bergman,"Sweden,",tt0047167,A Lesson in Love,1954.0,112.0,auto
+1382,,From the Life of the Marionettes,1980.0,Ingmar Bergman,"Sweden,",tt0080397,From the Life of the Marionettes,1980.0,112.0,auto
+1383,,Hour of the Wolf,1968.0,Ingmar Bergman,"Sweden,",tt0063759,Hour of the Wolf,1968.0,112.0,auto
+1386,,Son of Godzilla,1967.0,Jun Fukuda,"Japan,",tt0061856,Son of Godzilla,1967.0,112.0,auto
+1388,,"Ebirah, Horror of the Deep",1966.0,Jun Fukuda,"Japan,",tt0060464,"Ebirah, Horror of the Deep",1966.0,112.0,auto
+1389,,All Monsters Attack,1969.0,Ishiro Honda,"Japan,",tt0064373,All Monsters Attack,1969.0,112.0,auto
+1390,,Invasion of Astro-Monster,1965.0,Ishiro Honda,"Japan,",tt0059346,Invasion of Astro-Monster,1965.0,112.0,auto
+1391,,"Ghidorah, the Three-Headed Monster",1964.0,Ishiro Honda,"Japan,",tt0058544,Ghidorah: The Three-Headed Monster,1964.0,112.0,auto
+1392,,Destroy All Monsters,1968.0,Ishiro Honda,"Japan,",tt0063172,Destroy All Monsters,1968.0,112.0,auto
+1393,,Godzilla vs. Hedorah,1971.0,Yoshimitsu Banno,"Japan,",tt0067148,Godzilla vs. Hedorah,1971.0,112.0,auto
+1394,,Terror of Mechagodzilla,1975.0,Ishiro Honda,"Japan,",tt0073373,Terror of Mechagodzilla,1975.0,112.0,auto
+1395,,Godzilla vs. Mechagodzilla,1974.0,Jun Fukuda,"Japan,",tt0071565,Godzilla vs. Mechagodzilla,1974.0,112.0,auto
+1396,,Mothra vs. Godzilla,1964.0,Ishiro Honda,"Japan,",tt0058379,Mothra vs. Godzilla,1964.0,112.0,auto
+1397,,Godzilla Raids Again,1955.0,Motoyoshi Oda,"Japan,",tt0048127,Godzilla Raids Again,1955.0,112.0,auto
+1398,,Godzilla vs. Megalon,1973.0,Jun Fukuda,"Japan,",tt0070122,Godzilla vs. Megalon,1973.0,112.0,auto
+1399,,Godzilla vs. Gigan,1972.0,Jun Fukuda,"Japan,",tt0068371,Godzilla vs. Gigan,1972.0,112.0,auto
+1401,,The Big Boss,1971.0,Lo Wei,"Hong Kong,",tt0067824,The Big Boss,1971.0,112.0,auto
+1402,,Fist of Fury,1972.0,Lo Wei,"Hong Kong,",tt0068767,Fist of Fury,1972.0,112.0,auto
+1403,,The Way of the Dragon,1972.0,Bruce Lee,"Hong Kong,",tt0068935,The Way of the Dragon,1972.0,112.0,auto
+1404,,Enter the Dragon,1973.0,Robert Clouse,"Hong Kong,",tt0070034,Enter the Dragon,1973.0,112.0,auto
+1405,,Game of Death,1978.0,Robert Clouse,"Hong Kong,",tt0077594,Game of Death,1978.0,112.0,auto
+1408,,Daguerréotypes,1975.0,Agnès Varda,"France,",tt0071384,Daguerreotypes,1975.0,112.0,auto
+1409,,Les créatures,1966.0,Agnès Varda,"France,",tt0060263,The Creatures,1966.0,112.0,auto
+1410,,Jane B. par Agnès V.,1988.0,Agnès Varda,"France,",tt0093295,Jane B. for Agnes V.,1988.0,112.0,auto
+1411,,Kung-Fu Master!,1988.0,Agnès Varda,"France,",tt0093371,Kung-Fu Master!,1988.0,112.0,auto
+1412,,Jacquot de Nantes,1991.0,Agnès Varda,"France,",tt0102141,Jacquot of Nantes,1991.0,112.0,auto
+1413,,One Hundred and One Nights,1995.0,Agnès Varda,"France,",tt0112654,One Hundred and One Nights,1995.0,112.0,auto
+1414,,The Gleaners and I,2000.0,Agnès Varda,"France,",tt0247380,The Gleaners & I,2000.0,112.0,auto
+1415,,The Gleaners and I: Two Years Later,2002.0,Agnès Varda,"France,",tt0345128,The Gleaners and I: Two Years Later,2002.0,112.0,auto
+1416,,Faces Places,2017.0,Agnès Varda and JR,"France,",tt5598102,Faces Places,2017.0,112.0,auto
+1418,,The Beaches of Agnès,2008.0,Agnès Varda,"France,",tt1129435,The Beaches of Agnès,2008.0,112.0,auto
+1420,,Il bidone,1955.0,Federico Fellini,"Italy,",tt0047876,The Swindle,1955.0,112.0,auto
+1421,,Intervista,1987.0,Federico Fellini,"Italy,",tt0093267,Intervista,1987.0,112.0,auto
+1424,,As Tears Go By,1988.0,Wong Kar Wai,"Hong Kong,",tt0096461,As Tears Go By,1988.0,112.0,auto
+1425,,Days of Being Wild,1990.0,Wong Kar Wai,"Hong Kong,",tt0101258,Days of Being Wild,1990.0,112.0,auto
+1426,,Fallen Angels,1995.0,Wong Kar Wai,"Hong Kong,",tt0112913,Fallen Angels,1995.0,112.0,auto
+1427,,Happy Together,1997.0,Wong Kar Wai,"Hong Kong,",tt0118845,Happy Together,1997.0,112.0,auto
+1428,,2046,2004.0,Wong Kar Wai,"Hong Kong,",tt0212712,2046,2004.0,112.0,auto
+1430,,Once Upon a Time in China,1991.0,Tsui Hark,"Hong Kong,",tt0103285,Once Upon a Time in China,1991.0,112.0,auto
+1431,,Once Upon a Time in China II,1992.0,Tsui Hark,"Hong Kong,",tt0105839,Once Upon a Time in China II,1992.0,112.0,auto
+1432,,Once Upon a Time in China III,1993.0,Tsui Hark,"Hong Kong,",tt0108592,Once Upon a Time in China III,1992.0,106.0,auto
+1433,,Once Upon a Time in China IV,1993.0,Yuen Bun,"Hong Kong,",tt0107162,Once Upon a Time in China IV,1993.0,112.0,auto
+1434,,Once Upon a Time in China V,1994.0,Tsui Hark,"Hong Kong,",tt0110073,Once Upon a Time in China V,1994.0,112.0,auto
+1439,,Madadayo,1993.0,Akira Kurosawa,"Japan,",tt0107474,Madadayo,1993.0,112.0,auto
+1442,,Le jour se lève,1939.0,Marcel Carné,"France,",tt0031514,Daybreak,1939.0,112.0,auto
+1445,,Torment,1944.0,Alf Sjöberg,"Sweden,",tt0036914,Torment,1944.0,112.0,auto
+1446,,Crisis,1946.0,Ingmar Bergman,"Sweden,",tt0038675,Crisis,1946.0,112.0,auto
+1447,,Port of Call,1948.0,Ingmar Bergman,"Sweden,",tt0040418,Port of Call,1948.0,112.0,auto
+1448,,Thirst,1949.0,Ingmar Bergman,"Sweden,",tt0041998,Thirst,1949.0,112.0,auto
+1449,,To Joy,1950.0,Ingmar Bergman,"Sweden,",tt0043048,To Joy,1950.0,112.0,auto
+1452,,"Humain, trop humain",1973.0,Louis Malle,"France,",tt0071635,A Human Condition,1974.0,106.0,auto
+1453,,Place de la République,1974.0,Louis Malle,"France,",tt0071999,Place de la République,1974.0,112.0,auto
+1455,,Calcutta,1969.0,Louis Malle,"France,",tt0062773,Calcutta,1969.0,112.0,auto
+1456,,God’s Country,1985.0,Louis Malle,"United States,",tt0091125,God's Country,1985.0,112.0,auto
+1457,,. . . And the Pursuit of Happiness,1986.0,Louis Malle,"France,",tt0092561,...and the Pursuit of Happiness,1986.0,112.0,auto
+1459,,Early Spring,1956.0,Yasujiro Ozu,"Japan,",tt0049784,Early Spring,1956.0,112.0,auto
+1460,,Tokyo Twilight,1957.0,Yasujiro Ozu,"Japan,",tt0051093,Tokyo Twilight,1957.0,112.0,auto
+1461,,Equinox Flower,1958.0,Yasujiro Ozu,"Japan,",tt0051720,Equinox Flower,1958.0,112.0,auto
+1462,,Late Autumn,1960.0,Yasujiro Ozu,"Japan,",tt0053579,Late Autumn,1960.0,112.0,auto
+1463,,The End of Summer,1961.0,Yasujiro Ozu,"Japan,",tt0055052,The End of Summer,1961.0,112.0,auto
+1465,,Wooden Crosses,1932.0,Raymond Bernard,"France,",tt0022787,Wooden Crosses,1932.0,112.0,auto
+1466,,Les misérables,1934.0,Raymond Bernard,"France,",tt0025509,Les Misérables,1934.0,112.0,auto
+1468,,I Shot Jesse James,1949.0,Samuel Fuller,"United States,",tt0041497,I Shot Jesse James,1949.0,112.0,auto
+1469,,The Baron of Arizona,1950.0,Samuel Fuller,"United States,",tt0042229,The Baron of Arizona,1950.0,112.0,auto
+1470,,The Steel Helmet,1951.0,Samuel Fuller,"United States,",tt0044072,The Steel Helmet,1951.0,112.0,auto
+1472,,Blood Wedding,1981.0,Carlos Saura,"Spain,",tt0082088,Blood Wedding,1981.0,112.0,auto
+1473,,Carmen,1983.0,Carlos Saura,"Spain,",tt0085297,Carmen,1983.0,112.0,auto
+1474,,El amor brujo,1986.0,Carlos Saura,"Spain,",tt0090636,"Love, the Magician",1986.0,112.0,auto
+1476,,No Regrets for Our Youth,1946.0,Akira Kurosawa,"Japan,",tt0039090,No Regrets for Our Youth,1946.0,112.0,auto
+1477,,One Wonderful Sunday,1947.0,Akira Kurosawa,"Japan,",tt0039871,One Wonderful Sunday,1947.0,112.0,auto
+1478,,Scandal,1950.0,Akira Kurosawa,"Japan,",tt0042958,Scandal,1950.0,112.0,auto
+1479,,The Idiot,1951.0,Akira Kurosawa,"Japan,",tt0043614,The Idiot,1951.0,112.0,auto
+1480,,I Live in Fear,1955.0,Akira Kurosawa,"Japan,",tt0048198,I Live in Fear,1955.0,112.0,auto
+1482,,The Love Parade,1929.0,Ernst Lubitsch,"United States,",tt0020112,The Love Parade,1929.0,112.0,auto
+1483,,Monte Carlo,1930.0,Ernst Lubitsch,"United States,",tt0021153,Monte Carlo,1930.0,112.0,auto
+1484,,The Smiling Lieutenant,1931.0,Ernst Lubitsch,"United States,",tt0022074,The Smiling Lieutenant,1931.0,112.0,auto
+1485,,One Hour with You,1932.0,Ernst Lubitsch,"United States,",tt0023303,One Hour with You,1932.0,112.0,auto
+1487,,"Who Are You, Polly Maggoo?",1966.0,William Klein,"France,",tt0060879,"Who Are You, Polly Maggoo?",1966.0,112.0,auto
+1488,,Mr. Freedom,1969.0,William Klein,"France,",tt0064674,Mr. Freedom,1968.0,106.0,auto
+1489,,The Model Couple,1977.0,William Klein,"France,",tt0191053,The Model Couple,1977.0,112.0,auto
+1491,,Tokyo Chorus,1931.0,Yasujiro Ozu,"Japan,",tt0022485,Tokyo Chorus,1931.0,112.0,auto
+1492,,"I Was Born, But . . .",1932.0,Yasujiro Ozu,"Japan,",tt0023634,"I Was Born, But...",1932.0,112.0,auto
+1493,,Passing Fancy,1933.0,Yasujiro Ozu,"Japan,",tt0023937,Passing Fancy,1933.0,112.0,auto
+1495,,Wings,1966.0,Larisa Shepitko,"Soviet Union,",tt0061196,Wings,1966.0,112.0,auto
+1497,,Shadows in Paradise,1986.0,Aki Kaurismäki,"Finland,",tt0092149,Shadows in Paradise,1986.0,112.0,auto
+1498,,Ariel,1988.0,Aki Kaurismäki,"Finland,",tt0094675,Ariel,1988.0,112.0,auto
+1499,,The Match Factory Girl,1990.0,Aki Kaurismäki,"Finland,",tt0098532,The Match Factory Girl,1990.0,112.0,auto
+1501,,Osaka Elegy,1936.0,Kenji Mizoguchi,"Japan,",tt0028021,Osaka Elegy,1936.0,112.0,auto
+1502,,Sisters of the Gion,1936.0,Kenji Mizoguchi,"Japan,",tt0027672,Sisters of the Gion,1936.0,112.0,auto
+1503,,Women of the Night,1948.0,Kenji Mizoguchi,"Japan,",tt0040980,Women of the Night,1948.0,112.0,auto
+1504,,Street of Shame,1956.0,Kenji Mizoguchi,"Japan,",tt0048933,Street of Shame,1956.0,112.0,auto
+1508,,Blaise Pascal,1972.0,Roberto Rossellini,"Italy,",tt0066839,Blaise Pascal,1972.0,112.0,auto
+1510,,Japanese Girls at the Harbor,1933.0,Hiroshi Shimizu,"Japan,",tt0160535,Japanese Girls at the Harbor,1933.0,112.0,auto
+1511,,Mr. Thank You,1936.0,Hiroshi Shimizu,"Japan,",tt0027307,Mr. Thank You,1936.0,112.0,auto
+1512,,The Masseurs and a Woman,1938.0,Hiroshi Shimizu,"Japan,",tt0426900,The Masseurs and a Woman,1938.0,112.0,auto
+1513,,Ornamental Hairpin,1941.0,Hiroshi Shimizu,"Japan,",tt0427424,Ornamental Hairpin,1941.0,112.0,auto
+1515,,The Private Life of Henry VIII,1933.0,Alexander Korda,"United Kingdom,",tt0024473,The Private Life of Henry VIII,1933.0,112.0,auto
+1516,,The Rise of Catherine the Great,1934.0,Paul Czinner,"United Kingdom,",tt0024962,The Rise of Catherine the Great,1934.0,112.0,auto
+1517,,The Private Life of Don Juan,1934.0,Alexander Korda,"United Kingdom,",tt0025681,The Private Life of Don Juan,1934.0,112.0,auto
+1518,,Rembrandt,1936.0,Alexander Korda,"United Kingdom,",tt0028167,Rembrandt,1936.0,112.0,auto
+1520,,I Am Waiting,1957.0,Koreyoshi Kurahara,"Japan,",tt1248984,I Am Waiting,1957.0,112.0,auto
+1521,,Rusty Knife,1958.0,Toshio Masuda,"Japan,",tt0360946,Rusty Knife,1958.0,112.0,auto
+1522,,Take Aim at the Police Van,1960.0,Seijun Suzuki,"Japan,",tt0054325,Take Aim at the Police Van,1960.0,112.0,auto
+1523,,Cruel Gun Story,1964.0,Takumi Furukawa,"Japan,",tt1446089,Cruel Gun Story,1964.0,112.0,auto
+1524,,A Colt Is My Passport,1967.0,Takashi Nomura,"Japan,",tt0330536,A Colt Is My Passport,1967.0,112.0,auto
+1526,,Man Is Not a Bird,1965.0,Dušan Makavejev,"Yugoslavia,",tt0059063,Man Is Not a Bird,1965.0,107.0,auto
+1527,,"Love Affair, or the Case of the Missing Switchboard Operator",1967.0,Dušan Makavejev,"Yugoslavia,",tt0061912,"Love Affair, or The Case of the Missing Switchboard Operator",1967.0,107.0,auto
+1528,,Innocence Unprotected,1968.0,Dušan Makavejev,"Yugoslavia,",tt0063342,Innocence Unprotected,1968.0,107.0,auto
+1531,,Hotel Monterey,1972.0,Chantal Akerman,"United States,",tt0068725,Hotel Monterey,1973.0,106.0,auto
+1532,,News from Home,1976.0,Chantal Akerman,"France,",tt0076452,News from Home,1976.0,112.0,auto
+1533,,Je tu il elle,1975.0,Chantal Akerman,"Belgium,",tt0071690,"I, You, He, She",1974.0,106.0,auto
+1534,,Les rendez-vous d’Anna,1978.0,Chantal Akerman,"Belgium,",tt0078152,Meetings with Anna,1978.0,112.0,auto
+1536,,Major Barbara,1941.0,Gabriel Pascal,"United Kingdom,",tt0033868,Major Barbara,1941.0,112.0,auto
+1537,,Caesar and Cleopatra,1945.0,Gabriel Pascal,"United Kingdom,",tt0038390,Caesar and Cleopatra,1945.0,112.0,auto
+1538,,Androcles and the Lion,1952.0,Chester Erskine,"United Kingdom,",tt0044355,Androcles and the Lion,1952.0,112.0,auto
+1540,,Pleasures of the Flesh,1965.0,Nagisa Oshima,"Japan,",tt0059159,The Pleasures of the Flesh,1965.0,103.66666666666666,auto
+1541,,Violence at Noon,1966.0,Nagisa Oshima,"Japan,",tt0060486,Violence at Noon,1966.0,112.0,auto
+1542,,Sing a Song of Sex,1967.0,Nagisa Oshima,"Japan,",tt0062042,Sing a Song of Sex,1967.0,112.0,auto
+1543,,Japanese Summer: Double Suicide,1967.0,Nagisa Oshima,"Japan,",tt0062009,Double Suicide: Japanese Summer,1967.0,112.0,auto
+1544,,Three Resurrected Drunkards,1968.0,Nagisa Oshima,"Japan,",tt0063169,Three Resurrected Drunkards,1968.0,112.0,auto
+1546,,The Story of a Cheat,1936.0,Sacha Guitry,"France,",tt0028201,The Story of a Cheat,1936.0,112.0,auto
+1547,,The Pearls of the Crown,1937.0,Sacha Guitry,"France,",tt0029394,The Pearls of the Crown,1937.0,112.0,auto
+1548,,Désiré,1937.0,Sacha Guitry,"France,",tt0150430,Désiré,1937.0,112.0,auto
+1549,,Quadrille,1938.0,Sacha Guitry,"France,",tt0030642,Quadrille,1938.0,112.0,auto
+1551,,Sanshiro Sugata,1943.0,Akira Kurosawa,"Japan,",tt0036400,Sanshiro Sugata,1943.0,112.0,auto
+1552,,The Most Beautiful,1944.0,Akira Kurosawa,"Japan,",tt0036947,The Most Beautiful,1944.0,112.0,auto
+1553,,"Sanshiro Sugata, Part Two",1945.0,Akira Kurosawa,"Japan,",tt0038268,"Sanshiro Sugata, Part Two",1945.0,112.0,auto
+1554,,The Men Who Tread on the Tiger’s Tail,1945.0,Akira Kurosawa,"Japan,",tt0038182,The Men Who Tread on the Tiger's Tail,1945.0,112.0,auto
+1556,,Warrendale,1967.0,Allan King,"Canada,",tt0062474,Warrendale,1967.0,112.0,auto
+1557,,A Married Couple,1969.0,Allan King,"Canada,",tt0064640,A Married Couple,1969.0,112.0,auto
+1558,,Come On Children,1972.0,Allan King,"Canada,",tt0269104,Come on Children,1973.0,106.0,auto
+1559,,Dying at Grace,2003.0,Allan King,"Canada,",tt0379269,Dying at Grace,2003.0,112.0,auto
+1560,,"Memory for Max, Claire, Ida and Company",2005.0,Allan King,"Canada,",tt0478000,"Memory for Max, Claire, Ida and Company",2005.0,112.0,auto
+1562,,Sapphire,1959.0,Basil Dearden,"United Kingdom,",tt0053242,Sapphire,1959.0,112.0,auto
+1563,,The League of Gentlemen,1960.0,Basil Dearden,"United Kingdom,",tt0052997,The League of Gentlemen,1960.0,112.0,auto
+1564,,Victim,1961.0,Basil Dearden,"United Kingdom,",tt0055597,Victim,1961.0,112.0,auto
+1565,,All Night Long,1962.0,Basil Dearden,"United Kingdom,",tt0054614,All Night Long,1962.0,112.0,auto
+1568,,No Blood Relation,1932.0,Mikio Naruse,"Japan,",tt0023261,No Blood Relation,1932.0,112.0,auto
+1569,,Apart from You,1933.0,Mikio Naruse,"Japan,",tt0024214,Apart from You,1933.0,112.0,auto
+1570,,Every-Night Dreams,1933.0,Mikio Naruse,"Japan,",tt0024793,Every-Night Dreams,1933.0,112.0,auto
+1571,,Street Without End,1934.0,Mikio Naruse,"Japan,",tt0025338,Street Without End,1934.0,112.0,auto
+1573,,Chains,1949.0,Raffaello Matarazzo,"Italy,",tt0041232,Chains,1949.0,112.0,auto
+1574,,Tormento,1950.0,Raffaello Matarazzo,"Italy,",tt0046447,Tormento,1950.0,112.0,auto
+1575,,Nobody’s Children,1952.0,Raffaello Matarazzo,"Italy,",tt0043532,Nobody's Children,1951.0,106.0,auto
+1576,,The White Angel,1955.0,Raffaello Matarazzo,"Italy,",tt0047832,The White Angel,1955.0,112.0,auto
+1578,,Intimidation,1960.0,Koreyoshi Kurahara,"Japan,",tt2017464,Intimidation,1960.0,112.0,auto
+1579,,The Warped Ones,1960.0,Koreyoshi Kurahara,"Japan,",tt0057238,The Warped Ones,1960.0,112.0,auto
+1580,,I Hate But Love,1962.0,Koreyoshi Kurahara,"Japan,",tt0360839,I Hate But Love,1962.0,112.0,auto
+1581,,Black Sun,1964.0,Koreyoshi Kurahara,"Japan,",tt0781599,Black Sun,1964.0,112.0,auto
+1582,,Thirst for Love,1967.0,Koreyoshi Kurahara,"Japan,",tt0060082,Thirst for Love,1966.0,106.0,auto
+1584,,Leningrad Cowboys Go America,1989.0,Aki Kaurismäki,"Finland,",tt0097728,Leningrad Cowboys Go America,1989.0,112.0,auto
+1585,,Leningrad Cowboys Meet Moses,1994.0,Aki Kaurismäki,"Finland,",tt0107384,Leningrad Cowboys Meet Moses,1994.0,112.0,auto
+1586,,Total Balalaika Show,1994.0,Aki Kaurismäki,"Finland,",tt0111460,Total Balalaika Show,1994.0,112.0,auto
+1588,,Elephant Boy,1937.0,Robert Flaherty and Zoltán Korda,"United Kingdom,",tt0028827,Elephant Boy,1937.0,112.0,auto
+1589,,The Drum,1938.0,Zoltán Korda,"United Kingdom,",tt0030082,The Drum,1938.0,107.0,auto
+1590,,Jungle Book,1942.0,Zoltán Korda,"United Kingdom,",tt0034928,The Jungle Book,1942.0,107.0,auto
+1592,,Poto and Cabengo,1980.0,Jean-Pierre Gorin,"United States,",tt0196866,Poto and Cabengo,1979.0,106.0,auto
+1593,,Routine Pleasures,1986.0,Jean-Pierre Gorin,"United States,",tt0274069,Routine Pleasures,1986.0,112.0,auto
+1594,,My Crasy Life,1992.0,Jean-Pierre Gorin,"United States,",tt0104953,My Crasy Life,1992.0,112.0,auto
+1596,,Pearls of the Deep,1966.0,"Jiří Menzel, Věra Chytilová, Jaromil Jireš, Jan Němec, and Evald Schorm","Czechoslovakia,",tt0059581,Pearls of the Deep,1965.0,106.0,auto
+1597,,A Report on the Party and Guests,1966.0,Jan Němec,"Czechoslovakia,",tt0063371,A Report on the Party and Guests,1966.0,100.0,auto
+1598,,Return of the Prodigal Son,1967.0,Evald Schorm,"Czechoslovakia,",tt0060770,Return of the Prodigal Son,1967.0,112.0,auto
+1599,,Capricious Summer,1968.0,Jiří Menzel,"Czechoslovakia,",tt0063527,Capricious Summer,1968.0,112.0,auto
+1600,,The Joke,1969.0,Jaromil Jireš,"Czechoslovakia,",tt0065241,The Joke,1969.0,112.0,auto
+1602,,Babo 73,1964.0,Robert Downey Sr.,"United States,",tt0138311,Babo 73,1964.0,112.0,auto
+1603,,Chafed Elbows,1966.0,Robert Downey Sr.,"United States,",tt0138355,Chafed Elbows,1966.0,112.0,auto
+1604,,No More Excuses,1968.0,Robert Downey Sr.,"United States,",tt0251300,No More Excuses,1968.0,112.0,auto
+1605,,Putney Swope,1969.0,Robert Downey Sr.,"United States,",tt0064855,Putney Swope,1969.0,112.0,auto
+1606,,Two Tons of Turquoise to Taos Tonight,1975.0,Robert Downey Sr.,"United States,",tt0427550,Two Tons of Turquoise to Taos Tonight,1975.0,112.0,auto
+1608,,Remorques,1941.0,Jean Grémillon,"France,",tt0034093,Stormy Waters,1941.0,112.0,auto
+1609,,Lumière d’été,1943.0,Jean Grémillon,"France,",tt0035001,Summer Light,1943.0,112.0,auto
+1610,,Le ciel est à vous,1944.0,Jean Grémillon,"France,",tt0035737,The Woman Who Dared,1944.0,112.0,auto
+1612,,Maidstone,1970.0,Norman Mailer,"United States,",tt0064625,Maidstone,1970.0,112.0,auto
+1613,,Wild 90,1968.0,Norman Mailer,"United States,",tt0062492,Wild 90,1968.0,112.0,auto
+1614,,Beyond the Law,1968.0,Norman Mailer,"United States,",tt0169606,Beyond the Law,1968.0,112.0,auto
+1616,,The Man in Grey,1943.0,Leslie Arliss,"United Kingdom,",tt0036135,The Man in Grey,1943.0,112.0,auto
+1617,,Madonna of the Seven Moons,1945.0,Arthur Crabtree,"United Kingdom,",tt0037035,Madonna of the Seven Moons,1945.0,112.0,auto
+1618,,The Wicked Lady,1945.0,Leslie Arliss,"United Kingdom,",tt0038250,The Wicked Lady,1945.0,112.0,auto
+1620,,The X from Outer Space,1967.0,Kazui Nihonmatsu,"Japan,",tt0062411,The X from Outer Space,1967.0,112.0,auto
+1621,,"Goke, Body Snatcher from Hell",1968.0,Hajime Sato,"Japan,",tt0063206,"Goke, Body Snatcher from Hell",1968.0,112.0,auto
+1622,,The Living Skeleton,1968.0,Hiroshi Matsuno,"Japan,",tt0203635,The Living Skeleton,1968.0,107.0,auto
+1623,,Genocide,1968.0,Kazui Nihonmatsu,"Japan,",tt0063195,Genocide,1968.0,112.0,auto
+1625,,The Thick-Walled Room,1956.0,Masaki Kobayashi,"Japan,",tt0134756,The Thick-Walled Room,1956.0,112.0,auto
+1626,,I Will Buy You,1956.0,Masaki Kobayashi,"Japan,",tt0134286,I Will Buy You,1956.0,112.0,auto
+1627,,Black River,1956.0,Masaki Kobayashi,"Japan,",tt0134771,Black River,1957.0,106.0,auto
+1628,,The Inheritance,1962.0,Masaki Kobayashi,"Japan,",tt0056135,The Inheritance,1962.0,112.0,auto
+1630,,Love Is Colder Than Death,1969.0,Rainer Werner Fassbinder,"Germany,",tt0064588,Love Is Colder Than Death,1969.0,112.0,auto
+1631,,Katzelmacher,1969.0,Rainer Werner Fassbinder,"Germany,",tt0064536,Katzelmacher,1969.0,112.0,auto
+1632,,Gods of the Plague,1969.0,Rainer Werner Fassbinder,"Germany,",tt0065808,Gods of the Plague,1970.0,106.0,auto
+1633,,The American Soldier,1970.0,Rainer Werner Fassbinder,"Germany,",tt0065391,The American Soldier,1970.0,112.0,auto
+1634,,Beware of a Holy Whore,1970.0,Rainer Werner Fassbinder,"Germany,",tt0067962,Beware of a Holy Whore,1971.0,106.0,auto
+1636,,The Home and the World,1984.0,Satyajit Ray,"India,",tt0087328,The Home and the World,1984.0,112.0,auto
+1637,,An Enemy of the People,1989.0,Satyajit Ray,"India,",tt0097409,An Enemy of the People,1989.0,112.0,auto
+1638,,The Stranger,1991.0,Satyajit Ray,"India,",tt0101279,The Stranger,1991.0,112.0,auto
+1640,,Port of Flowers,1943.0,Keisuke Kinoshita,"Japan,",tt0035964,Port of Flowers,1943.0,112.0,auto
+1641,,The Living Magoroku,1943.0,Keisuke Kinoshita,"Japan,",tt0036034,The Living Magoroku,1943.0,112.0,auto
+1642,,Jubilation Street,1944.0,Keisuke Kinoshita,"Japan,",tt0036977,Jubilation Street,1944.0,112.0,auto
+1643,,Army,1944.0,Keisuke Kinoshita,"Japan,",tt0037227,Army,1944.0,112.0,auto
+1644,,Morning for the Osone Family,1946.0,Keisuke Kinoshita,"Japan,",tt0038810,Morning for the Osone Family,1946.0,112.0,auto
+1646,,Walk Cheerfully,1930.0,Yasujiro Ozu,"Japan,",tt0020980,Walk Cheerfully,1930.0,112.0,auto
+1647,,That Night’s Wife,1930.0,Yasujiro Ozu,"Japan,",tt0021406,That Night's Wife,1930.0,112.0,auto
+1648,,Dragnet Girl,1933.0,Yasujiro Ozu,"Japan,",tt0024120,Dragnet Girl,1933.0,112.0,auto
+1652,,Lions Love (. . . and Lies),1969.0,Agnès Varda,"France,",tt0064591,Lions Love (... and Lies),1969.0,112.0,auto
+1653,,Mur Murs,1981.0,Agnès Varda,"France,",tt0081204,Mur murs,1981.0,112.0,auto
+1654,,Documenteur,1981.0,Agnès Varda,"France,",tt0082275,Documenteur,1981.0,112.0,auto
+1656,,David Golder,1930.0,Julien Duvivier,"France,",tt0020814,David Golder,1931.0,106.0,auto
+1657,,Poil de carotte,1932.0,Julien Duvivier,"France,",tt0023345,Poil de carotte,1932.0,112.0,auto
+1658,,La tête d’un homme,1933.0,Julien Duvivier,"France,",tt0024710,A Man's Head,1933.0,112.0,auto
+1659,,Un carnet de bal,1937.0,Julien Duvivier,"France,",tt0029706,Un Carnet de bal,1937.0,112.0,auto
+1661,,Le mariage de Chiffon,1942.0,Claude Autant-Lara,"France,",tt0035039,Le mariage de Chiffon,1942.0,112.0,auto
+1662,,Lettres d’amour,1942.0,Claude Autant-Lara,"France,",tt0154767,Lettres d'amour,1942.0,112.0,auto
+1663,,Douce,1943.0,Claude Autant-Lara,"France,",tt0035823,Douce,1943.0,112.0,auto
+1664,,Sylvie et le fantôme,1946.0,Claude Autant-Lara,"France,",tt0038146,Sylvie and the Ghost,1946.0,112.0,auto
+1666,,The Count of the Old Town,1935.0,Edvin Adolphson and Sigurd Wallén,"Sweden,",tt0026737,The Count of the Old Town,1935.0,112.0,auto
+1667,,Walpurgis Night,1935.0,Gustaf Edgren,"Sweden,",tt0027164,Walpurgis Night,1935.0,112.0,auto
+1668,,Intermezzo,1936.0,Gustaf Molander,"Sweden,",tt0027796,Intermezzo,1936.0,112.0,auto
+1669,,Dollar,1938.0,Gustaf Molander,"Sweden,",tt0030066,Dollar,1938.0,112.0,auto
+1670,,A Woman’s Face,1938.0,Gustaf Molander,"Sweden,",tt0030337,A Woman's Face,1938.0,112.0,auto
+1671,,June Night,1940.0,Per Lindberg,"Sweden,",tt0032655,June Night,1940.0,112.0,auto
+1673,,Godland,2022.0,Hlynur Pálmason,"Iceland,",tt19623228,Godland,2022.0,112.0,auto
+1674,,My Lucky Stars,1985.0,Sammo Hung,"Hong Kong,",tt0089177,My Lucky Stars,1985.0,100.0,auto
+1675,,The Hawks and the Sparrows,1966.0,Pier Paolo Pasolini,"Italy,",tt0061132,The Hawks and the Sparrows,1966.0,112.0,auto
+1676,,Chronicle of the Years of Fire,1975.0,Mohammed Lakhdar-Hamina,"Algeria,",tt0072782,Chronicle of the Years of Fire,1975.0,112.0,auto
+1677,,Vermiglio,2024.0,Maura Delpero,"Italy,",tt28618488,Vermiglio,2024.0,112.0,auto
+1678,,Evil Does Not Exist,2023.0,Ryusuke Hamaguchi,"Japan,",tt28490044,Evil Does Not Exist,2023.0,112.0,auto
+1681,,Education,2020.0,Steve McQueen,"United Kingdom,",tt11937640,Education,2020.0,100.0,auto
+1682,,Yam daabo,1987.0,Idrissa Ouédraogo,"Burkina Faso,",tt0092258,Yam Daabo,1987.0,100.0,auto
+1683,,Afire,2023.0,Christian Petzold,"Germany,",tt26440619,Afire,2023.0,112.0,auto
+1684,,A Confucian Confusion,1994.0,Edward Yang,"Taiwan,",tt0109685,A Confucian Confusion,1994.0,112.0,auto
+1685,,Anselm,2023.0,Wim Wenders,"Germany,",tt27502250,Anselm,2023.0,112.0,auto
+1686,,71 Fragments of a Chronology of Chance,1994.0,Michael Haneke,"Germany,",tt0109020,71 Fragments of a Chronology of Chance,1994.0,112.0,auto
+1687,,Decision at Sundown,1957.0,Budd Boetticher,"United States,",tt0050296,Decision at Sundown,1957.0,112.0,auto
+1688,,The Fearless Hyena,1979.0,Jackie Chan,"Hong Kong,",tt0079315,The Fearless Hyena,1979.0,112.0,auto
+1689,,The Seventh Victim,1943.0,Mark Robson,"United States,",tt0036341,The Seventh Victim,1943.0,112.0,auto
+1690,,Kapò,1959.0,Gillo Pontecorvo,"Italy,",tt0052961,Kapo,1960.0,106.0,auto
+1691,,All We Imagine as Light,2024.0,Payal Kapadia,"India,",tt32086077,All We Imagine as Light,2024.0,112.0,auto
+1692,,Fellow Citizen,1983.0,Abbas Kiarostami,"Iran,",tt0085641,Fellow Citizen,1983.0,112.0,auto
+1693,,The Doom Generation,1995.0,Gregg Araki,"United States,",tt0112887,The Doom Generation,1995.0,112.0,auto
+1694,,Totally F***ed Up,1993.0,Gregg Araki,"United States,",tt0108366,Totally F***ed Up,1993.0,112.0,auto
+1696,,A Tale of Winter,1992.0,Eric Rohmer,"France,",tt0104008,A Tale of Winter,1992.0,112.0,auto
+1698,,The Innocent,2022.0,Louis Garrel,"France,",tt19841734,The Innocent,2022.0,112.0,auto
+1699,,Lynch/Oz,2022.0,Alexandre O. Philippe,"United States,",tt15399286,Lynch/Oz,2022.0,112.0,auto
+1700,,The Young Master,1980.0,Jackie Chan,"Hong Kong,",tt0081499,The Young Master,1980.0,112.0,auto
+1701,,The Four Musketeers,1974.0,Richard Lester,"United Kingdom,",tt0073012,The Four Musketeers,1974.0,112.0,auto
+1703,,Ceddo,1977.0,Ousmane Sembène,"Senegal,",tt0077309,Outsiders,1977.0,107.0,auto
+1704,,Ethnic Notions,1986.0,Marlon Riggs,"United States,",tt0091018,Ethnic Notions,1986.0,112.0,auto
+1705,,Experience,1973.0,Abbas Kiarostami,"Iran,",tt0070766,Experience,1973.0,112.0,auto
+1706,,Stowaway in the Sky,1960.0,Albert Lamorisse,"France,",tt0056667,Stowaway in the Sky,1960.0,112.0,auto
+1707,,"First Case, Second Case",1979.0,Abbas Kiarostami,"Iran,",tt0079204,"First Case, Second Case",1979.0,112.0,auto
+1709,,Buchanan Rides Alone,1958.0,Budd Boetticher,"United States,",tt0051437,Buchanan Rides Alone,1958.0,112.0,auto
+1711,,Tori and Lokita,2022.0,Jean-Pierre Dardenne and Luc Dardenne,"Belgium,",tt18317064,Tori and Lokita,2022.0,112.0,auto
+1712,,Room 666,1982.0,Wim Wenders,"France,",tt0083727,Room 666,1982.0,112.0,auto
+1713,,Epidemic,1987.0,Lars von Trier,"Denmark,",tt0092972,Epidemic,1987.0,112.0,auto
+1714,,First Graders,1984.0,Abbas Kiarostami,"Iran,",tt0086923,First Graders,1984.0,112.0,auto
+1716,,Raven’s End,1963.0,Bo Widerberg,"Sweden,",tt0057237,Raven's End,1963.0,112.0,auto
+1717,,Spiritual Kung Fu,1978.0,Lo Wei,"Hong Kong,",tt0078128,Spiritual Kung Fu,1978.0,112.0,auto
+1718,,India Song,1975.0,Marguerite Duras,"France,",tt0073166,India Song,1975.0,112.0,auto
+1720,,Infernal Affairs,2002.0,Andrew Lau Wai-keung and Alan Mak,"Hong Kong,",tt0338564,Infernal Affairs,2002.0,112.0,auto
+1721,,Kummatty,1979.0,G. Aravindan,"India,",tt0079422,Kummatty,1979.0,100.0,auto
+1723,,About Dry Grasses,2023.0,Nuri Bilge Ceylan,"Turkey,",tt13231544,About Dry Grasses,2023.0,112.0,auto
+1724,,Loving Couples,1964.0,Mai Zetterling,"Sweden,",tt0058780,Loving Couples,1964.0,112.0,auto
+1725,,Half a Loaf of Kung Fu,1978.0,Chan Chi-hwa,"Hong Kong,",tt0080623,Half a Loaf of Kung Fu,1978.0,112.0,auto
+1726,,The Three Musketeers,1973.0,Richard Lester,"United Kingdom,",tt0072281,The Three Musketeers,1973.0,112.0,auto
+1727,,The Baby Carriage,1963.0,Bo Widerberg,"Sweden,",tt0056854,The Baby Carriage,1963.0,112.0,auto
+1728,,Elvira Madigan,1967.0,Bo Widerberg,"Sweden,",tt0061620,Elvira Madigan,1967.0,112.0,auto
+1729,,Tótem,2023.0,Lila Avilés,"Mexico,",tt26315142,Totem,2023.0,112.0,auto
+1731,,The Tall T,1957.0,Budd Boetticher,"United States,",tt0051047,The Tall T,1957.0,112.0,auto
+1732,,Love Meetings,1964.0,Pier Paolo Pasolini,"Italy,",tt0057960,Love Meetings,1964.0,112.0,auto
+1733,,The Shrouds,2024.0,David Cronenberg,"Canada,",tt20212786,The Shrouds,2024.0,112.0,auto
+1734,,Infernal Affairs III,2003.0,Andrew Lau Wai-keung and Alan Mak,"Hong Kong,",tt0374339,Infernal Affairs III,2003.0,112.0,auto
+1735,,Fearless Hyena II,1983.0,Chan Chuen,"Hong Kong,",tt0085864,Fearless Hyena 2,1983.0,91.84848484848484,auto
+1736,,Jean de Florette,1986.0,Claude Berri,"France,",tt0091288,Jean de Florette,1986.0,112.0,auto
+1737,,The Fall of Otrar,1991.0,Ardak Amirkulov,"Kazakhstan,",tt0104224,The Fall of Otrar,1990.0,106.0,auto
+1739,,Brief Encounters,1967.0,Kira Muratova,"Ukraine,",tt0061883,Brief Encounters,1967.0,112.0,auto
+1740,,No Bears,2022.0,Jafar Panahi,"Iran,",tt20205236,No Bears,2022.0,112.0,auto
+1743,,Color Adjustment,1992.0,Marlon Riggs,"United States,",tt0103984,Color Adjustment,1992.0,112.0,auto
+1744,,Xala,1975.0,Ousmane Sembène,"Senegal,",tt0073915,Xala,1975.0,107.0,auto
+1746,,Cloud,2024.0,Kiyoshi Kurosawa,"Japan,",tt32828123,Cloud,2024.0,112.0,auto
+1747,,"Orlando, My Political Biography",2023.0,Paul B. Preciado,"France,",tt26448981,Orlando: My Political Biography,2023.0,112.0,auto
+1748,,Mayerling,1936.0,Anatole Litvak,"France,",tt0027951,Mayerling,1936.0,112.0,auto
+1749,,Ådalen 31,1969.0,Bo Widerberg,"Sweden,",tt0065261,Adalen 31,1969.0,112.0,auto
+1751,,The Unknown,1927.0,Tod Browning,"United States,",tt0018528,The Unknown,1927.0,112.0,auto
+1752,,The Mystic,1925.0,Tod Browning,"United States,",tt0016142,The Mystic,1925.0,112.0,auto
+1753,,Last Holiday,1950.0,Henry Cass,"United Kingdom,",tt0042665,Last Holiday,1950.0,112.0,auto
+1754,,Comanche Station,1960.0,Budd Boetticher,"United States,",tt0053729,Comanche Station,1960.0,112.0,auto
+1755,,A Wedding Suit,1976.0,Abbas Kiarostami,"Iran,",tt0074782,A Suit for Wedding,1976.0,99.5,auto
+1757,,The Long Farewell,1971.0,Kira Muratova,"Ukraine,",tt0092905,The Long Farewell,1971.0,112.0,auto
+1758,,Misericordia,2024.0,Alain Guiraudie,"France,",tt32085997,Misericordia,2024.0,112.0,auto
+1759,,Caught by the Tides,2024.0,Jia Zhang-Ke,"China,",tt27958252,Caught by the Tides,2024.0,112.0,auto
+1760,,Emitaï,1971.0,Ousmane Sembène,"Senegal,",tt0067048,Emitai,1971.0,107.0,auto
+1761,,Mahjong,1996.0,Edward Yang,"Taiwan,",tt0116962,Mahjong,1996.0,112.0,auto
+1762,,Manon of the Spring,1986.0,Claude Berri,"France,",tt0091480,Manon of the Spring,1986.0,112.0,auto
+1763,,Tongues Untied,1989.0,Marlon Riggs,"United States,",tt0103099,Tongues Untied,1989.0,112.0,auto
+1764,,Freaks,1932.0,Tod Browning,"United States,",tt0022913,Freaks,1932.0,112.0,auto
+1765,,Medea,1969.0,Pier Paolo Pasolini,"Italy,",tt0066065,Medea,1969.0,112.0,auto
+1768,,The Eight Mountains,2022.0,Felix van Groeningen and Charlotte Vandermeersch,"Italy,",tt14641542,The Eight Mountains,2022.0,112.0,auto
+1769,,Porcile,1969.0,Pier Paolo Pasolini,"Italy,",tt0064828,Pigsty,1969.0,112.0,auto
+1770,,Accattone,1961.0,Pier Paolo Pasolini,"Italy,",tt0054599,Accattone,1961.0,112.0,auto
+1771,,Nowhere,1997.0,Gregg Araki,"United States,",tt0119809,Nowhere,1997.0,112.0,auto
+1774,,Circus Angel,1965.0,Albert Lamorisse,"France,",tt0059177,Circus Angel,1965.0,112.0,auto
+1775,,Benny’s Video,1992.0,Michael Haneke,"Austria,",tt0103793,Benny's Video,1992.0,112.0,auto
+1776,,The Beast,2023.0,Bertrand Bonello,"France,",tt14407336,The Beast,2023.0,112.0,auto
+1777,,Last Summer,2023.0,Catherine Breillat,"France,",tt14550346,Last Summer,2023.0,112.0,auto
+1782,,The Seventh Continent,1989.0,Michael Haneke,"Austria,",tt0098327,The Seventh Continent,1989.0,112.0,auto
+1783,,All That Breathes,2022.0,Shaunak Sen,"United Kingdom,",tt16377862,All That Breathes,2022.0,112.0,auto
+1784,,The Heroic Trio,1993.0,Johnnie To,"Hong Kong,",tt0105619,The Heroic Trio,1993.0,112.0,auto
+1785,,Black Is . . . Black Ain’t,1995.0,Marlon Riggs,"United States,",tt0109285,Black Is... Black Ain't,1994.0,106.0,auto
+1786,,Infernal Affairs II,2003.0,Andrew Lau Wai-keung and Alan Mak,"Hong Kong,",tt0369060,Infernal Affairs II,2003.0,112.0,auto
+1787,,Ryuichi Sakamoto | Opus,2023.0,Neo Sora,"Japan,",tt28490873,Ryuichi Sakamoto: Opus,2023.0,112.0,auto
+1788,,Night Games,1966.0,Mai Zetterling,"Sweden,",tt0060740,Night Games,1966.0,112.0,auto
+1789,,A Tale of Springtime,1990.0,Eric Rohmer,"France,",tt0097106,A Tale of Springtime,1990.0,112.0,auto
+1791,,Oedipus Rex,1967.0,Pier Paolo Pasolini,"Italy,",tt0061613,Oedipus Rex,1967.0,112.0,auto
+1792,,Room 999,2023.0,Lubna Playoust,"France,",tt27729122,Room 999,2023.0,112.0,auto
+1793,,Ride Lonesome,1959.0,Budd Boetticher,"United States,",tt0053220,Ride Lonesome,1959.0,112.0,auto
+1795,,I Walked with a Zombie,1943.0,Jacques Tourneur,"United States,",tt0036027,I Walked with a Zombie,1943.0,112.0,auto
+1796,,"Bim, the Little Donkey",1951.0,Albert Lamorisse,"France,",tt0137387,"Bim, the Little Donkey",1951.0,112.0,auto
+1797,,The Girls,1968.0,Mai Zetterling,"Sweden,",tt0062981,The Girls,1968.0,112.0,auto
+1798,,"Baxter, Vera Baxter",1977.0,Marguerite Duras,"France,",tt0074190,"Baxter, Vera Baxter",1977.0,112.0,auto
+1799,,EO,2022.0,Jerzy Skolimowski,"Poland,",tt19652910,EO,2022.0,112.0,auto
+1801,,The Traveler,1974.0,Abbas Kiarostami,"Iran,",tt0071859,The Traveler,1974.0,112.0,auto
+1802,,The Gospel According to Matthew,1964.0,Pier Paolo Pasolini,"Italy,",tt0058715,The Gospel According to St. Matthew,1964.0,107.38461538461537,auto
+1803,,Gervaise,1956.0,René Clément,"France,",tt0049259,Gervaise,1956.0,112.0,auto
+1804,,Homework,1989.0,Abbas Kiarostami,"Iran,",tt0097843,Homework,1989.0,112.0,auto

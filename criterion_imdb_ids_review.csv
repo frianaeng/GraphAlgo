@@ -1,0 +1,234 @@
+criterion_id,spine,criterion_title,criterion_year,criterion_director,criterion_country,reason
+41,42.0,Fishing with John,1992.0,John Lurie,"United States,",year window removed all
+65,66.0,The Orphic Trilogy,,,,no title candidates
+78,79.0,W. C. Fields—Six Short Films,1933.0,"Monte Brice, Clyde Bruckman, Edwin Middleton, Leslie Pearce, and Arthur Ripley","United States,",no title candidates
+85,86.0,Eisenstein: The Sound Years,,,,no title candidates
+87,88.0,"Ivan the Terrible, Part II",1958.0,Sergei Eisenstein,"Soviet Union,",year window removed all
+100,100.0,Beastie Boys Video Anthology,2000.0,Various,"United States,",no title candidates
+124,124.0,Carl Theodor Dreyer,,,,no title candidates
+128,128.0,Carl Th. Dreyer—My Metier,1995.0,Torben Skjødt Jensen,"Denmark,",no title candidates
+167,167.0,The Complete Monterey Pop Festival,,,,no title candidates
+169,169.0,Jimi Plays Monterey & Shake! Otis at Monterey,1986.0,Chris Hegedus…,"United States,",no title candidates
+176,176.0,The Killers,,,,ambiguous_or_low_confidence
+179,179.0,I Am Curious,,,,no title candidates
+184,184.0,"By Brakhage: An Anthology, Volume One",,Stan Brakhage,"United States,",no title candidates
+185,185.0,The Adventures of Antoine Doinel,,,,no title candidates
+197,197.0,Night and Fog,1955.0,Alain Resnais,"France,",year window removed all
+202,202.0,Indiscretion of an American Wife,1953.0,Vittorio De Sica,"United States,",ambiguous_or_low_confidence
+203,203.0,The BRD Trilogy,,,,no title candidates
+208,208.0,A Film Trilogy by Ingmar Bergman,,,,no title candidates
+213,214.0,All That Money Can Buy (a.k.a. The Devil and Daniel Webster),1941.0,William Dieterle,"United States,",no title candidates
+231,232.0,A Story of Floating Weeds / Floating Weeds: Two Films by Yasujiro Ozu,,,,no title candidates
+238,239.0,The Lower Depths,,,,ambiguous_or_low_confidence
+240,241.0,Stage and Spectacle: Three Films by Jean Renoir,,,,no title candidates
+249,250.0,John Cassavetes: Five Films,,,,no title candidates
+257,258.0,Tanner ’88,1988.0,Robert Altman,"United States,",no title candidates
+260,261.0,Fanny and Alexander,,,,ambiguous_or_low_confidence
+261,262.0,Fanny and Alexander: Television Version,1983.0,Ingmar Bergman,"Sweden,",no title candidates
+262,263.0,Fanny and Alexander: Theatrical Version,1982.0,Ingmar Bergman,"Sweden,",no title candidates
+281,282.0,Andrzej Wajda: Three War Films,,,,no title candidates
+321,322.0,The Complete Mr. Arkadin,1955.0,Orson Welles,"France,",no title candidates
+326,327.0,3 Films by Louis Malle,,,,no title candidates
+341,342.0,Six Moral Tales,,,,no title candidates
+342,343.0,The Bakery Girl of Monceau,1963.0,Eric Rohmer,"France,",no title candidates
+359,360.0,Symbiopsychotaxiplasm: Two Takes by William Greaves,,William Greaves,"United States,",no title candidates
+363,364.0,Monsters and Madmen,,,,no title candidates
+368,369.0,Paul Robeson: Portraits of the Artist,,,,no title candidates
+386,387.0,La Jetée/Sans Soleil,,,,no title candidates
+391,392.0,Three Films by Hiroshi Teshigahara,,,,no title candidates
+405,406.0,Martha Graham: Dance on Film,1959.0,Nathan Kroll,"United States,",no title candidates
+410,411.0,Berlin Alexanderplatz,1980.0,Rainer Werner Fassbinder,"Germany,",year window removed all
+417,418.0,4 by Agnès Varda,,,,no title candidates
+432,433.0,Patriotism,1966.0,Yukio Mishima and Domoto Masaki,"Japan,",no title candidates
+467,468.0,Science Is Fiction: 23 Films by Jean Painlevé,,Jean Painlevé,"France,",no title candidates
+470,471.0,"Pigs, Pimps & Prostitutes: 3 Films by Shohei Imamura",,,,no title candidates
+479,480.0,The Human Condition,1959.0,Masaki Kobayashi,"Japan,",no title candidates
+494,495.0,The Golden Age of Television,,,"United States,",no title candidates
+495,496.0,Che,2008.0,Steven Soderbergh,"France,",ambiguous_or_low_confidence
+499,500.0,Roberto Rossellini’s War Trilogy,,,,no title candidates
+507,508.0,Letters from Fontainhas: Three Films by Pedro Costa,,,,no title candidates
+516,517.0,"By Brakhage: An Anthology, Volume Two",,Stan Brakhage,"United States,",no title candidates
+517,518.0,"By Brakhage: An Anthology, Volumes One and Two",,,,no title candidates
+523,524.0,The Only Son/There Was a Father: Two Films by Yasujiro Ozu,,,,no title candidates
+527,528.0,3 Silent Classics by Josef von Sternberg,,,,no title candidates
+577,578.0,The Complete Jean Vigo,,,,no title candidates
+583,584.0,Kuroneko,1968.0,Kaneto Shindo,"Japan,",ambiguous_or_low_confidence
+586,587.0,Three Colors,,,,no title candidates
+597,598.0,World on a Wire,1973.0,Rainer Werner Fassbinder,"Germany,",no title candidates
+602,603.0,David Lean Directs Noël Coward,,,,no title candidates
+606,607.0,A Hollis Frampton Odyssey,,Hollis Frampton,"United States,",no title candidates
+614,615.0,The Gold Rush,1942.0,Charles Chaplin,"United States,",year window removed all
+630,631.0,Trilogy of Life,,,,no title candidates
+638,639.0,The Qatsi Trilogy,,,,no title candidates
+654,655.0,Pierre Etaix,,,,no title candidates
+671,672.0,3 Films by Roberto Rossellini Starring Ingrid Bergman,,,,no title candidates
+683,684.0,Martin Scorsese’s World Cinema Project No. 1,,,,no title candidates
+712,713.0,The Essential Jacques Demy,,,,no title candidates
+728,729.0,The Complete Jacques Tati,,,,no title candidates
+736,737.0,Les Blank: Always for Pleasure,1968.0,Les Blank,"United States,",no title candidates
+745,746.0,A Day in the Country,1936.0,Jean Renoir,"France,",year window removed all
+771,772.0,Blind Chance,1981.0,Krzysztof Kieślowski,"Poland,",year window removed all
+781,782.0,The Apu Trilogy,,,,no title candidates
+790,791.0,Lady Snowblood: Love Song of Vengeance,1974.0,Toshiya Fujita,"Japan,",no title candidates
+807,808.0,The Kennedy Films of Robert Drew & Associates,,Robert Drew,"United States,",no title candidates
+812,813.0,Wim Wenders: The Road Trilogy,,,,no title candidates
+823,824.0,"Muriel, or The Time of Return",1963.0,Alain Resnais,"France,",ambiguous_or_low_confidence
+836,837.0,Dekalog,1988.0,Krzysztof Kieślowski,"Poland,",no title candidates
+840,841.0,Lone Wolf and Cub,,,,no title candidates
+841,842.0,Akira Kurosawa’s Dreams,1990.0,Akira Kurosawa,"Japan,",ambiguous_or_low_confidence
+855,856.0,The Before Trilogy,,,,no title candidates
+872,873.0,Martin Scorsese’s World Cinema Project No. 2,,,,no title candidates
+880,881.0,The Marseille Trilogy,,,,no title candidates
+899,900.0,100 Years of Olympic Films: 1912–2012,,,,no title candidates
+929,930.0,Dietrich & von Sternberg in Hollywood,,,,no title candidates
+939,940.0,The Ballad of Gregorio Cortez,1982.0,Robert M. Young,"United States,",no title candidates
+945,946.0,Eight Hours Don’t Make a Day,1972.0,Rainer Werner Fassbinder,"Germany,",no title candidates
+999,1000.0,"Godzilla: The Showa-Era Films, 1954–1975",,,,no title candidates
+1035,1036.0,Bruce Lee: His Greatest Hits,,,,no title candidates
+1043,1044.0,Martin Scorsese’s World Cinema Project No. 3,,,,no title candidates
+1068,1069.0,Céline and Julie Go Boating,1974.0,Jacques Rivette,"France,",no title candidates
+1081,1082.0,The Signifyin’ Works of Marlon Riggs,,,,no title candidates
+1102,1103.0,Once Upon a Time in China: The Complete Films,,,,no title candidates
+1120,1121.0,Eyimofe (This Is My Desire),2020.0,Arie Esiri and Chuko Esiri,"Nigeria,",no title candidates
+1141,1142.0,Martin Scorsese’s World Cinema Project No. 4,,,,no title candidates
+1158,1159.0,The Infernal Affairs Trilogy,,,,no title candidates
+1161,1162.0,Three Films by Mai Zetterling,,,,no title candidates
+1162,1163.0,Michael Haneke: Trilogy,,,,no title candidates
+1167,1168.0,Lars von Trier’s Europe Trilogy,,,,no title candidates
+1171,1172.0,Two Films by Marguerite Duras,,,,no title candidates
+1176,1177.0,Small Axe,,,,no title candidates
+1185,1186.0,The Ranown Westerns: Five Films Directed by Budd Boetticher,,,,no title candidates
+1188,1189.0,Bo Widerberg’s New Swedish Cinema,,,,no title candidates
+1193,1194.0,Freaks / The Unknown / The Mystic: Tod Browning’s Sideshow Shockers,,,,no title candidates
+1196,1197.0,Jackie Chan: Emergence of a Superstar,,,,no title candidates
+1199,1200.0,The Red Balloon and Other Stories: Five Films by Albert Lamorisse,,,,no title candidates
+1202,1203.0,"Chantal Akerman Masterpieces, 1968–1978",,,,no title candidates
+1205,1206.0,Eric Rohmer’s Tales of the Four Seasons,,,,no title candidates
+1206,1207.0,The Heroic Trio / Executioners,,,,no title candidates
+1216,1217.0,Three Revolutionary Films by Ousmane Sembène,,,,no title candidates
+1222,1223.0,The Underground Railroad,2021.0,Barry Jenkins,"United States,",year window removed all
+1228,1229.0,Brief Encounters / The Long Farewell: Two Films by Kira Muratova,,,,no title candidates
+1232,1233.0,Gregg Araki’s Teen Apocalypse Trilogy,,,,no title candidates
+1235,1236.0,I Walked with a Zombie / The Seventh Victim: Produced by Val Lewton,,,,no title candidates
+1252,1253.0,A Woman of Paris,1923.0,Charles Chaplin,"United States,",ambiguous_or_low_confidence
+1256,1257.0,Jean de Florette / Manon of the Spring: Two Films by Claude Berri,,,,no title candidates
+1262,1263.0,The Three Musketeers / The Four Musketeers: Two Films by Richard Lester,,,,no title candidates
+1274,1275.0,A Confucian Confusion / Mahjong: Two Films by Edward Yang,,,,no title candidates
+1295,1296.0,Martin Scorsese’s World Cinema Project No. 5,,,,no title candidates
+1305,,The Samurai Trilogy,,,,no title candidates
+1306,,Yojimbo / Sanjuro: Two Samurai Films by Akira Kurosawa,,,,no title candidates
+1314,,Paul Robeson: Tribute to an Artist,1979.0,Saul J. Turell,"United States,",no title candidates
+1317,,La Jetée,1963.0,Chris Marker,"France,",no title candidates
+1325,,À propos de Nice,1930.0,Jean Vigo and Boris Kaufman,"France,",no title candidates
+1353,,The Shooting/Ride in the Whirlwind,,,,no title candidates
+1354,,"Gates of Heaven/Vernon, Florida",,,,no title candidates
+1355,,André Gregory & Wallace Shawn: 3 Films,,,,no title candidates
+1356,,The Complete Lady Snowblood,,,,no title candidates
+1357,,The Emigrants/The New Land,,,,no title candidates
+1358,,"A Whit Stillman Trilogy: Metropolitan, Barcelona, The Last Days of Disco",,,,no title candidates
+1359,,Trilogía de Guillermo del Toro,,,,no title candidates
+1366,,Ingmar Bergman’s Cinema,,,,no title candidates
+1376,,Fårö Document 1979,1979.0,Ingmar Bergman,"Sweden,",no title candidates
+1377,,Fårö Document,1970.0,Ingmar Bergman,"Sweden,",no title candidates
+1378,,Waiting Women,1952.0,Ingmar Bergman,"Sweden,",ambiguous_or_low_confidence
+1384,,Police Story / Police Story 2,,,,no title candidates
+1385,,The Koker Trilogy,,,,no title candidates
+1387,,King Kong vs. Godzilla,1963.0,,"Japan,",ambiguous_or_low_confidence
+1400,,Three Fantastic Journeys by Karel Zeman,,,,no title candidates
+1406,,The Complete Films of Agnès Varda,,,,no title candidates
+1407,,Varda by Agnès,2019.0,Agnès Varda,"France,",no title candidates
+1417,,Agnès de ci de là Varda,2011.0,Agnès Varda,"France,",no title candidates
+1419,,Essential Fellini,,,,no title candidates
+1422,,Three Films by Luis Buñuel,,,,no title candidates
+1423,,World of Wong Kar Wai,,,,no title candidates
+1429,,Melvin Van Peebles: Essential Films,,,,no title candidates
+1435,,The Red Balloon,1956.0,Albert Lamorisse,"France,",year window removed all
+1436,,White Mane,1953.0,Albert Lamorisse,"France,",no title candidates
+1437,,Paddle to the Sea,1966.0,William Mason,"Canada,",no title candidates
+1438,,AK 100: 25 Films by Akira Kurosawa,,,,no title candidates
+1440,,Essential Art House: 50 Years of Janus Films,,,,no title candidates
+1441,,Three Documentaries,1962.0,Saul J. Turell,"United States,",no title candidates
+1443,,Olivier’s Shakespeare,,,,no title candidates
+1444,,Eclipse Series 1: Early Bergman,,,,no title candidates
+1450,,Eclipse Series 2: The Documentaries of Louis Malle,,,,no title candidates
+1451,,Vive le Tour,1962.0,Louis Malle,"France,",no title candidates
+1454,,Phantom India,1969.0,Louis Malle,"France,",no title candidates
+1458,,Eclipse Series 3: Late Ozu,,,,no title candidates
+1464,,Eclipse Series 4: Raymond Bernard,,,,no title candidates
+1467,,Eclipse Series 5: The First Films of Samuel Fuller,,,,no title candidates
+1471,,Eclipse Series 6: Carlos Saura’s Flamenco Trilogy,,,,no title candidates
+1475,,Eclipse Series 7: Postwar Kurosawa,,,,no title candidates
+1481,,Eclipse Series 8: Lubitsch Musicals,,,,no title candidates
+1486,,Eclipse Series 9: The Delirious Fictions of William Klein,,,,no title candidates
+1490,,Eclipse Series 10: Silent Ozu—Three Family Comedies,,,,no title candidates
+1494,,Eclipse Series 11: Larisa Shepitko,,,,no title candidates
+1496,,Eclipse Series 12: Aki Kaurismäki’s Proletariat Trilogy,,,,no title candidates
+1500,,Eclipse Series 13: Kenji Mizoguchi’s Fallen Women,,,,no title candidates
+1505,,Eclipse Series 14: Rossellini’s History Films—Renaissance and Enlightenment,,,,no title candidates
+1506,,The Age of the Medici,1973.0,Roberto Rossellini,"Italy,",no title candidates
+1507,,Cartesius,1974.0,Roberto Rossellini,"Italy,",no title candidates
+1509,,Eclipse Series 15: Travels with Hiroshi Shimizu,,,,no title candidates
+1514,,Eclipse Series 16: Alexander Korda’s Private Lives,,,,no title candidates
+1519,,Eclipse Series 17: Nikkatsu Noir,,,,no title candidates
+1525,,Eclipse Series 18: Dušan Makavejev—Free Radical,,,,no title candidates
+1529,,Eclipse Series 19: Chantal Akerman in the Seventies,,,,no title candidates
+1530,,La chambre,1972.0,Chantal Akerman,"United States,",year window removed all
+1535,,Eclipse Series 20: George Bernard Shaw on Film,,,,no title candidates
+1539,,Eclipse Series 21: Oshima’s Outlaw Sixties,,,,no title candidates
+1545,,Eclipse Series 22: Presenting Sacha Guitry,,,,no title candidates
+1550,,Eclipse Series 23: The First Films of Akira Kurosawa,,,,no title candidates
+1555,,Eclipse Series 24: The Actuality Dramas of Allan King,,,,no title candidates
+1561,,Eclipse Series 25: Basil Dearden’s London Underground,,,,no title candidates
+1566,,Eclipse Series 26: Silent Naruse,,,,no title candidates
+1567,,"Flunky, Work Hard",1931.0,Mikio Naruse,"Japan,",no title candidates
+1572,,Eclipse Series 27: Raffaello Matarazzo’s Runaway Melodramas,,,,no title candidates
+1577,,Eclipse Series 28: The Warped World of Koreyoshi Kurahara,,,,no title candidates
+1583,,Eclipse Series 29: Aki Kaurismäki’s Leningrad Cowboys,,,,no title candidates
+1587,,Eclipse Series 30: Sabu!,,,,no title candidates
+1591,,Eclipse Series 31: Three Popular Films by Jean-Pierre Gorin,,,,no title candidates
+1595,,Eclipse Series 32: Pearls of the Czech New Wave,,,,no title candidates
+1601,,Eclipse Series 33: Up All Night with Robert Downey Sr.,,,,no title candidates
+1607,,Eclipse Series 34: Jean Grémillon During the Occupation,,,,no title candidates
+1611,,Eclipse Series 35: Maidstone and Other Films by Norman Mailer,,,,no title candidates
+1615,,Eclipse Series 36: Three Wicked Melodramas from Gainsborough Pictures,,,,no title candidates
+1619,,Eclipse Series 37: When Horror Came to Shochiku,,,,no title candidates
+1624,,Eclipse Series 38: Masaki Kobayashi Against the System,,,,no title candidates
+1629,,Eclipse Series 39: Early Fassbinder,,,,no title candidates
+1635,,Eclipse Series 40: Late Ray,,,,no title candidates
+1639,,Eclipse Series 41: Kinoshita and World War II,,,,no title candidates
+1645,,Eclipse Series 42: Silent Ozu—Three Crime Dramas,,,,no title candidates
+1649,,Eclipse Series 43: Agnès Varda in California,,,,no title candidates
+1650,,Uncle Yanco,1968.0,Agnès Varda,"France,",no title candidates
+1651,,Black Panthers,1970.0,Agnès Varda,"France,",year window removed all
+1655,,Eclipse Series 44: Julien Duvivier in the Thirties,,,,no title candidates
+1660,,Eclipse Series 45: Claude Autant-Lara—Four Romantic Escapes from Occupied France,,,,no title candidates
+1665,,Eclipse Series 46: Ingrid Bergman’s Swedish Years,,,,no title candidates
+1672,,A Tale of Autumn,1998.0,Eric Rohmer,"France,",no title candidates
+1679,,Toothache,1980.0,Abbas Kiarostami,"Iran,",year window removed all
+1680,,L’enfant aimé ou Je joue à être une femme mariée,1971.0,Chantal Akerman,"Belgium,",no title candidates
+1695,,"Non, Je Ne Regrette Rien (No Regret)",1993.0,Marlon Riggs,"United States,",no title candidates
+1697,,"Red, White and Blue",2020.0,Steve McQueen,"United Kingdom,",year window removed all
+1702,,Solution No. 1,1978.0,Abbas Kiarostami,"Iran,",no title candidates
+1708,,Two Solutions for One Problem,1975.0,Abbas Kiarostami,"Iran,",no title candidates
+1710,,Tribute to Teachers,1977.0,Abbas Kiarostami,"Iran,",no title candidates
+1715,,Room 666 / Room 999,,,,no title candidates
+1719,,Pasolini 101,,,,no title candidates
+1722,,Executioners,1993.0,Johnnie To and Ching Siu-tung,"Hong Kong,",ambiguous_or_low_confidence
+1730,,Colors,1976.0,Abbas Kiarostami,"Iran,",year window removed all
+1738,,CC40,,,,no title candidates
+1741,,Anthem,1991.0,Marlon Riggs,"United States,",year window removed all
+1742,,Breaktime,1972.0,Abbas Kiarostami,"Iran,",no title candidates
+1745,,Orderly or Disorderly,1981.0,Abbas Kiarostami,"Iran,",no title candidates
+1750,,A Tale of Summer,1996.0,Eric Rohmer,"France,",no title candidates
+1756,,Le 15/8,1973.0,Chantal Akerman and Samy Szlingerbaum,"Belgium,",no title candidates
+1766,,Lovers Rock,2020.0,Steve McQueen,"United Kingdom,",year window removed all
+1767,,"The Wes Anderson Archive: Ten Films, Twenty-Five Years",,,,no title candidates
+1772,,The Chorus,1982.0,Abbas Kiarostami,"Iran,",year window removed all
+1773,,Affirmations,1990.0,Marlon Riggs,"United States,",no title candidates
+1778,,Streetwise/Tiny: The Life of Erin Blackwell,,,,no title candidates
+1779,,Alex Wheatle,2020.0,Steve McQueen,"United Kingdom,",no title candidates
+1780,,Eclipse Series 47: Abbas Kiarostami—Early Shorts and Features,,,,no title candidates
+1781,,Bread and Alley,1970.0,Abbas Kiarostami,"Iran,",no title candidates
+1790,,So Can I,1975.0,Abbas Kiarostami,"Iran,",no title candidates
+1794,,Saute ma ville,1968.0,Chantal Akerman,"Belgium,",no title candidates
+1800,,Mangrove,2020.0,Steve McQueen,"United Kingdom,",year window removed all
