@@ -29,8 +29,8 @@ class ActorNetwork:
         # =========================
         # LOAD DATA
         # =========================
-        moviedf = pd.read_csv(pthToMovieFile)
-        actordf = pd.read_csv(pthToActorFile)
+        moviedf = pd.read_csv(pthToMovieFile, sep="\t", low_memory=False,engine="python",error_bad_lines=False,warn_bad_lines=True)
+        actordf = pd.read_csv(pthToActorFile, sep="\t", low_memory=False,engine="python",error_bad_lines=False,warn_bad_lines=True)
         print(len(actordf))
         # =========================
         # BUILD MOVIE → ACTORS LOOKUP
