@@ -322,5 +322,23 @@ class ActorNetwork:
     
         return components
 
+    def getConnectedComponentSizes(self):
+        visited = set()
+        sizes = []
+    
+        for actor in self.costars:
+            if actor in visited:
+                continue
+    
+            parent = self._BFS(actor)
+    
+            component = [v for v, p in parent.items() if p is not None or v == actor]
+    
+            for v in component:
+                visited.add(v)
+    
+            sizes.append(len(component))
+    
+        return sizes
 
     

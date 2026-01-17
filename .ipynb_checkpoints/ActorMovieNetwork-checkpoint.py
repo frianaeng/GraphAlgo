@@ -47,6 +47,39 @@ class ActorMovieNetwork:
     def degreeActor(self, actor):
         return len(self.getMovies(actor))
 
+    def getConnectedComponentSizes(self):
+        visited_actors = set()
+        visited_movies = set()
+        sizes = []
+    
+        for actor in self.actor_to_movies:
+            if actor in visited_actors:
+                continue
+    
+            stack = [("actor", actor)]
+            visited_actors.add(actor)
+            size = 0
+    
+            while stack:
+                kind, node = stack.pop()
+                size += 1
+    
+                if kind == "actor":
+                    for movie in self.actor_to_movies[node]:
+                        if movie not in visited_movies:
+                            visited_movies.add(movie)
+                            stack.append(("movie", movie))
+                else:
+                    for a in self.movie_to_actors[node]:
+                        if a not in visited_actors:
+                            visited_actors.add(a)
+                            stack.append(("actor", a))
+    
+            sizes.append(size)
+    
+        return sizes
+
+
     # -------------------------
     # Persistence
     # -------------------------

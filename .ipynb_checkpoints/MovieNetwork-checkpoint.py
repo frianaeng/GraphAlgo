@@ -97,6 +97,31 @@ class MovieNetwork:
             reverse=True
         )[:k]
 
+    def getConnectedComponentSizes(self):
+        visited = set()
+        sizes = []
+    
+        for movie in self.adjacency:
+            if movie in visited:
+                continue
+    
+            stack = [movie]
+            visited.add(movie)
+            size = 0
+    
+            while stack:
+                u = stack.pop()
+                size += 1
+                for v in self.adjacency[u]:
+                    if v not in visited:
+                        visited.add(v)
+                        stack.append(v)
+    
+            sizes.append(size)
+    
+        return sizes
+
+
     # -----------------------------
     # Persistence
     # -----------------------------
